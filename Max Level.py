@@ -1,7 +1,8 @@
 import pandas as pd
 import os
 
-
+input_folder = "PAS Freemont CSV"
+output_file = "Freemont Highest.csv"
 
 
 english_level = {
@@ -24,9 +25,6 @@ math_level = {
 
 reverse_english_level = {v: k for k, v in english_level.items()}
 reverse_math_level = {v: k for k, v in math_level.items()}
-
-input_folder = "PAS Milpitas CSV"
-output_file = "Highest Level.csv"
 
 all_data = []
 

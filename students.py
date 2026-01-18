@@ -2,8 +2,8 @@ import os
 import pandas as pd
 import re
 
-input_folder = "PAS Milpitas CSV"
-output_file = "students.csv"
+input_folder = "PAS Freemont CSV"
+output_file = "Freemont students.csv"
 
 all_data = []
 

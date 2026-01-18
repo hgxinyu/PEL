@@ -34,6 +34,13 @@ def clean_csv_files(folder_path, nan_threshold):
             df.rename(columns={"DOE            (Date of Enrollment MM/DD/YY)": ""}, inplace=True)
 
 
+            columns_to_drop = [col for col in df.columns if pd.isna(col) or 'Unnamed:' in str(col)]
+            df.drop(columns=columns_to_drop, inplace=True)
+
+            df = df.rename(columns={df.columns[10]: "PEL Wks. Level"})
+            df = df.rename(columns={df.columns[11]: "PEL Wks. No."})
+
+
             cutoff_index = None
 
             for i, row in df.iterrows():
@@ -48,24 +55,11 @@ def clean_csv_files(folder_path, nan_threshold):
             df.to_csv(file_path, index=False)
             print(f"Processed {filename}")
 
-
-    # for filename in os.listdir(folder_path):
-    #     if not filename.endswith(".csv"):
-    #         continue
-
-    #     file_path = os.path.join(folder_path, filename)
-    #     df = pd.read_csv(file_path)
-
-
-
-    #     output_path = os.path.join(folder_path, filename)
-    #     df.to_csv(output_path, index=False)
-
-
-
 folder_path = "PAS Freemont"
 output_folder = "PAS Freemont CSV"
 
-turn_into_csv(folder_path, output_folder)
+# turn_into_csv(folder_path, output_folder)
 clean_csv_files(output_folder, nan_threshold=10)
+
+
 
