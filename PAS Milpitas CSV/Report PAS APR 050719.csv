@@ -1,0 +1,188 @@
+No.,Subject (M/E),Last Name,First Name,School Grade,DOB (MM/DD/YY),Address,Tel:,Email,DOE (Date of Enrollment MM/DD/YY),PEL Wks. Level,PEL Wks. No.,Notes,"Code                  (C, N, A, R)",Mth Absent
+1.0,E,Angrish,Siyona,K,2013-03-30 00:00:00,"276 Silverlake Cr., Milpitas, CA",4083848471,maitri.angrish@gmail.com,2019-03-01 00:00:00,Ek2,5p,,A,2019-04-30 00:00:00
+2.0,M,Angrish,Siyona,K,2013-03-30 00:00:00,"276 Silverlake Cr., Milpitas, CA",4083848471,maitri.angrish@gmail.com,2019-03-01 00:00:00,MK4,10p,,A,2019-04-30 00:00:00
+3.0,E,Angrish,Tishya,3,2009-10-18 00:00:00,"276 Silverlake Cr., Milpitas, CA",4083848471,maitri.angrish@gmail.com,2019-03-01 00:00:00,EG3,50p,,A,2019-04-30 00:00:00
+4.0,M,Angrish,Tishya,3,2009-10-18 00:00:00,"276 Silverlake Cr., Milpitas, CA",4083848471,maitri.angrish@gmail.com,2019-03-01 00:00:00,MG5,50p,,A,2019-04-30 00:00:00
+22.0,E,Chung,Olivia,10,2003-06-09 00:00:00,1168 Moonlight Way Milpitas CA 95035,(408)-386-7609,eapc88@yahoo.com.hk,2018-09-01 00:00:00,EM1,41p,,A,2019-04-30 00:00:00
+30.0,E,Fang,Yunxi,5,2006-10-27 00:00:00,"45 Washington Drive, Milpitas, CA 95035",408-6019656,lilianyu365@gmail.com,2018-08-16 00:00:00,EG8,101p,,A,2019-04-30 00:00:00
+31.0,M,Fang,Yunxi,4,2006-10-27 00:00:00,"45 Washington Drive, Milpitas, CA 95035",408-6019656,lilianyu365@gmail.com,2018-08-16 00:00:00,MM2,46p,,A,2019-04-30 00:00:00
+32.0,E,Gim,Daniel,k,10/10/2012,"837 Penitencia St, Milpitas, CA 95035",979-587-8311,hyeonmin0505@gmail.com,5/1/2018,EK4,51p,,A,2019-04-30 00:00:00
+33.0,M,Gim,Daniel,k,10/10/2012,"837 Penitencia St, Milpitas, CA 95035",979-587-8311,hyeonmin0505@gmail.com,6/18/2018,MG2,106p,WILL BE ABSENT AND BACK IN SUMMER,A,2019-04-30 00:00:00
+34.0,E,Gim,Yunsu,1,3/2/ 2011,"837 Penitencia St, Milpitas, CA 95035",979-587-8311,hyeonmin0505@gmail.com,2/7/2018,EG3,85p,WILL BE ABSENT AND BACK IN SUMMER,A,2019-04-30 00:00:00
+35.0,M,Gim,Yunsu,1,3/2/ 2011,"837 Penitencia St, Milpitas, CA 95035",979-587-8311,hyeonmin0505@gmail.com,6/18/2018,MG7,61p,WILL BE ABSENT AND BACK IN SUMMER,A,2019-04-30 00:00:00
+36.0,M,Hoang,Jevin,3,2010-04-22 00:00:00,1720 Arana Ct. Milpitas CA 95035,925-8609108,linhly1204@gmail.com,2018-11-01 00:00:00,MK3,106p,will be absent from April. Moving to LA. Current as of March,A,2019-04-30 00:00:00
+38.0,E,Hu,Carmen,K,7/10/2012,485 Greathouse Drive,408-5208230,ying.8420@foxmail.com,1/6/2019,EK5,11p,WILL BE ABSENT AND BACK IN SUMMER,A,2019-04-30 00:00:00
+39.0,M,Hu,Carmen,K,7/10/2012,485 Greathouse Drive,408-5208230,ying.8420@foxmail.com,1/6/2019,MG2,101p,WILL BE ABSENT AND BACK IN SUMMER,A,2019-04-30 00:00:00
+44.0,E,Huang,Benjamin,7,2006-03-25 00:00:00,170 Pontiac Way Fremont CA 94539,510-4493797,szhang3@gmail.com,43346,EG7,6p,,A,2019-04-30 00:00:00
+45.0,M,Huang,Benjamin,7,2006-03-25 00:00:00,170 Pontiac Way Fremont CA 94539,510-4493797,szhang3@gmail.com,2018-09-03 00:00:00,MM2,91p,,A,2019-04-30 00:00:00
+46.0,E,Huang,Christopher,4,2009-06-28 00:00:00,170 Pontiac Way Fremont CA 94539,510-4493797,szhang3@gmail.com,2018-09-03 00:00:00,EG3,76p,,A,2019-04-30 00:00:00
+47.0,M,Huang,Christopher,4,2009-06-28 00:00:00,170 Pontiac Way Fremont CA 94539,510-4493797,szhang3@gmail.com,2018-09-03 00:00:00,MG7,106p,,A,2019-04-30 00:00:00
+52.0,E,Jay,Deng,11,7/15/2002,"1756 Country Club Drive, Milpitas",408-9640775,Ginadeng@yahoo.com,1/11/2019,EG10,41p,,A,2019-04-30 00:00:00
+53.0,M,Jay,Deng,11,7/15/2002,"1756 Country Club Drive, Milpitas",408-9640775,Ginadeng@yahoo.com,1/11/2019,MH1,80p,,A,2019-04-30 00:00:00
+63.0,E,Lin,Aurelian,3,7/31/2009,1202 Daniel CT,510-4680756,tunnelin@yahoo.com,6/18/2018,EG8,91p,,A,2019-04-30 00:00:00
+64.0,M,Lin,Aurelian,3,7/31/2009,1202 Daniel CT,510-4680756,tunnelin@yahoo.com,6/18/2018,MG9,28p,,A,2019-04-30 00:00:00
+65.0,E,Lin,Olivia,K,7/26/2013,1202 Daniel CT,510-4680756,tunnelin@yahoo.com,6/18/2018,EK3,15p,,A,2019-04-30 00:00:00
+66.0,M,Lin,Olivia,K,7/26/2013,1202 Daniel CT,510-4680756,tunnelin@yahoo.com,6/18/2018,MG4,81p,,A,2019-04-30 00:00:00
+71.0,M,Lou ,Tony,5,,"700 S.Abel St. Unit 424, Milpitas, CA 95035",408-2056256,alou0411@gmail.com,5/1/2018,MG9,91p,WILL QUIT MATH IN APR,A,2019-04-30 00:00:00
+72.0,E,Loui,Audrey,K,7/23/2012,"505 Topham Ct. Milpitas, CA 95035",408-8346209,KarilynK@gmail.com,5/22/2018,EG3,60P,will change to Math from Mar. ,A,2019-04-30 00:00:00
+78.0,E,Lu,Lucy,8,9/8/2005,"703 Iroquois Way, Fremont",408-5158337,panyanzhen@gmail.com,1/16/2019,EG6,1p,will be absent ,A,2019-04-30 00:00:00
+89.0,E,Malviya,Shaurya,1,2012-12-07 00:00:00,1289 Elkwood Drive,408-6804761,girsimmy@gmail.com,2018-12-19 00:00:00,EG4,1p,,A,2019-04-30 00:00:00
+90.0,M,Malviya,Shaurya,1,2012-12-07 00:00:00,1289 Elkwood Drive,408-6804761,girsimmy@gmail.com,2018-12-19 00:00:00,MG5,1p,,A,2019-04-30 00:00:00
+111.0,E,Ragala,Pooja,3,2009-01-01 00:00:00,"1610 Adams Ave#1, Milpitas, CA 95035",858-8866865,kalahasti.madhuri@gmail.com,2018-08-22 00:00:00,EG7,61p,"ABSENT IN APRIL, WILL BE BACK. Current as of march",A,2019-04-30 00:00:00
+112.0,M,Ragala,Pooja,3,2009-01-01 00:00:00,"1610 Adams Ave#1, Milpitas, CA 95035",858-8866865,kalahasti.madhuri@gmail.com,2018-08-22 00:00:00,MG10,41p,"ABSENT IN APRIL, WILL BE BACK. Current as of march",A,2019-04-30 00:00:00
+116.0,E,Sivaruban,Dhivya,0,2013-03-30 00:00:00,559 Tumble Grass Terrace Fremont CA 94539,408-2064921,jthulasi@gmail.com,2018-09-10 00:00:00,EG1,106p,WILL BE ABSENT AND BACK IN MAY,A,2019-04-30 00:00:00
+123.0,E,Sun,Anita,8,10/27/2004,"1059 Geronimo, Fremont",626-2319501,sunh19722@gmail.com,1/16/2019,EG7,1p,,A,2019-04-30 00:00:00
+124.0,E,Tamizhinian,Nithik,1,2012-05-07 00:00:00,"440 Dixon landing Road, Milpitas",669-2435620,hemajess@gmail.com,2018-10-02 00:00:00,EG1,41p,,A,2019-04-30 00:00:00
+125.0,M,Tamizhinian,Nithik,1,2012-05-07 00:00:00,"440 Dixon landing Road, Milpitas",669-2435620,hemajess@gmail.com,2018-10-02 00:00:00,MG5,76p,,A,2019-04-30 00:00:00
+136.0,E,Ulpindo,Dominic,6,2007-09-26 00:00:00,856 Pheland Ct. Milpitas CA 95035,408-7999473,ulpindofamily@gmail.com,2018-09-03 00:00:00,EG7,16p,WILL BE ABSENT,A,2019-04-30 00:00:00
+137.0,M,Ulpindo,Dominic,6,2007-09-26 00:00:00,856 Pheland Ct. Milpitas CA 95035,408-7999473,ulpindofamily@gmail.com,2018-09-03 00:00:00,MG10,81p,,A,2019-04-30 00:00:00
+141.0,E,Vijayan,Somaja,k,2012-10-21 00:00:00, Washington Drive,408-4760346,hemalathar@gmai.com,2018-11-13 00:00:00,EK1,71p,,A,2019-04-30 00:00:00
+142.0,M,Vijayan,Somaja,k,2012-10-21 00:00:00, Washington Drive,408-4760346,hemalathar@gmai.com,2018-11-13 00:00:00,MK3,27p,,A,2019-04-30 00:00:00
+149.0,E,Wang,Janice,5,2007-09-09 00:00:00,"77 Duttonwood Lane, Milpitas, CA 95035",405-290-8673,jjjjune@yahoo.com,7/16/2018,EG10,31p,,A,2019-04-30 00:00:00
+150.0,M,Wang,Janice,5,2007-09-09 00:00:00,"77 Duttonwood Lane, Milpitas, CA 95035",405-290-8673,jjjjune@yahoo.com,7/16/2018,MM1,31p,,A,2019-04-30 00:00:00
+151.0,E,Wang,Serena,3,6/8/2009,"77 Duttonwood Lane, Milpitas, CA 95035",405-290-8673,jjjjune@yahoo.com,7/16/2018,EG7,36p,,A,2019-04-30 00:00:00
+152.0,M,Wang,Serena,3,6/8/2009,"77 Duttonwood Lane, Milpitas, CA 95035",405-290-8673,jjjjune@yahoo.com,7/16/2018,MG9,21p,,A,2019-04-30 00:00:00
+158.0,E,Wu,Jasmine,5,1/30/2007,"280 Gerald Cir Milpitas, CA 95035",9257898152,miki3333lxx@gmail.com,2018-08-16 00:00:00,EG5,6p,2018-06-01 00:00:00,A,2019-04-30 00:00:00
+159.0,M,Wu,Jasmine,5,1/30/2007,"280 Gerald Cir Milpitas, CA 95035",9257898152,miki3333lxx@gmail.com,2018-08-16 00:00:00,MG9,97p,2018-06-01 00:00:00,A,2019-04-30 00:00:00
+162.0,E,Wu,Ziyu,k,2012-02-23 00:00:00,"31 San Miguel Ct. Apt1, Milpitas, CA95035",415-539-6322,dgxtdht@gmail.com,2018-12-01 00:00:00,EG4,86p,returnning student,A,2019-04-30 00:00:00
+163.0,M,Wu,Ziyu,k,2012-02-23 00:00:00,"31 San Miguel Ct. Apt1, Milpitas, CA95035",415-539-6322,dgxtdht@gmail.com,2018-12-01 00:00:00,MG4,76p,returnning student,A,2019-04-30 00:00:00
+169.0,M,Xu,Nathaniel,1,5/27/2011,"34136 Duke Ln, Fremont, CA, 94555",(215)-407-4929,,2019-02-01 00:00:00,MG6,51p,WAS HERE BEFORE,A,2019-04-30 00:00:00
+5.0,E,Au,Kassidy,1,2011-06-07 00:00:00,"73 Henriques Lane, Milpitas, CA 95035",415-4122005,cyu220@gmail.com,2018-08-16 00:00:00,EG2,31p,,C,
+6.0,M,Au,Kassidy,1,2011-06-07 00:00:00,"73 Henriques Lane, Milpitas, CA 95035",415-4122005,cyu220@gmail.com,2018-08-16 00:00:00,MG6,46p,,C,
+7.0,E,Chen,Ada,k,2013-04-29 00:00:00,155Valmy Street Milpitas CA 95035,925-6639258,anniechang719@gmail.com,2018-09-16 00:00:00,EK1,87p,,C,
+8.0,M,Chen,Ada,k,2013-04-29 00:00:00,155Valmy Street Milpitas CA 95035,925-6639258,anniechang719@gmail.com,2018-09-16 00:00:00,MK4,41p,,C,
+9.0,M,Chen,Hannah,5,9/18/2008,"1966 Yosemite Dr., Milpitas, CA 95035",(408)-818-0511,dieuguang888@yahoo.com,2018-01-01 00:00:00,MM1,46p,,C,
+10.0,E,Chen,Joyce,1,2012-06-04 00:00:00,"1951 badgerwood Lane, Milpitas, CA",408-8361457,xunkezhang2012@gmail.com,2019-02-01 00:00:00,EK5,110S,,C,
+11.0,M,Chen,Joyce,1,2012-06-04 00:00:00,"1951 badgerwood Lane, Milpitas, CA",408-8361457,xunkezhang2012@gmail.com,2019-02-01 00:00:00,MG3,10P,,C,
+12.0,E,Chi,Sylvia,k,2013-07-06 00:00:00,103 Smithwood Street,408-8925525,hw.winnie@yahoo.om,2018-11-01 00:00:00,EK3,89p,,C,
+13.0,M,Chi,Sylvia,k,2013-07-06 00:00:00,103 Smithwood Street,408-8925525,hw.winnie@yahoo.om,2018-11-01 00:00:00,MG2,54p,,C,
+14.0,E,Chow,Aiden,6,7/13/2006,"506 Bristle Grass Ter, Fremont, CA 94539","510-260-2020, 650-863-1668",ginah.kid@gmail.com,2018-08-01 00:00:00,EM5,86p,2018-07-01 00:00:00,C,
+15.0,M,Chow,Aiden,6,7/13/2006,"506 Bristle Grass Ter, Fremont, CA 94539","510-260-2020, 650-863-1668",ginah.kid@gmail.com,2018-08-01 00:00:00,MH3,47p,2018-07-01 00:00:00,C,
+16.0,E,Chu,Alexander,4,2009-01-14 00:00:00,"350 Carnegie Drive, Milpitas, CA 95035",16504830611,shiamofly@gmail.com,2018-10-18 00:00:00,EG10,36P,HALF MONTH,C,H
+17.0,M,Chu,Alexander,4,2009-01-14 00:00:00,"350 Carnegie Drive, Milpitas, CA 95035",16504830611,shiamofly@gmail.com,2018-10-18 00:00:00,MG9,86p,HALF MONTH,C,H
+18.0,E,Chu,Alicia,1,2012-05-30 00:00:00,"350 Carnegie Drive, Milpitas, CA 95035",16504830611,shiamofly@gmail.com,2018-10-18 00:00:00,EG1,76p,HALF MONTH,C,H
+19.0,M,Chu,Alicia,1,2012-05-30 00:00:00,"350 Carnegie Drive, Milpitas, CA 95035",16504830611,shiamofly@gmail.com,2018-10-18 00:00:00,MG6,1p,HALF MONTH,C,H
+20.0,E,Chung,Kelly,6,2007-04-30 00:00:00,1922 Queen Mary Ct San Jose CA 95132,(408)-729-1568,kchung05@yahoo.com,2018-09-01 00:00:00,EG10,77p,HALF MONTH,C,H
+21.0,M,Chung,Kelly,6,2007-04-30 00:00:00,1922 Queen Mary Ct San Jose CA 95132,(408)-729-1568,kchung05@yahoo.com,2018-09-01 00:00:00,MG11,61p,HALF MONTH,C,H
+23.0,M,Claire,Ji,1,5/5/2012,"261 E.Warren Cmn, Fremont, CA, 95035",(510)-918-9418,zf426@hotmail.com,9/10/2018,MG6,35p,2018-06-01 00:00:00,C,
+24.0,E,Clements,Grace,7,12/19/2005,"120 Dixon Landing Road #164, Milpitas,",408-4207045,gcoria@stanford.edu,1/17/2019,EG5,82p,HALF MONTH,C,H
+25.0,M,Clements,Grace,7,12/19/2005,"120 Dixon Landing Road #164, Milpitas,",408-4207045,gcoria@stanford.edu,1/17/2019,MG8,101p,HALF MONTH,C,H
+26.0,E,Deng,Natalie,1,2012-05-11 00:00:00,1983 Conway St. Milpitas CA 95035,4086368305,man.si.jiang@gmail.com,2018-09-02 00:00:00,EG2,31p,,C,
+27.0,E,Dollaga,Virgil Wayne,1,2012-07-04 00:00:00,133 N. Temple Drive Milpitas CA 95035,408-9415572,balgoscookie1985@icloud.com,2018-09-06 00:00:00,EK2,41P,,C,
+28.0,M,Dollaga,Virgil Wayne,1,2012-07-04 00:00:00,133 N. Temple Drive Milpitas CA 95035,408-9415572,balgoscookie1985@icloud.com,2018-09-06 00:00:00,MG2,31p,,C,
+29.0,E,Evelyn,Ji,3,5/28/2009,"261 E.Warren Cmn, Fremont, CA, 95035",(510)-918-9418,zf426@hotmail.com,9/10/2018,EG8,46p,2018-06-01 00:00:00,C,
+37.0,M,Hsu,KaiWei,6,2020-02-17 00:00:00,"46957 Lundy Terrace, Fremont, CA ",408-3188659,lisahsu0601@gmail.com,2019-02-01 00:00:00,MM1,20p,,C,
+40.0,E,Hu,Joshua,3,2010-06-08 00:00:00,354 Sequim Common Fremont CA 94539,408-2235588,nkimjj@hotmail.com,43347,EG6,11p,ABSENT for half month,C,H
+41.0,M,Hu,Joshua,3,2010-06-08 00:00:00,354 Sequim Common Fremont CA 94539,408-2235588,nkimjj@hotmail.com,43347,MG8,36p,ABSENT for half month,C,H
+42.0,E,Hu,Kai,2,2011-05-26 00:00:00,354 Sequim Common Fremont CA 94539,408-2235588,nkimjj@hotmail.com,43345,EG4,71p,ABSENT for half month,C,H
+43.0,M,Hu,Kai,2,2011-05-26 00:00:00,354 Sequim Common Fremont CA 94539,408-2235588,nkimjj@hotmail.com,43345,MG6,101p,ABSENT for half month,C,H
+54.0,E,Krishnakumar,ChinMayi,3,4/15/2010,"433 Singley Drive, Milpitas, CA 95035",408-7721437,skiku98@gmail.com,9/4/2018,EG7,26p,,C,H
+55.0,M,Krishnakumar,ChinMayi,3,4/15/2010,"433 Singley Drive, Milpitas, CA 95035",408-7721437,skiku98@gmail.com,9/4/2018,MG9,36p,,C,H
+56.0,E,Krishnakumar,Narayan,1,1/10/2012,"433 Singley Drive, Milpitas, CA 95035",408-7721437,skiku98@gmail.com,9/4/2018,EG5,6p,,C,H
+57.0,M,Krishnakumar,Narayan,1,4/15/2010,"433 Singley Drive, Milpitas, CA 95035",408-7721437,skiku98@gmail.com,9/4/2018,MG6,21p,,C,H
+58.0,E,Kwan,Justin,3,2010-08-25 00:00:00,465 Seingley Drive milpitas CA 95035,408-564-3501,,2018-09-02 00:00:00,EG4,53p,,C,
+59.0,M,Kwan,Justin,3,2010-08-25 00:00:00,465 Seingley Drive milpitas CA 95035,408-564-3501,,2018-09-02 00:00:00,MG7,108p,,C,
+60.0,M,Le,Sophie,5,2/5/2007,"536 Maple Ave. Milpitas, CA 95035",4085136899,fatcat888@hotmail.com,2018-08-01 00:00:00,MM1,81p,HALF MONTH,C,H
+61.0,E,Lim,Bailey,K,4/14/2005,"1226 Elkwood. Milpitas, CA 95035",415-516-3978,khwlim@yahoo.com,6/16/2016,EG6,1p,HALF MONTH,C,H
+62.0,M,Lim,Bailey,K,4/14/2005,"1225 Elkwood. Milpitas, CA 95035",415-516-3978,khwlim@yahoo.com,6/16/2016,MG8,29p,HALF MONTH,C,H
+67.0,E,Loh,Adrian,1,2011-11-20 00:00:00,"46919 Fernald Common, Fremont, CA ",408-3980707,chingnee23@hotmail.com,2019-03-01 00:00:00,EG2,80p,,C,
+68.0,M,Loh,Adrian,1,2011-11-20 00:00:00,"46919 Fernald Common, Fremont, CA ",408-3980707,chingnee23@hotmail.com,2019-03-01 00:00:00,MG3,80p,,C,
+69.0,M,Loh,Nathan,6,2007-07-24 00:00:00,"46919 Fernald Common, Fremont, CA ",408-3980707,chingnee23@hotmail.com,2019-02-01 00:00:00,MM1,80p,,C,
+70.0,E,Lou,Tony,5, ,"700 S.Abel St. Unit 424, Milpitas, CA 95035",408-2056256,alou0411@gmail.com,2018-09-05 00:00:00,EG5,26p,2ND SUBJ,C,
+73.0,M,Loui,Vera,5,8/24/2009,"505 Topham Ct. Milpitas, CA 95035",408-8346209,KarilynK@gmail.com,2019-01-01 00:00:00,MG9,1p,"Corrected:  Started 1/1/19 , sister started 5/22/18",C,
+74.0,E,Lu,Crystal,8,10/28/2003,"422217 Balcow St. Fremont, CA 94538",510-953-1878,shuhuaou2015@gmail.com,2018-08-01 00:00:00,EM2,16p,2018-06-01 00:00:00,C,
+75.0,M,Lu,Crystal,8,10/28/2003,"422217 Balcow St. Fremont, CA 94538",510-953-1878,shuhuaou2015@gmail.com,2018-08-01 00:00:00,MH4,76p,2018-06-01 00:00:00,C,
+76.0,E,Lu,Kelly,7,11/23/2007,"1528 Canal Street, Milpitas",669-9002958,lily71374@gmail.com,1/18/2019,EG5,1p,,C,
+77.0,E,Lu,Kenneth,7,10/28/2006,"1528 Canal Street, Milpitas",669-9002958,lily71374@gmail.com,1/18/2019,EG5,76p,,C,
+79.0,E,Lui,Jeremy,4,3/11/2007,"318 Stacey Common. Fremont, CA 94539",408-466-7884,mickeysc2002@yahoo.com.hk,11/9/2016,EG10,31p,,C,H
+80.0,M,Lui,Jeremy,4,3/11/2007,"318 Stacey Common. Fremont, CA 94539",408-466-7884,mickeysc2003@yahoo.com.hk,11/9/2016,MM2,61p,,C,H
+81.0,E,Ly,Jocelyn,4,5/11/2009,628 Manzano St.Milpitas,408-3942074,chrissyk111@yahoo.com,1/1/2019,EG4,11p,,C,
+82.0,M,Ly,Jocelyn,4,5/11/2009,628 Manzano St.Milpitas,408-3942074,chrissyk111@yahoo.com,1/1/2019,MG6,11p,,C,
+83.0,E,Ly,Tyler,k,6/11/2012,628 Manzano St.Milpitas,408-3942074,chrissyk111@yahoo.com,1/1/2019,EK3,81p,,C,
+84.0,M,Ly,Tyler,k,6/11/2012,628 Manzano St.Milpitas,408-3942074,chrissyk111@yahoo.com,1/1/2019,MG2,61p,,C,
+85.0,E,Ma ,Jayden,K,1/7/2012,"36 Homme Way, Milpitas, CA 95035",408-8580609,Sandyma20@gmail.com,4/20/2018,EG4,26p,,C,
+86.0,E,Ma ,Jennah,K,1/7/2012,"36 Homme Way, Milpitas, CA 95035",408-8580609,Sandyma20@gmail.com,4/20/2018,EG4,81p,,C,
+87.0,E,Ma ,Justin,K,1/7/2012,"36 Homme Way, Milpitas, CA 95035",408-8580609,Sandyma20@gmail.com,4/20/2018,EG4,67p,,C,
+88.0,M,Mai,Jessica,6,11/10/2005,"975 Vidalarga, Milpitas, CA 95035",4088900316,sonphung2@yahoo.com,3/12/2018,MM1,17p,,C,
+91.0,E,Mullapudi,Srinithya,3,8/13/2010,"282 Jorgens Drive, Milpitas",571-2946019,divyagutha007@gmail.com,1/6/2019,EG5,16p,,C,
+92.0,M,Mullapudi,Srinithya,3,8/13/2010,"282 Jorgens Drive, Milpitas",571-2946019,divyagutha007@gmail.com,1/6/2019,MG8,101p,,C,
+93.0,E,Nguyen,Ann,2,2010-10-26 00:00:00,473 Murray Street Milpitas CA 95035,408-4760429,nguyen-n74@yahoo.com,2018-09-20 00:00:00,EG4,68p,WILL BE ABSENT IN MAY AND BACK IN JULY,C,
+94.0,M,Nguyen,Ann,2,2010-10-26 00:00:00,473 Murray Street Milpitas CA 95035,408-4760429,nguyen-n74@yahoo.com,2018-09-20 00:00:00,MG8,42p,,C,
+95.0,E,Nguyen,Catherine,1,2011-12-09 00:00:00,"501 Mulphy Ranch Rd 461, Milpitas, 95035",650-773-4182,tommynguyen91@gmail.com,2017-08-18 00:00:00,EG2,105p,,C,
+96.0,M,Nguyen,Catherine,1,2011-12-09 00:00:00,"501 Mulphy Ranch Rd 461, Milpitas, 95035",650-773-4182,tommynguyen91@gmail.com,2018-08-01 00:00:00,MG4,6p,,C,
+97.0,E,Nguyen,Chloe,4,11/1/2007,"126 Poppy Ct, Milpitas, CA 95035",408-859-7251,vivianpalace@alo.com,8/1/2017,EH1,1p,WILL ADD MATH FROM JAN,C,
+98.0,M,Nguyen,Chloe,4,11/1/2007,"126 Poppy Ct, Milpitas, CA 95035",408-859-7251,vivianpalace@alo.com,2019-01-01 00:00:00,MG11,91p,Corrected: 2nd subj. Started 1/1/19 ,C,
+99.0,E,Nguyen,Kyle,k,3/21/2012,"126 Poppy Ct, Milpitas, CA 95035",408-859-7251,vivianpalace@alo.com,8/1/2017,EG4,28p,WILL ADD MATH FROM JAN,C,
+100.0,M,Nguyen,Kyle,k,3/21/2012,"126 Poppy Ct, Milpitas, CA 95035",408-859-7251,vivianpalace@alo.com,2019-01-01 00:00:00,MG4,76p,Corrected: 2nd subj. Started 1/1/19 ,C,
+101.0,E,Nguyen,Timothy,2,2009-09-14 00:00:00,"501 Mulphy Ranch Rd 461, Milpitas, 95035",650-773-4182,tommynguyen91@gmail.com,2017-08-18 00:00:00,EG3,61p,,C,
+102.0,M,Nguyen,Timothy,2,2009-09-14 00:00:00,"501 Mulphy Ranch Rd 461, Milpitas, 95035",650-773-4182,tommynguyen91@gmail.com,2018-08-01 00:00:00,MG4,71p,,C,
+103.0,E,Parlakisik,Demir,2,,"407 Fanyon St, Milpitas, CA, 95035",4086439734,,9/4/2018,EG6,106p,WILL BE ABSENT FROM MAY,C, 
+104.0,M,Parlakisik,Demir,2,,"407 Fanyon St, Milpitas, CA, 95035",4086439734,,9/4/2018,MG8,39p,WILL BE ABSENT FROM MAY,C, 
+105.0,E,Peng,Abbie,1,2009-10-27 00:00:00,"242 Uvas Street， Milpitas, CA95035",215-939-0304,kypeng@gmail.com,2018-08-16 00:00:00,EG7,77p,2018-07-01 00:00:00,C,
+106.0,M,Peng,Abbie,1,2009-10-27 00:00:00,"242 Uvas Street， Milpitas, CA95035",215-939-0304,kypeng@gmail.com,2018-08-16 00:00:00,MG9,81p,2018-07-01 00:00:00,C,
+107.0,E,Peng,Bodhi,K,2012-02-21 00:00:00,"242 Uvas Street， Milpitas, CA95035",215-939-0304,kypeng@gmail.com,2018-10-02 00:00:00,EG2,16p, ,C,
+108.0,M,Peng,Bodhi,K,2012-02-21 00:00:00,"242 Uvas Street， Milpitas, CA95035",215-939-0304,kypeng@gmail.com,2018-10-02 00:00:00,MG5,26p, ,C,
+109.0,E,Qiu,Edison,k,2012-07-15 00:00:00,"231 Dixon Landing Rd, Milpitas, CA 95035",510-566-6932,,2018-09-02 00:00:00,EG1,66p, ,C, 
+110.0,M,Qiu,Edison,k,2012-07-15 00:00:00,"231 Dixon Landing Rd, Milpitas, CA 95035",510-566-6932,,2018-09-02 00:00:00,MG2,76p, ,C, 
+113.0,E,Shah,Reya,2,4/27/2012,"27 Vienna Drive, Milpitas",408-4443615,laxa123@gmail.com,1/6/2019,EG4,46p,WILL BE ABSENT FOR MAY,C,
+114.0,M,Shah,Reya,2,4/27/2012,"27 Vienna Drive, Milpitas",408-4443615,laxa123@gmail.com,1/6/2019,MG7,1p,WILL BE ABSENT FOR MAY,C,
+115.0,M,Shu,Wynn,7,2007-01-31 00:00:00,"48967 Air Fern Common, Fremont, CA",408-6730285,vshu555@yahoo.com,2019-02-01 00:00:00,MM1,20p,WILL BE ABSENT FOR MAY,C,
+117.0,E,Son,Dominic,K,2011-07-15 00:00:00,",235 Currlin Circle, Milpitas, CA 95035",4085868276,dsong1025@gmail.com,2018-08-16 00:00:00,EK4,24p,,C,
+118.0,M,Son,Dominic,K,2011-07-15 00:00:00,",235 Currlin Circle, Milpitas, CA 95035",4085868276,dsong1025@gmail.com,2018-08-16 00:00:00,MG1,33p,,C,
+119.0,E,Sreepada,Eesha,3,2010-06-06 00:00:00,"1103 Hermina Street, Milpitas, CA",408-4800093,devisreepada@yahoo.com,2018-10-18 00:00:00,EG1,36p,,C,
+120.0,M,Sreepada,Eesha,3,2010-06-06 00:00:00,"1103 Hermina Street, Milpitas, CA",408-4800093,devisreepada@yahoo.com,2019-01-01 00:00:00,MG6,51p,Corrected: 2nd subj. Started 1/1/19 ,C,
+121.0,M,Sreepada,Ramya,pk,2014-01-28 00:00:00,"1103 Hermina Street, Milpitas, CA",408-4800093,devisreepada@yahoo.com,2018-10-18 00:00:00,EK1,45P,,C,
+122.0,E,Sudharsan,Madhuvanthi,1,10/22/2011,"94 Washington Sov Dr. Milpitas, CA 95035",408-9075618,gsudhy@gmail.com,2/16/2018,EG4,41p,WILL BE ABSENT FOR MAY,C,
+126.0,E,Tan,Edwina,1,7/15/2011,102 Parc Place Dr.,4085868276,scwangll@hotmail.com,6/18/2018,EG5,28p,,C,
+127.0,M,Tan,Edwina,1,7/15/2011,102 Parc Place Dr.,4085868276,scwangll@hotmail.com,6/18/2018,MG9,51p,,C,
+128.0,E,Tong,Theodore,1,2012-07-18 00:00:00,"48984 Woodgroove Common , Fremont",619-7924603,defe20080131@gmail.com,2019-02-01 00:00:00,EG2,45p, ,C,
+129.0,M,Tong,Theodore,1,2012-07-18 00:00:00,"48984 Woodgroove Common , Fremont",619-7924603,defe20080131@gmail.com,2019-02-01 00:00:00,MG5,6p, ,C,
+130.0,E,Tran,Leah,k,6/5/2012,"190 Orion Ct., Milpitas, CA, 95035",6268985588,thaohuongnguyen7@gmail.com,1/22/2018,EG5,48p,,C,
+131.0,M,Tran,Leah,k,6/5/2012,"190 Orion Ct., Milpitas, CA, 95035",6268985588,thaohuongnguyen7@gmail.com,1/22/2018,MG4,42p,,C,
+132.0,E,Tran,Leo,3,4/8/2009,"190 Orion Ct., Milpitas, CA, 95035",6268985588,thaohuongnguyen7@gmail.com,1/22/2018,EG7,41p,,C,
+133.0,M,Tran,Leo,3,4/8/2009,"190 Orion Ct., Milpitas, CA, 95035",6268985588,thaohuongnguyen7@gmail.com,1/22/2018,MG10,85p,,C,
+134.0,E,Tuncer,Ege,3,10/29/201,339 Arbor Way,408-6674797,amercikoglu@gmail.com,2018-11-01 00:00:00,EG6,86p,,C,
+135.0,M,Tuncer,Ege,2,10/29/201,339 Arbor Way,408-6674797,amercikoglu@gmail.com,2018-11-01 00:00:00,MG8,91p,,C,
+138.0,E,Valiyaveetil,Atul,3,2009-03-10 00:00:00,"1775 Milmont #P206, Milpitas, CA",5103246085,valiyave@gmail.com,2018-08-02 00:00:00,EG8,51p,WILL BE ABSENT ,C,
+139.0,E,Vasantha,Nikshitha,k,2012-11-15 00:00:00,"1610 Adams Ave#4, Milpitas, CA",408-4201336,vasantha.pj@gmail.com,2018-10-10 00:00:00,EG3,66p,,C,
+140.0,M,Vasantha,Nikshitha,k,2012-11-15 00:00:00,"1610 Adams Ave#4, Milpitas, CA",408-4201336,vasantha.pj@gmail.com,2018-10-10 00:00:00,MG6,6p,,C,
+143.0,E,Vivekananth,Nittesh,k,2012-11-15 00:00:00,"1610 Adams Ave#4, Milpitas, CA",408-4201336,vasantha.pj@gmail.com,2018-10-10 00:00:00,EG3,61p,,C,
+144.0,M,Vivekananth,Nittesh,k,2012-11-15 00:00:00,"1610 Adams Ave#4, Milpitas, CA",408-4201336,vasantha.pj@gmail.com,2018-10-10 00:00:00,MG5,41P,,C,
+145.0,E,Wang,Chris,2,2011-09-02 00:00:00,46942 Lundy Terrace Fremont CA 94539,408-2030878,nancy8313@gmail.com,2018-09-06 00:00:00,EG5,56p,,C,
+146.0,M,Wang,Chris,2,2011-09-02 00:00:00,46942 Lundy Terrace Fremont CA 94539,408-2030878,nancy8313@gmail.com,2018-09-06 00:00:00,MG7,16p,,C,
+147.0,E,Wang,Ethan,4,9/28/2008,"1954 Lindon Ln, Milpitas, CA 95035",408-262-2312,ycwang777@yahoo.com,2018-08-16 00:00:00,EG6,38p,2018-07-01 00:00:00,C,
+148.0,M,Wang,Ethan,4,9/28/2008,"1954 Lindon Ln, Milpitas, CA 95035",408-262-2312,ycwang777@yahoo.com,2018-08-16 00:00:00,MG10,34p,2018-07-01 00:00:00,C,
+153.0,E,Wang,Vera,K,2/5/2011,"592 Singley Dr. Milpitas, CA 95035",4082057865,pocoyo88889@hotmail.com,4/1/2018,EG7,28p,,C,
+154.0,M,Wang,Vera,K,2/5/2011,"592 Singley Dr. Milpitas, CA 95035",4082057865,pocoyo88889@hotmail.com,4/1/2018,MG10,57p,,C,
+155.0,M,Wilson,Jonathan,6,2007-04-03 00:00:00,"48890 Green Valley Road, Fremont, CA",408-9307656,yxcliu@gmail.com,2019-02-01 00:00:00,MM1,80p,,C,
+156.0,E,Wu,Huanlong,4,5/29/2006,"155 Carnegie Dr., Milpitas, CA 95035",916-517-8026,yingyi8888@yahoo.com,8/17/2017,EG7,106P,WILL BE ABSENT,C,
+157.0,M,Wu,Huanlong,4,5/29/2006,"155 Carnegie Dr., Milpitas, CA 95035",916-517-8026,yingyi8888@yahoo.com,8/17/2017,MH2,86p,WILL BE ABSENT,C,
+160.0,E,Wu,Yingyi,8,8/25/2001,"155 Carnegie Dr., Milpitas, CA 95035",916-517-8026,yingyi8888@yahoo.com,2018-08-16 00:00:00,EG7,81p,WILL BE ABSENT,C,
+161.0,M,Wu,Yingyi,8,8/25/2001,"155 Carnegie Dr., Milpitas, CA 95035",916-517-8026,yingyi8888@yahoo.com,2018-08-16 00:00:00,MH4,1p,WILL BE ABSENT,C,
+164.0,M,Xiao,Kaiwen,7,12/15/2004,"41469 Mellinium Ter, ",9258859331,zhongming-hu@hotmail.com,2019-02-01 00:00:00,MH4,71p,WAS HERE IN THE SUMMER,C,H
+165.0,E,Xiao,Kaiwen,7,12/15/2004,"41469 Mellinium Ter, ",9258859331,zhongming-hu@hotmail.com,2019-02-01 00:00:00,EG8,91p,WAS HERE IN THE SUMMER,C,H
+166.0,E,Xu,Kaden,4,1/14/2009,"709 Parvin Dr. Milpitas, CA 95035",408-263-8318,eva_exu@hotmail.com,9/4/2018,EG8,25p,2018-04-01 00:00:00,C,
+167.0,M,Xu,Kaden,4,1/14/2009,"709 Parvin Dr. Milpitas, CA 95035",408-263-8318,eva_exu@hotmail.com,9/4/2018,MG10,95p,2018-04-01 00:00:00,C,
+168.0,M,Xu,kenneth,1,1/14/2009,"709 Parvin Dr. Milpitas, CA 95035",408-263-8318,eva_exu@hotmail.com,2018-08-01 00:00:00,MM1,21p,2018-01-01 00:00:00,C,
+170.0,E,xu,Sissi,5,2009-02-10 00:00:00,"165 Tonopah Drive, Fremont, CA",408-8961078,xufeixixi@gmail.com,2019-02-01 00:00:00,EG5,10p,,C,
+171.0,E,Yan,Leon,1,2012-04-10 00:00:00,"246 Krismer st, Milpitas CA",408-966-9542,yankunxiang@gmail.com,2019-03-01 00:00:00,EK5,50p,,C,
+172.0,E,Yan ,Lily,K,4/18/2012,49060 Rosette Grass Ter,4087247835,mhyan.ca@gmail.com,6/18/2018,EG4,86p,,C,
+173.0,M,Yan ,Lily,K,4/18/2012,49060 Rosette Grass Ter,4087247835,mhyan.ca@gmail.com,6/18/2018,MG6,11p,,C,
+174.0,E,Yang,Sunny,7,2006-07-31 00:00:00,867 Del Rio Ct Milpitas CA 95035,408-4809069,candychen9069@gmail.com,2018-09-02 00:00:00,EG6,31p,,C,
+175.0,M,Yang,Sunny,7,2006-07-31 00:00:00,867 Del Rio Ct Milpitas CA 95035,408-4809069,candychen9069@gmail.com,2018-09-02 00:00:00,MM1,63p,,C,
+176.0,M,Yee,Brianna,,5/8/2009,"1243 N Hillview Dr. Milpitas, CA 95035",409-409-2405,liyayang@yahoo.com,7/17/2018,MG10,81p,HALF MONTH,C,H
+177.0,E,Yu,Felice,5,11/21/2007,"305 Bixny Dr. Milpitas, CA 95035",510-350-6303,guanwen1973@icloud.com,9/4/2018,EG6,4p,HALF MONTH,C,H
+178.0,M,Yu,Felice,5,11/21/2007,"305 Bixny Dr. Milpitas, CA 95035",510-350-6303,guanwen1973@icloud.com,9/4/2018,MG10,101p,HALF MONTH,C,H
+179.0,E,Yu,Jasmine,4,6/30/2009,"305 Bixny Dr. Milpitas, CA 95035",510-350-6303,guanwen1973@icloud.com,9/4/2018,EG5,21p,HALF MONTH,C,H
+180.0,M,Yu,Jasmine,4,6/30/2009,"305 Bixny Dr. Milpitas, CA 95035",510-350-6303,guanwen1973@icloud.com,9/4/2018,MG9,84p,HALF MONTH,C,H
+181.0,E,Zhu,Lindsay,2,12/20/2009,6183 Potnero Dr,4089168838,cdai@rocketems.com,7/10/2018,EG6,21p,WIL ADD ENGLISH FROM APR,C,
+48.0,E,Huang,Joshua,K,10/2/2009,"20029 Austin Ln, Castro Valley, CA 94546",650-863-8858,wanglai@gmail.com,4/2/2016,EG6,56p,Instructor Children,F,
+49.0,M,Huang,Joshua,K,10/2/2009,"20029 Austin Ln, Castro Valley, CA 94546",650-863-8858,wanglai@gmail.com,4/2/2016,MG11,59p,Instructor Children,F,
+50.0,E,Huang,Sophia,PK,2014-05-02 00:00:00,"20029 Austin Ln, Castro Valley, CA 94546",650-863-8858,wanglai@gmail.com,2018-08-27 00:00:00,EK1,21p,Instructor Children,F,
+51.0,M,Huang,Sophia,PK,2014-05-02 00:00:00,"20029 Austin Ln, Castro Valley, CA 94546",650-863-8858,wanglai@gmail.com,2018-08-27 00:00:00,MK1,51p,Instructor Children,F,
+,M,Loui,Audrey,K,7/23/2012,"505 Topham Ct. Milpitas, CA 95035",408-8346209,KarilynK@gmail.com,2019-04-01 00:00:00,MG5,60P,,N,2019-04-01 00:00:00
+182.0,M,Zhu,Lindsay,2,12/20/2009,6183 Potnero Dr,4089168838,cdai@rocketems.com,2019-04-01 00:00:00,MG9,21p,,N,2019-04-01 00:00:00
+3.0,E,Zhang,Ben,3,2009-12-20 00:00:00,458 Singley Drive milpitas CA 95035,408-6665459,pengmao.jane@gmail.com,2019-04-01 00:00:00,EG5,80p,"ABSENT FROM FEB, will be back from April.",R,2019-04-01 00:00:00
+4.0,E,Zhang,Joe,1,2012-08-17 00:00:00,458 Singley Drive milpitas CA 95035,408-6665459,pengmao.jane@gmail.com,2019-04-01 00:00:00,EG4,19p,"ABSENT FROM FEB, will be back from April.",R,2019-04-01 00:00:00
+5.0,M,Zhang,Ben,3,2009-12-20 00:00:00,458 Singley Drive milpitas CA 95035,408-6665459,pengmao.jane@gmail.com,2019-04-01 00:00:00,MG9,1p,WILL BE ABSENT FROM FEB,R,2019-04-01 00:00:00
+6.0,M,Zhang,Joe,1,2012-08-17 00:00:00,458 Singley Drive milpitas CA 95035,408-6665459,pengmao.jane@gmail.com,2019-04-01 00:00:00,MG7,87p,WILL BE ABSENT FROM FEB,R,2019-04-01 00:00:00
