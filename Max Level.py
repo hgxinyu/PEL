@@ -2,26 +2,6 @@ import pandas as pd
 import os
 
 
-input_folder = "PAS Milpitas"
-output_folder = "Pas Milpitas CSV"
-
-def clean(location):
-    for filename in os.listdir("PAS "+location):
-        if filename.endswith(".xlsx") :
-            print("processing file: "+filename)
-
-            file_path = os.path.join(input_folder, filename)
-
-            df = pd.read_excel(file_path, sheet_name="S")
-            df = df.iloc[3:]
-
-
-            csv_filename = filename.replace(".xlsx", ".csv")
-            csv_path = os.path.join(output_folder, csv_filename)
-
-            df.to_csv(csv_path, index=False,header=False)
-
-# clean("Milpitas")
 
 
 english_level = {
