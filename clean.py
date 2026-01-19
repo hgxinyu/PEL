@@ -55,11 +55,31 @@ def clean_csv_files(folder_path, nan_threshold):
             df.to_csv(file_path, index=False)
             print(f"Processed {filename}")
 
-folder_path = "PAS Freemont"
-output_folder = "PAS Freemont CSV"
+# folder_path = "PAS Freemont"
+# output_folder = "PAS Freemont CSV"
 
-# turn_into_csv(folder_path, output_folder)
-clean_csv_files(output_folder, nan_threshold=10)
+# # turn_into_csv(folder_path, output_folder)
+# clean_csv_files(output_folder, nan_threshold=10)
 
+
+folders = ["PAS Fremont CSV", "PAS Milpitas CSV"]
+
+for folder_path in folders:
+    for filename in os.listdir(folder_path):
+        if "DEC" in filename.upper():
+
+            digit = filename[-5]
+            if digit.isdigit():
+                if digit == "0":
+                    new_filename = filename[:-6] + "19"
+
+                else:
+                    last_digit = int(digit)
+                    new_last_digit = str(last_digit - 1)
+                    new_filename = filename[:-5] + new_last_digit
+            old_path = os.path.join(folder_path, filename)
+            new_path = os.path.join(folder_path, new_filename+".csv")
+            os.rename(old_path, new_path)
+            print(f"Renamed {filename} to {new_filename}")
 
 
