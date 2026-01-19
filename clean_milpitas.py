@@ -55,8 +55,8 @@ def clean_csv_files(folder_path, nan_threshold):
             df.to_csv(file_path, index=False)
             print(f"Processed {filename}")
 
-folder_path = "PAS Fremont"
-output_folder = "PAS Fremont CSV"
+#folder_path = "PAS Fremont"
+#output_folder = "PAS Fremont CSV"
 
 folder_path1 = "PAS Milpitas"
 output_folder1 = "PAS Milpitas CSV"
@@ -64,10 +64,10 @@ output_folder1 = "PAS Milpitas CSV"
 #turn_into_csv(folder_path, output_folder)
 #clean_csv_files(output_folder, nan_threshold=10)
 
-#turn_into_csv(folder_path1, output_folder1)
-#clean_csv_files(output_folder1, nan_threshold=10)
+turn_into_csv(folder_path1, output_folder1)
+clean_csv_files(output_folder1, nan_threshold=10)
 
-folders = ["PAS Fremont CSV", "PAS Milpitas CSV"]
+folders = ["PAS Milpitas CSV"]
 
 for folder_path in folders:
     for filename in os.listdir(folder_path):

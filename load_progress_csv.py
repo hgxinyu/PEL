@@ -54,6 +54,13 @@ def execute_sql(conn, sql: str) -> None:
     conn.commit()
 
 
+def fetch_count(conn, sql: str) -> int:
+    with conn.cursor() as cur:
+        cur.execute(sql)
+        row = cur.fetchone()
+    return int(row[0]) if row else 0
+
+
 def main() -> int:
     base_dir = Path(__file__).resolve().parent
     load_dotenv(base_dir / ".env")
@@ -78,15 +85,19 @@ def main() -> int:
 
     driver, conn = get_connection()
     try:
+        deleted_count = fetch_count(conn, "SELECT COUNT(*) FROM pel.progress")
         execute_sql(conn, "TRUNCATE pel.progress")
         if driver == "psycopg":
             copy_csv_psycopg(conn, copy_progress, progress_csv)
         else:
             copy_csv_psycopg2(conn, copy_progress, progress_csv)
+        loaded_count = fetch_count(conn, "SELECT COUNT(*) FROM pel.progress")
     finally:
         conn.close()
 
     print("CSV load complete.")
+    print(f"Records deleted: {deleted_count}")
+    print(f"Records loaded: {loaded_count}")
     return 0
 
 

@@ -48,6 +48,13 @@ def build_progress(output_folder: str) -> pd.DataFrame:
             df["Last Name"] = df["Last Name"].astype(str).str.strip()
             df["Email"] = df["Email"].astype(str).str.strip()
             df["PEL Wks. Level"] = df["PEL Wks. Level"].astype(str).str.strip().str.upper()
+            if "Subject (M/E)" not in df.columns:
+                level_subjects = df["PEL Wks. Level"].astype(str).str.strip().str.upper()
+                df["Subject (M/E)"] = level_subjects.str.startswith("E").map(
+                    {True: "E", False: "M"}
+                )
+            else:
+                df["Subject (M/E)"] = df["Subject (M/E)"].astype(str).str.strip().str.upper()
 
             df["Date"] = file_date
             rows.append(
@@ -87,7 +94,10 @@ def main() -> int:
     combined = pd.concat([fremont_progress, milpitas_progress], ignore_index=True)
 
     combined = combined.rename(columns={"Subject (M/E)": "Subject"})
-    combined["Subject"] = combined["Subject"].replace({"E": "English", "M": "Math"})
+    subject_levels = combined["PEL Wks. Level"].astype(str).str.strip().str.upper()
+    combined["Subject"] = subject_levels.str.startswith("E").map(
+        {True: "English", False: "Math"}
+    )
     if "Full Name" in combined.columns:
         combined = combined.drop(columns=["Full Name"])
     full_name = (
@@ -109,6 +119,23 @@ def main() -> int:
     combined.insert(
         insert_at, "lvs", pd.to_numeric(lvs_values, errors="coerce").astype("Int64")
     )
+
+    # Drop rows missing required fields.
+    required_cols = ["Full Name", "Subject", "PEL Wks. Level", "lvs", "Date"]
+    for col in required_cols:
+        if col not in combined.columns:
+            raise KeyError(f"Missing required column: {col}")
+
+    def is_blank(series: pd.Series) -> pd.Series:
+        stripped = series.astype(str).str.strip()
+        return series.isna() | stripped.eq("") | stripped.str.upper().isin(
+            ["NAN", "NONE", "NULL"]
+        )
+
+    blank_mask = pd.concat(
+        [is_blank(combined[col]) for col in required_cols], axis=1
+    ).any(axis=1)
+    combined = combined.loc[~blank_mask].reset_index(drop=True)
 
     combined.to_csv("progress.csv", index=False)
 

@@ -1,4 +1,4 @@
-No.,Subject (M/E),Last Name,First Name,School Grade,DOB (MM/DD/YY),Address,Tel:,Email,DOE (Date of Enrollment MM/DD/YY),PEL Wks. Level,PEL Wks. No.,Notes,"Code                  (C, N, A, R)",Mth Absent
+No.,Subject1 (M/E),Last Name,First Name,School Grade,DOB (MM/DD/YY),Address,Tel:,Email,DOE (Date of Enrollment MM/DD/YY),PEL Wks. Level,PEL Wks. No.,Notes,"Code                  (C, N, A, R)",Mth Absent
 1,E,Au,Kassidy,1,2011-06-07 00:00:00,"73 Henriques Lane, Milpitas, CA 95035",415-4122005,cyu220@gmail.com,2018-08-01 00:00:00,EG4,1P, ,C,
 2,M,Au,Kassidy,1,2011-06-07 00:00:00,"73 Henriques Lane, Milpitas, CA 95035",415-4122005,cyu220@gmail.com,2018-08-01 00:00:00,MG7,61p, ,C,
 3,E,Bakhtyar,Mariam,4,2009-12-23 00:00:00,"1645 Cortez st,Milpitas,CA 95035, Milpitas, CA 95035",(408)772-3818,zeyais@gmail.com,2019-08-19 00:00:00,EG3,100p,,C,
@@ -17,7 +17,7 @@ No.,Subject (M/E),Last Name,First Name,School Grade,DOB (MM/DD/YY),Address,Tel:,
 16,M,Chu,Alicia,2,2012-05-30 00:00:00,"350 Carnegie Drive, Milpitas, CA 95035",16504830611,cyu220@gmail.com,2019-08-19 00:00:00,MG7,100P,,C,
 17,E,Chung,Kelly,6,2007-04-30 00:00:00,1922 Queen Mary Ct San Jose CA 95132,(408)-729-1568,kchung05@yahoo.com,2019-09-01 00:00:00,EM1,45P,"ABSENT AFTER JULY 15, BACK IN SEP",C,
 18,M,Chung,Kelly,6,2007-04-30 00:00:00,1922 Queen Mary Ct San Jose CA 95132,(408)-729-1568,kchung05@yahoo.com,2019-09-01 00:00:00,MM1,21P,"ABSENT AFTER JULY 15, BACK IN SEP",C,
-19,M,Chung,Olivia,11,2003-06-09 00:00:00,1168 Moonlight Way Milpitas CA 95035,(408)-386-7609,eapc88@yahoo.com.hk,2019-09-01 00:00:00,MH2,81P,,C,43585.0
+19,M,Chung,Olivia,11,2003-06-09 00:00:00,1168 Moonlight Way Milpitas CA 95035,(408)-386-7609,eapc88@yahoo.com.hk,2019-09-01 00:00:00,MH2,81P,,C,43585
 20,M,Cruz,Adriel,8,2006-10-12 00:00:00,500 Amalfiloop,8325127040,albita626@gmail.com,2019-09-01 00:00:00,EG4,5P,,C,
 21,E,Cruz,Adriel,8,2006-10-12 00:00:00,500 Amalfiloop,8325127040,albita626@gmail.com,2019-09-01 00:00:00,MG7,41P,2ND,C,
 22,E,Deng,Natalie,2,2012-05-11 00:00:00,"1983 Conway St., Milpitas, CA 95035",4086368305,zeyais@gmail.com,2019-08-16 00:00:00,EG4,10P,,C,
