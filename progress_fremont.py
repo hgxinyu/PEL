@@ -4,7 +4,7 @@ import re
 from datetime import datetime
 
 # output_folder = "Pas Milpitas CSV"
-output_folder = "Pas Freemont CSV"
+output_folder = "Pas Fremont CSV"
 
 month_map = {
     "JAN": 1, "FEB": 2, "MAR": 3, "APR": 4,
@@ -72,4 +72,4 @@ progress_df = (
     .reset_index(drop=True)
 )
 
-progress_df.to_csv("Freemont progress.csv", index=False)
+progress_df.to_csv("Fremont progress.csv", index=False)

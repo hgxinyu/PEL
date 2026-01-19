@@ -48,6 +48,12 @@ def copy_csv_psycopg2(conn, sql: str, csv_path: Path) -> None:
     conn.commit()
 
 
+def execute_sql(conn, sql: str) -> None:
+    with conn.cursor() as cur:
+        cur.execute(sql)
+    conn.commit()
+
+
 def main() -> int:
     base_dir = Path(__file__).resolve().parent
     load_dotenv(base_dir / ".env")
@@ -56,32 +62,26 @@ def main() -> int:
         print("DATABASE_URL is not set. Put it in .env or set it in your shell.")
         return 1
 
-    students_csv = base_dir / "students.csv"
     progress_csv = base_dir / "progress.csv"
 
-    missing = [str(p) for p in [students_csv, progress_csv] if not p.exists()]
+    missing = [str(progress_csv)] if not progress_csv.exists() else []
     if missing:
         print("Missing CSV files:")
         for path in missing:
             print(f"  - {path}")
         return 1
 
-    copy_students = (
-        "COPY pel.students (first_name, last_name, dob_raw, address, email, enrollment_date_raw) "
-        "FROM STDIN WITH (FORMAT csv, HEADER true)"
-    )
     copy_progress = (
-        "COPY pel.progress (first_name, last_name, email, subject, pel_wks_level, pel_wks_no, progress_date) "
+        "COPY pel.progress (first_name, last_name, email, subject, pel_wks_level, lvs, pel_wks_no, progress_date, center) "
         "FROM STDIN WITH (FORMAT csv, HEADER true)"
     )
 
     driver, conn = get_connection()
     try:
+        execute_sql(conn, "TRUNCATE pel.progress")
         if driver == "psycopg":
-            copy_csv_psycopg(conn, copy_students, students_csv)
             copy_csv_psycopg(conn, copy_progress, progress_csv)
         else:
-            copy_csv_psycopg2(conn, copy_students, students_csv)
             copy_csv_psycopg2(conn, copy_progress, progress_csv)
     finally:
         conn.close()
