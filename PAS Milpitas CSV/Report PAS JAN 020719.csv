@@ -1,4 +1,4 @@
-No.,Subject1 (M/E),Last Name,First Name,School Grade,DOB (MM/DD/YY),Address,Tel:,Email,DOE (Date of Enrollment MM/DD/YY),PEL Wks. Level,PEL Wks. No.,Notes,"Code                  (C, N, A, R)",Mth Absent
+﻿No.,Subject1 (M/E),Last Name,First Name,School Grade,DOB (MM/DD/YY),Address,Tel:,Email,DOE (Date of Enrollment MM/DD/YY),PEL Wks. Level,PEL Wks. No.,Notes,"Code                  (C, N, A, R)",Mth Absent
 1,E,Au,Kassidy,1,2011-06-07 00:00:00,"73 Henriques Lane, Milpitas, CA 95035",415-4122005,cyu220@gmail.com,2018-08-16 00:00:00,EG1,61p,,C,
 2,M,Au,Kassidy,1,2011-06-07 00:00:00,"73 Henriques Lane, Milpitas, CA 95035",415-4122005,cyu220@gmail.com,2018-08-16 00:00:00,MG5,80p,,C,
 3,E,Bao,Ethan,K,2011-12-01 00:00:00,"1362 Westwood Way, Milpitas, CA95035",408-643-9310,wxjing2016@gmail.com,2018-08-01 00:00:00,EG4,53P,will be absent from Jan. ,A,2019-01-01 00:00:00
@@ -87,7 +87,7 @@ No.,Subject1 (M/E),Last Name,First Name,School Grade,DOB (MM/DD/YY),Address,Tel:
 86,M,Nair,Rinu,7,2006-06-04 00:00:00,"49013 Feather Grass Terrace, Fremont, CA ",510-9458530,usa.anu@gmail.com,2018-10-18 00:00:00,MG8,71p,"absent from Dec. time conflict, but referring new stu.",A,
 87,E,Nguyen,Ann,2,2010-10-26 00:00:00,473 Murray Street Milpitas CA 95035,408-4760429,nguyen-n74@yahoo.com,2018-09-20 00:00:00,EG3,101P,,C,
 88,M,Nguyen,Ann,2,2010-10-26 00:00:00,473 Murray Street Milpitas CA 95035,408-4760429,nguyen-n74@yahoo.com,2018-09-20 00:00:00,MG7,60p,,C,
-89,E,Nguyen,Catherine,1,2011-12-09 00:00:00,"501 Mulphy Ranch Rd 461, Milpitas, 95035",650-773-4182,tommynguyen91@gmail.com,2017-08-18 00:00:00,EG3,8P,,C,
+89,E,Nguyen,Catherine,1,2011-12-09 00:00:00,"501 Mulphy Ranch Rd 461, Milpitas, 95035",650-773-4182,tommynguyen91@gmail.com,2017-08-18 00:00:00,EG2,8P,,C,
 90,M,Nguyen,Catherine,1,2011-12-09 00:00:00,"501 Mulphy Ranch Rd 461, Milpitas, 95035",650-773-4182,tommynguyen91@gmail.com,2018-08-01 00:00:00,MG3,10P,,C,
 91,E,Nguyen,Chloe,4,11/1/2007,"126 Poppy Ct, Milpitas, CA 95035",408-859-7251,vivianpalace@alo.com,8/1/2017,EM5,1p,WILL ADD MATH FROM JAN,C,
 92,M,Nguyen,Chloe,4,11/1/2007,"126 Poppy Ct, Milpitas, CA 95035",408-859-7251,vivianpalace@alo.com,8/1/2017,MG8,9P,2nd subj. Started 8/1/17 Not on PAS.,N,

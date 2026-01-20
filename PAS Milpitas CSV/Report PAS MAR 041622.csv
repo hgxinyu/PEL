@@ -1,4 +1,4 @@
-No.,Subject (M/E),Last Name,First Name,School Grade,DOB (MM/DD/YY),Address,Tel:,Email,DOE (Date of Enrollment MM/DD/YY),PEL Wks. Level,PEL Wks. No.,Notes,"Code                  (C, N, A, R)",Mth Absent,Column1
+﻿No.,Subject (M/E),Last Name,First Name,School Grade,DOB (MM/DD/YY),Address,Tel:,Email,DOE (Date of Enrollment MM/DD/YY),PEL Wks. Level,PEL Wks. No.,Notes,"Code                  (C, N, A, R)",Mth Absent,Column1
 1,E,HUANG,Gavin,9,2006-08-30 00:00:00,1396 El Camino Real Unit 108,415-819-5426,yuan@aperfectexpress.com,2021-06-01 00:00:00,EM4,100p,,A,,
 2,E,Tam,Winona,4,2012-06-29 00:00:00,201 Goldenrain Ave,9168657621,susanna011216@yahoo.com,2021-11-16 00:00:00,EG4,110p,,A,,
 3,M,Tam,Winona,4,2012-06-29 00:00:00,201 Goldenrain Ave,9168657621,susanna011216@yahoo.com,2021-11-16 00:00:00,MG8,50p,,A,,
@@ -156,7 +156,7 @@ No.,Subject (M/E),Last Name,First Name,School Grade,DOB (MM/DD/YY),Address,Tel:,
 155,E,Yuan,Arick,K,2016-02-09 00:00:00," 450 s 19th st, San Jose",4088292099,Gfyuan@gmail.com,2022-03-25 00:00:00,EK1,100p,,N,,
 156,E,Lim,Bryce,K,2015-09-23 00:00:00,"729 Carino Ter, Milpitas, CA",14152727469,lloydlim21@gmail.com,3022-03-01 00:00:00,EK3,110p,,N,,
 157,M,Lim,Bryce,K,2015-09-23 00:00:00,"729 Carino Ter, Milpitas, CA",14152727469,lloydlim21@gmail.com,3022-03-01 00:00:00,MG5,110p,2,N,,
-158,E,Nguyen,Catherine,4,2011-12-09 00:00:00,"501 Mulphy Ranch Rd 461, Milpitas, 95035",650-773-4182,tommynguyen91@gmail.com,2022-03-01 00:00:00,EG4,110p,,N,,
+158,E,Nguyen,Catherine,4,2011-12-09 00:00:00,"501 Mulphy Ranch Rd 461, Milpitas, 95035",650-773-4182,tommynguyen91@gmail.com,2022-03-01 00:00:00,EG5,110p,,N,,
 159,M,Wu,Christopher,9,2007-07-09 00:00:00," 69 Jacklin Circle, Milpitas, CA",4085683605,cjmaria@gmail.com,2022-03-01 00:00:00,MM2,70p,,N,,
 160,E,Kuo,Ethan,4,2012-06-22 00:00:00," 2145 Old Piedmont Rd, San Jose",5122175106,linwc529@gmail.com,2022-03-01 00:00:00,EK3,110p,,N,,
 161,M,Kuo,Ethan,4,2012-06-22 00:00:00," 2145 Old Piedmont Rd, San Jose",5122175106,linwc529@gmail.com,2022-03-01 00:00:00,MG5,110s,,N,,

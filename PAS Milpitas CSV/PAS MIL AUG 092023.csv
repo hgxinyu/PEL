@@ -1,4 +1,4 @@
-No.,Subject (M/E),Last Name,First Name,School Grade,DOB (MM/DD/YY),Address,Tel:,Email,DOE (Date of Enrollment MM/DD/YY),PEL Wks. Level,PEL Wks. No.,Notes,"Code                  (C, N, A, R)",Mth Absent,24
+﻿No.,Subject (M/E),Last Name,First Name,School Grade,DOB (MM/DD/YY),Address,Tel:,Email,DOE (Date of Enrollment MM/DD/YY),PEL Wks. Level,PEL Wks. No.,Notes,"Code                  (C, N, A, R)",Mth Absent,24
 1,E,Chen,Ada,5,2013-04-29 00:00:00,"155Valmy Street, Milpitas 95035",925-6639258,anniechang719@gmail.com,2023-06-21 00:00:00,EG5,31P,absent in Aug. back in Sep,A,2023-08-01 00:00:00,
 2,M,Chen,Ada,5,2013-04-29 00:00:00,"155Valmy Street, Milpitas 95035",925-6639258,anniechang719@gmail.com,2023-06-21 00:00:00,MG8,11P,absent in Aug. back in Sep,A,2023-08-01 00:00:00,
 3,E,Chen,Bella,7,2009-02-14 00:00:00,49019 Woodgrove Cmn,5107883613,Tanabeusa@yahoo.com,2021-12-01 00:00:00,EM5,1P,absent in Aug. back in Sep,A,2023-08-01 00:00:00,
@@ -87,7 +87,7 @@ No.,Subject (M/E),Last Name,First Name,School Grade,DOB (MM/DD/YY),Address,Tel:,
 86,M,Qu,Ashley,5,2013-01-15 00:00:00,"41496 Timber Creek Ter， Fremont, CA",9497355219,tony.f.qu@gmail.com,2023-06-05 00:00:00,MG9,96P,,A,2023-08-01 00:00:00,
 87,E,Qu,Zoey,2,2016-07-25 00:00:00,"41496 Timber Creek Ter， Fremont, CA",9497355219,tony.f.qu@gmail.com,2023-06-05 00:00:00,EG2B,71P,,A,2023-08-01 00:00:00,
 88,M,Qu,Zoey,2,2016-07-25 00:00:00,"41496 Timber Creek Ter， Fremont, CA",9497355219,tony.f.qu@gmail.com,2023-06-05 00:00:00,MG6,96P,,A,2023-08-01 00:00:00,
-89,M,Saraf,Avaneesh,3,2014-05-07 00:00:00,260 Mazey St,4086076664,abhisaraf007@gmail.com,2023-01-02 00:00:00,MG6,66P,A>2 MTH,C,,
+89,M,Saraf,Avaneesh,3,2014-05-07 00:00:00,260 Mazey St,4086076664,abhisaraf007@gmail.com,2023-01-02 00:00:00,MG9,66P,A>2 MTH,C,,
 90,E,Segales,Jessica,4,2013-01-31 00:00:00,807 tassasara drive,14083966159,kkwan99@yahoo.com,2022-08-17 00:00:00,EG7,31p,,C,,
 91,M,Segales,Jessica,4,2013-01-31 00:00:00,807 tassasara drive,14083966159,kkwan99@yahoo.com,2022-08-17 00:00:00,MG9,AC,2nd,C,,
 92,E,Shah,Reya,2,2012-04-27 00:00:00,"27 Vienna Drive, Milpitas",408-4443615,vivianpalace@alo.com,2019-06-17 00:00:00,EM4,56p ,,C,,

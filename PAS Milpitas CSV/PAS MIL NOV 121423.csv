@@ -1,4 +1,4 @@
-No.,Subject (M/E),Last Name,First Name,School Grade,DOB (MM/DD/YY),Address,Tel:,Email,DOE (Date of Enrollment MM/DD/YY),PEL Wks. Level,PEL Wks. No.,Notes,"Code                  (C, N, A, R)",Mth Absent,1
+﻿No.,Subject (M/E),Last Name,First Name,School Grade,DOB (MM/DD/YY),Address,Tel:,Email,DOE (Date of Enrollment MM/DD/YY),PEL Wks. Level,PEL Wks. No.,Notes,"Code                  (C, N, A, R)",Mth Absent,1
 1,E,Antonio ,Caleb,3,2015-08-02 00:00:00,804 Deboer Lane,4089069262,jnnfr_diep@yahoo.com,2023-08-16 00:00:00,EG1,46P,,C,,
 2,M,Antonio ,Caleb,3,2015-08-02 00:00:00,804 Deboer Lane,4089069262,jnnfr_diep@yahoo.com,2023-08-16 00:00:00,MG7,36P,,C,,
 3,E,Antonio ,Mason ,2,2016-08-24 00:00:00,804 Deboer Lane,4089069262,jnnfr_diep@yahoo.com,2023-08-16 00:00:00,EK3,21P,,C,,
@@ -132,7 +132,7 @@ No.,Subject (M/E),Last Name,First Name,School Grade,DOB (MM/DD/YY),Address,Tel:,
 131,E,Solomonraja,Rakson ,2,2016-06-05 00:00:00,"47125 Benns Ter,, Fremont, CA, 94539",4082158017,raghavi.raj90@gmail.com,2023-10-03 00:00:00,EG1,71p,,C,,
 132,M,Solomonraja,Rakson ,2,2016-06-05 00:00:00,"47125 Benns Ter,, Fremont, CA, 94539",4082158017,raghavi.raj90@gmail.com,2023-10-03 00:00:00,MG5,86p,2nd,C,,
 133,E,Soni ,Shlok ,2,2015-12-30 00:00:00,"564 martil way, Milpitas, CA, 95035",4088306997,Ankita.dol@gmail.com,2023-08-22 00:00:00,EG4,16P,,C,,
-134,M,Soni ,Shlok ,2,2015-12-30 00:00:00,"564 martil way, Milpitas, CA, 95035",4088306997,Ankita.dol@gmail.com,2023-08-22 00:00:00,MG8,56P,,C,,
+134,M,Soni ,Shlok ,2,2015-12-30 00:00:00,"564 martil way, Milpitas, CA, 95035",4088306997,Ankita.dol@gmail.com,2023-08-22 00:00:00,MG10,56P,,C,,
 135,E,Suresh,Eyal,2,2015-06-30 00:00:00,"162 Marylinn Dr, milpitas, california 95035",6077279968,ooth.suresh@gmail.com,2023-10-01 00:00:00,EG3,61P,absent in Sep. back in Oct,C,,
 136,M,Suresh,Eyal,2,2015-06-30 00:00:00,"162 Marylinn Dr, milpitas, california 95035",6077279968,ooth.suresh@gmail.com,2023-10-01 00:00:00,MG8,16P,absent in Sep. back in Oct,C,,
 137,E,Tang,David,8,2009-10-11 00:00:00,"1619 Conway Street, Milpitas, CA, 95035",6502158888,ch_yin@hotmail.com,2023-08-19 00:00:00,EG5,36P,,C,,

@@ -1,4 +1,4 @@
-No.,Subject (M/E),Last Name,First Name,School Grade,DOB (MM/DD/YY),Address,Tel:,Email,DOE (Date of Enrollment MM/DD/YY),PEL Wks. Level,PEL Wks. No.,Notes,"Code                  (C, N, A, R)",Mth Absent,Column1
+﻿No.,Subject (M/E),Last Name,First Name,School Grade,DOB (MM/DD/YY),Address,Tel:,Email,DOE (Date of Enrollment MM/DD/YY),PEL Wks. Level,PEL Wks. No.,Notes,"Code                  (C, N, A, R)",Mth Absent,Column1
 1,E,Ahmed,Aazil,K,2016-07-14 00:00:00,"1660 Delano St, Milpitas, CA 95035",6692685623,aqamar@ncsu.edu,"Oct.1, 2021",EK3,100p,,C,,
 2,M,Ahmed,Aazil,K,2016-07-14 00:00:00,"1660 Delano St, Milpitas, CA 95035",6692685623,aqamar@ncsu.edu,"Oct.1, 2021",MG3,80p,,C,,
 3,E,Cao,Anh,K,2016-09-20 00:00:00,1791 Sunnyhills Dr,669-888-8868, hien.nguyen0484@gmail.com,2021-12-06 00:00:00,Ek1,100p,,C,,
@@ -104,7 +104,7 @@ No.,Subject (M/E),Last Name,First Name,School Grade,DOB (MM/DD/YY),Address,Tel:,
 103,M,Nguyen,An,5,2011-10-17 00:00:00,817 horcajo st,9168657621,Lydiapnd@yahoo.com,2021-11-16 00:00:00,MG7,100p,,C,,
 104,E,Nguyen,Ann,5,2010-10-26 00:00:00,473 Murray Street Milpitas CA 95035,408-4760429,nguyen_n74@yahoo.com,2021-12-01 00:00:00,EG6,100P,,C,,
 105,M,Nguyen,Ann,5,2010-10-26 00:00:00,473 Murray Street Milpitas CA 95035,408-4760429,nguyen_n74@yahoo.com,2021-12-01 00:00:00,MG11,110p,,C,,
-106,E,Nguyen,Catherine,4,2011-12-09 00:00:00,"501 Mulphy Ranch Rd 461, Milpitas, 95035",650-773-4182,tommynguyen91@gmail.com,2022-03-01 00:00:00,EG4,110p,,C,,
+106,E,Nguyen,Catherine,4,2011-12-09 00:00:00,"501 Mulphy Ranch Rd 461, Milpitas, 95035",650-773-4182,tommynguyen91@gmail.com,2022-03-01 00:00:00,EG5,110p,,C,,
 107,M,Nguyen,Chloe,4,11/1/2007,"126 Poppy Ct, Milpitas, CA 95035",408-859-7251,chrissyk111@yahoo.com,2019-01-01 00:00:00,MH5,40p,,C,,
 108,E,Nguyen,JACOB,K,2014-06-12 00:00:00,2115 Fieldcrest Dr. MILPITAS,4085505781,chelsea_ntc@yahoo.com,2021-02-01 00:00:00,EG3,110p,,C,,
 109,M,Nguyen,JACOB,K,2014-06-12 00:00:00,2115 Fieldcrest Dr. MILPITAS,4085505781,chelsea_ntc@yahoo.com,2021-06-14 00:00:00,MG6,110p,,C,,
