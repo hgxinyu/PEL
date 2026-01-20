@@ -1,4 +1,4 @@
-No.,Subject (M/E),Last Name,First Name,School Grade,DOB (MM/DD/YY),Address,Tel:,Email,DOE (Date of Enrollment MM/DD/YY),PEL Wks. Level,PEL Wks. No.,Notes,"Code                  (C, N, A, R)",Mth Absent,9
+﻿No.,Subject (M/E),Last Name,First Name,School Grade,DOB (MM/DD/YY),Address,Tel:,Email,DOE (Date of Enrollment MM/DD/YY),PEL Wks. Level,PEL Wks. No.,Notes,"Code                  (C, N, A, R)",Mth Absent,9
 1,E,Balamurugan,Tanisha,4,2014-09-01 00:00:00,"648 Costigan Cir, Milpitas, CA, 95035",6502658854,alagunirupa@yahoo.com,2023-08-16 00:00:00,EG5,66p,,C,,
 2,M,Balamurugan ,Tanisha,4,2014-09-01 00:00:00,"648 Costigan Cir, Milpitas, CA, 95035",6502658854,alagunirupa@yahoo.com,2023-08-16 00:00:00,MG9,86p,,C,,
 3,E,Chen,Ada,5,2013-04-29 00:00:00,"155Valmy Street, Milpitas 95035",925-6639258,anniechang719@gmail.com,2023-09-05 00:00:00,EG6,56p,,C,,
@@ -17,7 +17,7 @@ No.,Subject (M/E),Last Name,First Name,School Grade,DOB (MM/DD/YY),Address,Tel:,
 16,M,Choudhury ,Zaida,2,2016-09-14 00:00:00,"1195 Lassen Avenue, Milpitas, CA, 95035",4088358131,Shamina.Choudhury@gmail.com,2023-08-22 00:00:00,MG3,106P,,C,,
 17,E,Chunduru,Ishika ,1,2017-10-01 00:00:00,"885 Berryessa St, Milpitas, CA, 95035",4085966329,ratnadeepti.chunduru@gmail.com,2023-10-09 00:00:00,EG2B,31P,,C,,
 18,M,Chunduru,Ishika ,1,2017-10-01 00:00:00,"885 Berryessa St, Milpitas, CA, 95035",4085966329,ratnadeepti.chunduru@gmail.com,2023-10-09 00:00:00,MG2,96P,,C,,
-19,E,Chunduru,Reyansh,6,2012-01-30 00:00:00,"885 Berryessa St, Milpitas, CA, 95035",4085966329,ratnadeepti.chunduru@gmail.com,2023-12-01 00:00:00,EG9,1P,,C,,
+19,E,Chunduru,Reyansh,6,2012-01-30 00:00:00,"885 Berryessa St, Milpitas, CA, 95035",4085966329,ratnadeepti.chunduru@gmail.com,2023-12-01 00:00:00,EG6,1P,,C,,
 20,M,Chunduru,Reyansh,6,2012-01-30 00:00:00,"885 Berryessa St, Milpitas, CA, 95035",4085966329,ratnadeepti.chunduru@gmail.com,2023-12-01 00:00:00,MM1,71P,,C,,
 21,M,CHUONG,ALVIN,8,2010-01-27 00:00:00,1470 El Calaveres Blvd.,4084392389,lisa123liang@iclould.com,2023-11-02 00:00:00,MM3,85P,,C,,
 22,M,CHUONG,EVA,6,2012-01-05 00:00:00,1470 El Calaveres Blvd.,4084392389,lisa123liang@iclould.com,2023-11-02 00:00:00,MG10,68P,,C,,

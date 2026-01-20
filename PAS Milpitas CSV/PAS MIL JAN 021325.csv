@@ -1,4 +1,4 @@
-No.,Subject (M/E),Last Name,First Name,School Grade,DOB (MM/DD/YY),Address,Email,DOE (Date of Enrollment MM/DD/YY),PEL Wks. Level,PEL Wks. No.,Notes,"Code                  (C, N, A, R)",Mth Absent,3
+﻿No.,Subject (M/E),Last Name,First Name,School Grade,DOB (MM/DD/YY),Address,Email,DOE (Date of Enrollment MM/DD/YY),PEL Wks. Level,PEL Wks. No.,Notes,"Code                  (C, N, A, R)",Mth Absent,3
 1,E,Antonio,Liliana,K,4/23/2019 0:00,804 Deboer LaneSan JoseCA95111,jnnfr_diep@yahoo.com,8/19/2024 0:00,EK1,106,,C,,
 2,M,Antonio,Liliana,K,4/23/2019 0:00,804 Deboer LaneSan JoseCA95111,jnnfr_diep@yahoo.com,8/19/2024 0:00,MK3,6,,C,,
 3,E,Antonio ,Caleb,3,8/2/2015 0:00,804 Deboer Lane,jnnfr_diep@yahoo.com,1/2/2024 0:00,EG2B,101,,C,,
@@ -121,8 +121,8 @@ No.,Subject (M/E),Last Name,First Name,School Grade,DOB (MM/DD/YY),Address,Email
 119,M,Shah,Rivaan,K,1/1/2022 0:00,"27 Vienna Drive, Milpitas, CA, 95035",aakarshah@gmail.com,9/1/2021 0:00,MG11,96,,C,,
 120,E,Shi,Donald ,7,11/25/2016 0:00,"373 River Oaks Cir Apt 1410, san jose, CA, 95134",yovnne87@gmail.com,10/16/2023 0:00,EG2B,21,,C,,
 121,M,Shi,Donald ,7,11/25/2016 0:00,"373 River Oaks Cir Apt 1410, san jose, CA, 95134",yovnne87@gmail.com,1/2/2024 0:00,MG8,46,,C,,
-122,E,Singh,Arjun,3,2/4/2015 0:00,"	261 Edgewater Dr",kismatsingh.a@gmail.com,11/2/2023 0:00,EG10,96,,C,,
-123,M,Singh,Arjun,3,2/4/2015 0:00,"	261 Edgewater Dr",kismatsingh.a@gmail.com,11/2/2023 0:00,MM1,56,,C,,
+122,E,Singh,Arjun,3,2/4/2015 0:00,	261 Edgewater Dr,kismatsingh.a@gmail.com,11/2/2023 0:00,EG10,96,,C,,
+123,M,Singh,Arjun,3,2/4/2015 0:00,	261 Edgewater Dr,kismatsingh.a@gmail.com,11/2/2023 0:00,MM1,56,,C,,
 124,E,Sinoy,Joshua,2,2/6/2017 0:00,"978, PESCADERO STMilpitasCA95035",linspachy@yahoo.com,8/19/2024 0:00,EG5,11,,C,,
 125,M,Sinoy,Joshua,2,2/6/2017 0:00,"978, PESCADERO STMilpitasCA95035",linspachy@yahoo.com,8/19/2024 0:00,MG6,TEST,,C,,
 126,E,SINOY ,DANIEL ,4,6/19/2015 0:00,"978, PESCADERO STMilpitasCA95035",linspachy@yahoo.com,8/19/2024 0:00,EK3,11,,C,,
@@ -163,7 +163,7 @@ No.,Subject (M/E),Last Name,First Name,School Grade,DOB (MM/DD/YY),Address,Email
 161,E,SONI,SHAURYA,K,1/1/2019 0:00,564 martil way,Ankita.dol@gmail.com,1/6/2025 0:00,EK2,26,Travel in Dec. back in Jan,R,,
 162,M,SONI,SHAURYA,K,1/1/2019 0:00,564 martil way,Ankita.dol@gmail.com,1/6/2025 0:00,MK4,46,Travel in Dec. back in Jan,R,,
 163,E,Soni ,Shlok ,2,12/30/2015 0:00,"564 martil way, Milpitas, CA, 95035",Ankita.dol@gmail.com,1/6/2025 0:00,EG6,66,Travel in Dec. back in Jan,R,,
-164,M,Soni ,Shlok ,2,12/30/2015 0:00,"564 martil way, Milpitas, CA, 95035",Ankita.dol@gmail.com,1/6/2025 0:00,MG8,91,Travel in Dec. back in Jan,R,,
+164,M,Soni ,Shlok ,2,12/30/2015 0:00,"564 martil way, Milpitas, CA, 95035",Ankita.dol@gmail.com,1/6/2025 0:00,MG10,91,Travel in Dec. back in Jan,R,,
 165,E,Soni,Sloka,K,8/12/2019 0:00,183 Silvera St,saurabhmsoni@gmail.com,1/1/2025 0:00,EK2,16,,N,,
 166,M,Soni,Sloka,K,8/12/2019 0:00,183 Silvera St,saurabhmsoni@gmail.com,1/1/2025 0:00,MK3,86,,N,,
 167,E,Raj,Suryansh,4,7/1/2016 0:00,74 Washington Square Dr.,rsur2020@gmail.com,1/17/2025 0:00,EG5,51,,N,,

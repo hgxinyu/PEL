@@ -1,7 +1,7 @@
 import os
 import sys
 from pathlib import Path
-
+# This script loads the combined progress.csv file into the PostgreSQL database.
 
 def load_dotenv(dotenv_path: Path) -> None:
     if not dotenv_path.exists():

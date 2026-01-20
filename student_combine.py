@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 import re
-
+# This file combines student data from PAS Fremont and PAS Milpitas CSV files into a single student.csv file.
 input_folders = ["PAS Fremont CSV", "PAS Milpitas CSV"]
 output_file = "student.csv"
 center_labels = {

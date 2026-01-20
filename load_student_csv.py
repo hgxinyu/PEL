@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-
+#  This script loads the student CSV file into the PostgreSQL database.
 WIPE_FIRST = True
 
 

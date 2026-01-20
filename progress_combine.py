@@ -3,7 +3,7 @@ import re
 from datetime import datetime
 
 import pandas as pd
-
+#This file pulls together progress data from both Fremont and Milpitas PAS CSV files and generates a combined progress.csv file.
 
 MONTH_MAP = {
     "JAN": 1,
