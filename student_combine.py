@@ -26,17 +26,26 @@ for input_folder in input_folders:
             "Email",
             "DOE (Date of Enrollment MM/DD/YY)"
         ]
+        phone_cols = ["Tel:", "Tel", "Telephone", "Phone", "Phone Number"]
 
         missing = [c for c in required_cols if c not in df.columns]
         if missing:
             print(f"Skipping {filename}, missing columns: {missing}")
             continue
 
-        df = df[required_cols]
+        phone_col = next((c for c in phone_cols if c in df.columns), None)
+        if phone_col is None:
+            df["Tel:"] = pd.NA
+        elif phone_col != "Tel:":
+            df = df.rename(columns={phone_col: "Tel:"})
+
+        df = df[required_cols + ["Tel:"]]
+        df["Source"] = filename
         df["Center"] = center_labels.get(input_folder, "")
 
         df["First Name"] = df["First Name"].astype(str).str.strip()
         df["Last Name"] = df["Last Name"].astype(str).str.strip()
+        df["Tel:"] = df["Tel:"].astype("string").str.strip()
         df["Email"] = df["Email"].astype(str).str.strip().str.lower()
 
         all_data.append(df)
@@ -46,7 +55,7 @@ combined_df = pd.concat(all_data, ignore_index=True)
 
 students_df = (
     combined_df
-    .groupby("Email", as_index=False)
+    .groupby(["Email", "First Name", "Last Name"], as_index=False)
     .agg(lambda x: x.dropna().iloc[0] if not x.dropna().empty else pd.NA)
 )
 
@@ -67,6 +76,8 @@ students_df = students_df[
         "Full Name",
         "DOB (MM/DD/YY)",
         "Address",
+        "Tel:",
+        "Source",
         "Email",
         "DOE (Date of Enrollment MM/DD/YY)",
         "Center",
@@ -74,5 +85,3 @@ students_df = students_df[
 ]
 
 students_df.to_csv(output_file, index=False)
-
-

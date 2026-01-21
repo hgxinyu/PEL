@@ -1,4 +1,10 @@
-COPY pel.students (first_name, last_name, dob_raw, address, email, enrollment_date_raw)
+ALTER TABLE pel.students
+ADD COLUMN IF NOT EXISTS tel text;
+
+ALTER TABLE pel.students
+ADD COLUMN IF NOT EXISTS source text;
+
+COPY pel.students (first_name, last_name, dob_raw, address, tel, source, email, enrollment_date_raw)
 FROM 'b:/iCloud/iCloudDrive/Documents/XY Documents/Study/pel/PEL/students.csv'
 WITH (FORMAT csv, HEADER true);
 
