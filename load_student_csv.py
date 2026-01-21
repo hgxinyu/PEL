@@ -3,7 +3,6 @@ import os
 from pathlib import Path
 
 #  This script loads the student CSV file into the PostgreSQL database.
-WIPE_FIRST = True
 
 
 def load_dotenv(dotenv_path: Path) -> None:
@@ -97,6 +96,11 @@ def main() -> int:
         return 1
 
     header = read_csv_header(students_csv)
+    required_cols = {"Full Name", "Email"}
+    missing_required = [col for col in required_cols if col not in header]
+    if missing_required:
+        print(f"Missing required columns in {students_csv.name}: {', '.join(sorted(missing_required))}")
+        return 1
     header_to_db = {
         "First Name": "first_name",
         "Last Name": "last_name",
@@ -120,29 +124,47 @@ def main() -> int:
 
     db_columns = [header_to_db[col] for col in header]
     copy_students = (
-        f"COPY pel.students ({', '.join(db_columns)}) "
+        f"COPY temp_students ({', '.join(db_columns)}) "
         "FROM STDIN WITH (FORMAT csv, HEADER true)"
+    )
+    update_assignments = ", ".join(f"{col} = src.{col}" for col in db_columns)
+    update_students = (
+        "UPDATE pel.students AS dest "
+        f"SET {update_assignments} "
+        "FROM temp_students AS src "
+        "WHERE dest.full_name = src.full_name AND dest.email = src.email"
+    )
+    insert_columns = ", ".join(f"src.{col}" for col in db_columns)
+    insert_students = (
+        f"INSERT INTO pel.students ({', '.join(db_columns)}) "
+        f"SELECT {insert_columns} "
+        "FROM temp_students AS src "
+        "LEFT JOIN pel.students AS dest "
+        "ON dest.full_name = src.full_name AND dest.email = src.email "
+        "WHERE dest.full_name IS NULL AND dest.email IS NULL"
     )
 
     driver, conn = get_connection()
     try:
-        pre_count = fetch_count(conn, "SELECT COUNT(*) FROM pel.students")
-        if WIPE_FIRST:
-            execute_sql(conn, "TRUNCATE pel.students")
+        execute_sql(conn, "CREATE TEMP TABLE temp_students (LIKE pel.students INCLUDING DEFAULTS)")
         if driver == "psycopg":
             copy_csv_psycopg(conn, copy_students, students_csv)
         else:
             copy_csv_psycopg2(conn, copy_students, students_csv)
-        post_count = fetch_count(conn, "SELECT COUNT(*) FROM pel.students")
+        total_rows = fetch_count(conn, "SELECT COUNT(*) FROM temp_students")
+        with conn.cursor() as cur:
+            cur.execute(update_students)
+            updated = cur.rowcount
+            cur.execute(insert_students)
+            inserted = cur.rowcount
+        conn.commit()
     finally:
         conn.close()
 
-    deleted = pre_count if WIPE_FIRST else 0
-    added = post_count if WIPE_FIRST else max(post_count - pre_count, 0)
-
     print("Student CSV load complete.")
-    print(f"Deleted records: {deleted}")
-    print(f"Added records: {added}")
+    print(f"CSV records processed: {total_rows}")
+    print(f"Updated records: {updated}")
+    print(f"Inserted records: {inserted}")
     return 0
 
 
