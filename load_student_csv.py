@@ -1,6 +1,7 @@
 import csv
 import os
 from pathlib import Path
+from typing import Optional
 
 #  This script loads the student CSV file into the PostgreSQL database.
 
@@ -63,13 +64,16 @@ def fetch_count(conn, sql: str) -> int:
     return int(row[0]) if row else 0
 
 
-def resolve_students_csv(base_dir: Path) -> Path | None:
-    preferred = base_dir / "student.csv"
+def resolve_students_csv(base_dir: Path) -> Optional[Path]:
+    preferred = base_dir / "student_to_load.csv"
     if preferred.exists():
         return preferred
-    fallback = base_dir / "students.csv"
+    fallback = base_dir / "student.csv"
     if fallback.exists():
         return fallback
+    legacy = base_dir / "students.csv"
+    if legacy.exists():
+        return legacy
     return None
 
 
@@ -92,7 +96,7 @@ def main() -> int:
 
     students_csv = resolve_students_csv(base_dir)
     if not students_csv:
-        print("Missing CSV file: student.csv or students.csv")
+        print("Missing CSV file: student_to_load.csv, student.csv, or students.csv")
         return 1
 
     header = read_csv_header(students_csv)
@@ -127,21 +131,44 @@ def main() -> int:
         f"COPY temp_students ({', '.join(db_columns)}) "
         "FROM STDIN WITH (FORMAT csv, HEADER true)"
     )
-    update_assignments = ", ".join(f"{col} = src.{col}" for col in db_columns)
-    update_students = (
-        "UPDATE pel.students AS dest "
-        f"SET {update_assignments} "
-        "FROM temp_students AS src "
-        "WHERE dest.full_name = src.full_name AND dest.email = src.email"
-    )
-    insert_columns = ", ".join(f"src.{col}" for col in db_columns)
+    normalize_dates_sql = """
+        UPDATE temp_students
+        SET
+            dob = CASE
+                WHEN dob_raw IS NULL OR btrim(dob_raw) = '' THEN NULL
+                WHEN dob_raw ~ '^\\d{4}-\\d{2}-\\d{2}(\\s+\\d{2}:\\d{2}:\\d{2})?$' THEN (dob_raw::timestamp)::date
+                WHEN dob_raw ~ '^\\d{1,2}/\\d{1,2}/\\d{2}$' THEN to_date(dob_raw, 'MM/DD/YY')
+                WHEN dob_raw ~ '^\\d{1,2}/\\d{1,2}/\\d{4}$' THEN to_date(dob_raw, 'MM/DD/YYYY')
+                ELSE NULL
+            END,
+            enrollment_date = CASE
+                WHEN enrollment_date_raw IS NULL OR btrim(enrollment_date_raw) = '' THEN NULL
+                WHEN enrollment_date_raw ~ '^\\d{4}-\\d{2}-\\d{2}(\\s+\\d{2}:\\d{2}:\\d{2})?$' THEN (enrollment_date_raw::timestamp)::date
+                WHEN enrollment_date_raw ~ '^\\d{1,2}/\\d{1,2}/\\d{2}$' THEN to_date(enrollment_date_raw, 'MM/DD/YY')
+                WHEN enrollment_date_raw ~ '^\\d{1,2}/\\d{1,2}/\\d{4}$' THEN to_date(enrollment_date_raw, 'MM/DD/YYYY')
+                ELSE NULL
+            END
+    """
+    insert_db_columns = db_columns + [
+        col for col in ["dob", "enrollment_date"] if col not in db_columns
+    ]
+    insert_columns = ", ".join(f"src.{col}" for col in insert_db_columns)
     insert_students = (
-        f"INSERT INTO pel.students ({', '.join(db_columns)}) "
+        f"INSERT INTO pel.students ({', '.join(insert_db_columns)}) "
         f"SELECT {insert_columns} "
         "FROM temp_students AS src "
-        "LEFT JOIN pel.students AS dest "
-        "ON dest.full_name = src.full_name AND dest.email = src.email "
-        "WHERE dest.full_name IS NULL AND dest.email IS NULL"
+        "WHERE NOT EXISTS ("
+        "  SELECT 1 "
+        "  FROM pel.students AS dest "
+        "  WHERE dest.full_name IS NOT DISTINCT FROM src.full_name "
+        "    AND dest.email IS NOT DISTINCT FROM src.email"
+        ")"
+    )
+    dedup_temp_students = (
+        "CREATE TEMP TABLE temp_students_dedup AS "
+        "SELECT DISTINCT ON (full_name, email) * "
+        "FROM temp_students "
+        "ORDER BY full_name, email"
     )
 
     driver, conn = get_connection()
@@ -151,10 +178,13 @@ def main() -> int:
             copy_csv_psycopg(conn, copy_students, students_csv)
         else:
             copy_csv_psycopg2(conn, copy_students, students_csv)
+        execute_sql(conn, normalize_dates_sql)
         total_rows = fetch_count(conn, "SELECT COUNT(*) FROM temp_students")
+        execute_sql(conn, dedup_temp_students)
+        dedup_rows = fetch_count(conn, "SELECT COUNT(*) FROM temp_students_dedup")
         with conn.cursor() as cur:
-            cur.execute(update_students)
-            updated = cur.rowcount
+            cur.execute("TRUNCATE temp_students")
+            cur.execute("INSERT INTO temp_students SELECT * FROM temp_students_dedup")
             cur.execute(insert_students)
             inserted = cur.rowcount
         conn.commit()
@@ -163,8 +193,9 @@ def main() -> int:
 
     print("Student CSV load complete.")
     print(f"CSV records processed: {total_rows}")
-    print(f"Updated records: {updated}")
+    print(f"CSV records after key dedupe: {dedup_rows}")
     print(f"Inserted records: {inserted}")
+    print(f"Skipped existing records: {dedup_rows - inserted}")
     return 0
 
 

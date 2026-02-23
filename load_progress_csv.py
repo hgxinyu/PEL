@@ -1,7 +1,6 @@
 import os
-import sys
 from pathlib import Path
-# This script loads the combined progress.csv file into the PostgreSQL database.
+# This script loads the combined progress CSV file into the PostgreSQL database.
 
 def load_dotenv(dotenv_path: Path) -> None:
     if not dotenv_path.exists():
@@ -69,7 +68,9 @@ def main() -> int:
         print("DATABASE_URL is not set. Put it in .env or set it in your shell.")
         return 1
 
-    progress_csv = base_dir / "progress.csv"
+    progress_csv = base_dir / "progress_to_load.csv"
+    if not progress_csv.exists():
+        progress_csv = base_dir / "progress.csv"
 
     missing = [str(progress_csv)] if not progress_csv.exists() else []
     if missing:
@@ -78,26 +79,60 @@ def main() -> int:
             print(f"  - {path}")
         return 1
 
+    progress_columns = (
+        "first_name, last_name, full_name, email, subject, pel_wks_level, lvs, pel_wks_no, progress_date, center"
+    )
     copy_progress = (
-        "COPY pel.progress (first_name, last_name, full_name, email, subject, pel_wks_level, lvs, pel_wks_no, progress_date, center) "
+        f"COPY temp_progress ({progress_columns}) "
         "FROM STDIN WITH (FORMAT csv, HEADER true)"
+    )
+    insert_progress = (
+        f"INSERT INTO pel.progress ({progress_columns}) "
+        "SELECT "
+        "src.first_name, src.last_name, src.full_name, src.email, src.subject, "
+        "src.pel_wks_level, src.lvs, src.pel_wks_no, src.progress_date, src.center "
+        "FROM temp_progress AS src "
+        "WHERE NOT EXISTS ("
+        "  SELECT 1 "
+        "  FROM pel.progress AS dest "
+        "  WHERE dest.full_name IS NOT DISTINCT FROM src.full_name "
+        "    AND dest.email IS NOT DISTINCT FROM src.email "
+        "    AND dest.subject IS NOT DISTINCT FROM src.subject "
+        "    AND dest.progress_date IS NOT DISTINCT FROM src.progress_date "
+        "    AND dest.center IS NOT DISTINCT FROM src.center"
+        ")"
+    )
+    dedup_temp_progress = (
+        "CREATE TEMP TABLE temp_progress_dedup AS "
+        "SELECT DISTINCT ON (full_name, email, subject, progress_date, center) * "
+        "FROM temp_progress "
+        "ORDER BY full_name, email, subject, progress_date, center, lvs DESC NULLS LAST, pel_wks_no DESC NULLS LAST"
     )
 
     driver, conn = get_connection()
     try:
-        deleted_count = fetch_count(conn, "SELECT COUNT(*) FROM pel.progress")
-        execute_sql(conn, "TRUNCATE pel.progress")
+        execute_sql(conn, "CREATE TEMP TABLE temp_progress (LIKE pel.progress INCLUDING DEFAULTS)")
         if driver == "psycopg":
             copy_csv_psycopg(conn, copy_progress, progress_csv)
         else:
             copy_csv_psycopg2(conn, copy_progress, progress_csv)
-        loaded_count = fetch_count(conn, "SELECT COUNT(*) FROM pel.progress")
+        total_rows = fetch_count(conn, "SELECT COUNT(*) FROM temp_progress")
+        execute_sql(conn, dedup_temp_progress)
+        dedup_rows = fetch_count(conn, "SELECT COUNT(*) FROM temp_progress_dedup")
+        with conn.cursor() as cur:
+            cur.execute("TRUNCATE temp_progress")
+            cur.execute("INSERT INTO temp_progress SELECT * FROM temp_progress_dedup")
+            cur.execute(insert_progress)
+            inserted = cur.rowcount
+        conn.commit()
     finally:
         conn.close()
 
-    print("CSV load complete.")
-    print(f"Records deleted: {deleted_count}")
-    print(f"Records loaded: {loaded_count}")
+    print("Progress CSV insert-only load complete.")
+    print(f"CSV records processed: {total_rows}")
+    print(f"CSV records after key dedupe: {dedup_rows}")
+    print(f"Inserted records: {inserted}")
+    print(f"Skipped existing records: {dedup_rows - inserted}")
     return 0
 
 

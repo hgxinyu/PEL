@@ -1,0 +1,876 @@
+student_id,first_name,last_name,dob_raw,address,email,enrollment_date_raw,full_name,center,tel,source,active,alert,dob,enrollment_date
+1951,Millina,Luong,2011-01-03 00:00:00,"1877 Camargo Dr, San Jose, CA 95132",,2022-11-01 00:00:00,"Luong, Millina",Milpitas,4085063924,Report PAS APR 051923.csv,True,False,2011-01-03,2022-11-01
+1952,Mirabella,Luong,2017-05-06 00:00:00,"1877 Camargo Dr, San Jose, CA 95132",,2023-03-17 00:00:00,"Luong, Mirabella",Milpitas,4085063924,Report PAS APR 051923.csv,True,False,2017-05-06,2023-03-17
+2736,Joshua,Huang,10/2/2009 0:00,2456 Amaryl Dr. San Jose 95132,wanglai@gmail.com,6/1/2022 0:00,"Huang, Joshua",Milpitas,650-863-8858,PAS MIL APR 051425.csv,True,False,2009-10-02,2022-06-01
+2002,Joshua,Hu,2010-06-08 00:00:00,354 Sequim Common Fremont CA 94539,anniechang719@gmail.com,7/16/2019,"Hu, Joshua",Milpitas,408-2235588,Report PAS DEC 011119.csv,False,False,2010-06-08,2019-07-16
+2421,Ethan,Wang,2008-09-28 00:00:00,"1954 Lindon Ln., Milpitas, CA 95035",nan,2019-08-13 00:00:00,"Wang, Ethan",Milpitas,408-262-2312,Report PAS DEC 011119.csv,False,False,2008-09-28,2019-08-13
+2694,Ethan,Wang,2008-09-28 00:00:00,"1954 Lindon Ln., Milpitas, CA 95035",unixguru007@yahoo.com,2019-08-13 00:00:00,"Wang, Ethan",Milpitas,408-262-2312,Report PAS AUG 090719.csv,False,False,2008-09-28,2019-08-13
+1986,Aarav,Agnihotri,2015-09-05 00:00:00,49022 Meadowfaire Cmn,amaragni78@gmail.com,2025-10-01 00:00:00,"Agnihotri, Aarav",Fremont,4083646794,PAS FREMONT DEC 011223.csv,True,True,2015-09-05,2025-10-01
+2025,Charlene,Chen,2017-12-22 00:00:00,"46 Eagle Green, Fremont, CA",bettyguan1990@gmail.com,2024-09-02 00:00:00,"Chen, Charlene",Fremont,6509967701,PAS FREMONT APR 051425.csv,True,True,2017-12-22,2024-09-02
+2298,Ethan,Wang,2016-12-03 00:00:00,1326 Nelson Way,lianzhigu5@gmail.com,2022-09-01 00:00:00,"Wang, Ethan",Fremont,5108969910,PAS FREMONT APR 051425.csv,True,True,2016-12-03,2022-09-01
+2756,Danyka Zhu,Zhu,2016-08-21 00:00:00,"4589 Bianca Drive, Fremont",winnybear@gmail.com,2025-07-21 00:00:00,"Zhu, Danyka Zhu",Fremont,510-673-8505,PAS FREMONT AUG 091325.csv,True,True,2016-08-21,2025-07-21
+2491,Vera,Guan,2/5/2011,"592 Singley Dr. Milpitas, CA 95035",pocoyo88889@hotmail.com,4/1/2018,"Guan, Vera",Milpitas,4082057865,Report PAS APR 050719.csv,False,False,2011-02-05,2018-04-01
+2673,Jeffrey,Du,2015-09-30 00:00:00,"2190 Cuesta Dr, Milpitas CA",tingnaxu1120@gmail.com,2023-08-01 00:00:00,"Du, Jeffrey",Fremont,3472777326,PAS MIL AUG 092023.csv,True,True,2015-09-30,2023-08-01
+2228,Yuan,XunRan,12/26/2016 0:00,"2125 Limewood Drive , San Jose",jin.fighting@gmail.com,7/28/2025 0:00,"XunRan, Yuan",Milpitas,,PAS MIL AUG 091325.csv,False,False,2016-12-26,2025-07-28
+2075,Yuehang,Lin,2018-07-04 00:00:00,"294 Washington Dr. Milpitas, CA 95035",chunmeixie15@gmail.com,2025-10-01 00:00:00,"Lin, Yuehang",Fremont,6692613159,PAS FREMONT DEC 011223.csv,True,True,2018-07-04,2025-10-01
+1963,Xianzhang,Jiang,1/26/2010,"2021 Conway Street, MILPITAS",735782789@99.com,7/29/2019,"Jiang, Xianzhang",Milpitas,669-2121187,Report PAS AUG 090719.csv,True,False,2010-01-26,2019-07-29
+1964,Yiyu,Chen,2012-11-26 00:00:00,"1715 Cortez St, Milpitas, CA 95035",845578045@qq.com,2020-01-01 00:00:00,"Chen, Yiyu",Milpitas,4088587056,Report PAS APR 051220.csv,True,False,2012-11-26,2020-01-01
+1965,Annie,Han,2018-01-01 00:00:00,1734 N Milpitas Blvd,879048298@qq.com,2023-12-05 00:00:00,"Han, Annie",Milpitas,4088160388,PAS MIL DEC 011723.csv,True,False,2018-01-01,2023-12-05
+4605,Test,Test,2026-01-23,123312121,123@gmail.com,,"Test, Test",Milpitas,1233,sdfddfs,False,False,2026-01-23,
+1966,Lucas,Han,2015-11-13 00:00:00,"1734 N Milpitas Blvd, Milpitas",879048298@qq.com,2022-04-01 00:00:00,"Han, Lucas",Milpitas,4088160388,PAS MIL AUG 092023.csv,True,False,2015-11-13,2022-04-01
+1968,Rivaan,Shah,1/1/2022 0:00,"27 Vienna Drive, Milpitas, CA, 95035",aakarshah@gmail.com,9/1/2021 0:00,"Shah, Rivaan",Milpitas,408-4443615,PAS MIL APR 051425.csv,True,False,2022-01-01,2021-09-01
+1969,Kalina,Castro,2013-01-01 00:00:00,2065 Old Piedmont Rd,aaron.elias.castro@gmail.com,2022-06-10 00:00:00,"Castro, Kalina",Milpitas,4082046275,Report PAS AUG 091522.csv,True,False,2013-01-01,2022-06-10
+1970,AYAANSH,SARAF,4/19/2019 0:00,260 Mazey St,abhisaraf007@gmail.com,8/19/2024 0:00,"SARAF, AYAANSH",Milpitas,,PAS MIL APR 051425.csv,True,False,2019-04-19,2024-08-19
+1971,Avaneesh,Saraf,5/7/2014 0:00,260 Mazey St,abhisaraf007@gmail.com,9/1/2023 0:00,"Saraf, Avaneesh",Milpitas,4086076664,PAS MIL APR 051425.csv,True,False,2014-05-07,2023-09-01
+1972,Aashvi,Bansal,2020-07-14 00:00:00,47908 Wabana St,adeetikaushal@gmail.com,2025-09-01 00:00:00,"Bansal, Aashvi",Fremont,5103714349,PAS FREMONT DEC 011223.csv,True,False,2020-07-14,2025-09-01
+1973,Maaz,Munir,2020-02-15 00:00:00,464 Chardonnay drFremontCA94539,adil_muneer@hotmail.com,2025-08-19 00:00:00,"Munir, Maaz",Fremont,4088297446,PAS FREMONT AUG 091325.csv,True,False,2020-02-15,2025-08-19
+1974,Anush,Gupta,9/2/2010 0:00,"688 Cardiff Place, Milpitas",agupta.ua@gmail.com,8/1/2023 0:00,"Gupta, Anush",Milpitas,5202412076,PAS MIL APR 052324.csv,True,False,2010-09-02,2023-08-01
+1975,Eshaan,Gupta,12/5/2013 0:00,"688 Cardiff Place, Milpitas",agupta.ua@gmail.com,8/19/2024 0:00,"Gupta, Eshaan",Milpitas,5202412076,PAS MIL APR 051425.csv,True,False,2013-12-05,2024-08-19
+1976,Frank,Liu,2014-09-01 00:00:00,48264 Cottonwood St Fremont CA 94539,ailehelen@gmail.com,2018-07-19 00:00:00,"Liu, Frank",Milpitas,6509969171,Report PAS APR 051222.csv,True,False,2014-09-01,2018-07-19
+2032,Leo,Xu,7/31/2017,235 Lippert AveFremontCA94539,bjunzhang@gmail.com,8/19/2024,"Xu, Leo",Fremont,4085108805,PAS FREMONT APR 051425.csv,True,False,2017-07-31,2024-08-19
+2012,Aazil,Ahmed,2016-07-14 00:00:00,"1660 Delano St, Milpitas, CA 95035",aqamar@ncsu.edu,"Oct.1, 2021","Ahmed, Aazil",Milpitas,6692685623,Report PAS APR 051222.csv,True,False,2016-07-14,2021-10-01
+2026,Matthew,Nguyen,1/9/2013,2313 Oak Flat RoadSan JoseCA95131,bettypnguyen@yahoo.com,3-Jul-24,"Nguyen, Matthew",Milpitas,4008-387-2668,PAS MIL APR 051425.csv,True,False,2013-01-09,2024-07-03
+2027,Megan,Nguyen,6/14/2011,2313 Oak Flat RoadSan JoseCA95131,bettypnguyen@yahoo.com,4-Jul-24,"Nguyen, Megan",Milpitas,4008-387-2668,PAS MIL APR 051425.csv,True,False,2011-06-14,2024-07-04
+2071,Ashton,Ng,8/12/2010,180 Vienna DriveMilpitasCA95035,christie.x.yu@gmail.com,18-Jul-24,"Ng, Ashton",Milpitas,,PAS MIL AUG 091024.csv,True,False,2010-08-12,2024-07-18
+2072,Lucas,Ng,6/20/2014,180 Vienna DriveMilpitasCA95035,christie.x.yu@gmail.com,18-Jul-24,"Ng, Lucas",Milpitas,,PAS MIL APR 051425.csv,True,False,2014-06-20,2024-07-18
+2099,Leo Anthony,Narito,2015-07-31 00:00:00,330 Hazen St,devz28@yahoo.com,"Oct.1, 2021","Narito, Leo Anthony",Milpitas,4088880339,Report PAS APR 051222.csv,True,False,2015-07-31,2021-10-01
+2137,Hannah,Gao,2011-07-21 00:00:00,"47879 maya st, Fremont, CA 94539",gaolili20100@gmail.com,"Oct.1, 2021","Gao, Hannah",Milpitas,5105090555,Report PAS DEC-21 011121.csv,True,False,2011-07-21,2021-10-01
+2138,Hannah,Zheng,2011-07-21 00:00:00,"47879 maya st, Fremont, CA 94539",gaolili20100@gmail.com,"Oct.1, 2021","Zheng, Hannah",Fremont,5105090555,PAS FREMONT APR 052324.csv,True,False,2011-07-21,2021-10-01
+2139,Hannah,Zheng/Gao,2011-07-21 00:00:00,"47879 maya st, Fremont, CA 94539",gaolili20100@gmail.com,"Oct.1, 2021","Zheng/Gao, Hannah",Milpitas,5105090555,Report PAS APR 051222.csv,True,False,2011-07-21,2021-10-01
+2181,BaoDi,Tran,2011-11-05 00:00:00,"1663 Sunnyhills Dr., Milpitas, CA 95035",hoangmymusic@yahoo.com,"Oct.1, 2021","Tran, BaoDi",Milpitas,4087170854,Report PAS APR 051222.csv,True,False,2011-11-05,2021-10-01
+2239,Samah,Mir,8/10/2009 0:00,"3467 Maroun Place, San Jose",jmahbub@gmail.com,3/1/2022 0:00,"Mir, Samah",Milpitas,4083328281,PAS MIL APR 051425.csv,True,False,2009-08-10,2022-03-01
+2226,Michelle,Yuan,12/26/2016,2125 Limewood DriveSan JoseCA95132,jin.fighting@gmail.com,8-Jul-24,"Yuan, Michelle",Milpitas,6692908031,PAS MIL AUG 091024.csv,True,False,2016-12-26,2024-07-08
+1977,Jason,Liu,2013-01-01 00:00:00,48264 Cottonwood St Fremont CA 94539,ailehelen@gmail.com,2018-07-19 00:00:00,"Liu, Jason",Milpitas,6509969171,Report PAS APR 051222.csv,True,False,2013-01-01,2018-07-19
+1978,Salih,Saifudeen,11/2/2018 0:00,248 Meadowhaven Way,aishasp@gmail.com,6/16/2025 0:00,"Saifudeen, Salih",Milpitas,,PAS MIL AUG 091325.csv,True,False,2018-11-02,2025-06-16
+2661,Dayjon,Teh,2/23/2016 0:00,1327 chewpon ave,tehseonghong@yahoo.com,10/1/2024 0:00,"Teh, Dayjon",Milpitas,,PAS MIL APR 051425.csv,True,False,2016-02-23,2024-10-01
+2660,Davin,Teh,9/19/2012 0:00,1327 chewpon ave,tehseonghong@yahoo.com,9/162024,"Teh, Davin",Milpitas,,PAS MIL APR 051425.csv,True,False,2012-09-19,2024-09-16
+2689,Olivia,Lin,7/26/2013,1202 Daniel CT,tunnelin@yahoo.com,6/18/2018,"Lin, Olivia",Milpitas,510-4680756,Report PAS APR 050719.csv,True,False,2013-07-26,2018-06-18
+1981,Adriel,Cruz,2006-10-12 00:00:00,500 Amalfiloop,albita626@gmail.com,2019-09-01 00:00:00,"Cruz, Adriel",Milpitas,8325127040,Report PAS DEC 011119.csv,True,False,2006-10-12,2019-09-01
+1982,Ellen,Wong,2014-08-19 00:00:00,,alicecyl@hotmail.com,2020-09-17 00:00:00,"Wong, Ellen",Milpitas,4086698065,Report PAS APR 051221.csv,True,False,2014-08-19,2020-09-17
+1983,Ann,Nguyen,2010-10-26 00:00:00,473 Murray Street Milpitas CA 95035,alou0411@gmail.com,7/16/2019,"Nguyen, Ann",Milpitas,408-4760429,Report PAS APR 051220.csv,True,False,2010-10-26,2019-07-16
+1985,Cole,Gee,1/17/2009 0:00,"1275 Belbrook Place Milpitas, CA",alyu2@yahoo.com,11/4/2024 0:00,"Gee, Cole",Milpitas,,PAS MIL APR 051425.csv,True,False,2009-01-17,2024-11-04
+1987,Lingxi,Gong,2017-04-02 00:00:00,48055 Purpleleaf St,ameliaou1008@gmail.com,2025-09-17 00:00:00,"Gong, Lingxi",Fremont,5107898628,PAS FREMONT DEC 011223.csv,True,False,2017-04-02,2025-09-17
+1988,Monica,Gong,2017-04-02 00:00:00,48055 Purpleleaf St,ameliaou1008@gmail.com,2025-09-17 00:00:00,"Gong, Monica",Fremont,5107898628,PAS FREMONT DEC 011223.csv,True,False,2017-04-02,2025-09-17
+1990,MEERA,NERUKAR,4/16/2018,48432 Silva Pomar Ter,ameyavnerurkar@gmail.com,06/18/2024,"NERUKAR, MEERA",Fremont,4086054758,PAS FREMONT APR 051425.csv,True,False,2018-04-16,2024-06-18
+1991,Pryansh,Choudhary,2018-01-07 00:00:00,"48175 Leigh St, Fremont",amit.2105@gmail.com,2024-10-01 00:00:00,"Choudhary, Pryansh",Fremont,6692516113,PAS FREMONT APR 051425.csv,True,False,2018-01-07,2024-10-01
+1992,Titiksha,Kotak,9/14/2020 0:00,1310 Milkweed Street,amrita.chandarana@gmail.com,7/7/2025 0:00,"Kotak, Titiksha",Milpitas,,PAS MIL AUG 091325.csv,True,False,2020-09-14,2025-07-07
+1993,Emily,Chen,2017-03-26 00:00:00,"670 Cochise ct, Fremont",amy99.chen@gmail.com,2023-08-21 00:00:00,"Chen, Emily",Fremont,6692526762,PAS FREMONT APR 052324.csv,True,False,2017-03-26,2023-08-21
+1994,Charles,Dong,2014-02-22 00:00:00,"7485 Prospect Rd ,Cupertino ,CA 95014",analyselee@gmail.com,2020-06-22 00:00:00,"Dong, Charles",Milpitas,5182859738,Report PAS APR 051221.csv,True,False,2014-02-22,2020-06-22
+1995,Mengtong (Amy),Ma,2013-06-26 00:00:00,"49053 Meadowfaire Cmn, Fremont 94539",angela.liu8101@gmail.com,2023-06-01 00:00:00,"Ma, Mengtong (Amy)",Fremont,5106820365,PAS FREMONT APR 052324.csv,True,False,2013-06-26,2023-06-01
+1996,Grayson,Ma,2011-02-14 00:00:00,,angeljli928@gmail.com,2021-04-01 00:00:00,"Ma, Grayson",Milpitas,5106765830,Report PAS APR 051221.csv,True,False,2011-02-14,2021-04-01
+1997,Tang,Leo,2015-04-30 00:00:00,2021 N Milpitas Blvd,anglilly95@gmail.com,2025-06-09 00:00:00,"Leo, Tang",Fremont,4083948518,PAS FREMONT AUG 091325.csv,True,False,2015-04-30,2025-06-09
+1998,Nancy,Nguyen,2014-01-10 00:00:00,1001 S MainST Apt T307,anhtnguyen69@yahoo.com,2023-07-03 00:00:00,"Nguyen, Nancy",Milpitas,4088929080,PAS MIL AUG 092023.csv,True,False,2014-01-10,2023-07-03
+1999,SHAURYA,SONI,1/1/2019 0:00,564 martil way,ankita.dol@gmail.com,1/6/2025 0:00,"SONI, SHAURYA",Milpitas,,PAS MIL APR 051425.csv,True,False,2019-01-01,2025-01-06
+2000,Shlok,Soni,12/30/2015 0:00,"564 martil way, Milpitas, CA, 95035",ankita.dol@gmail.com,1/6/2025 0:00,"Soni, Shlok",Milpitas,4088306997,PAS MIL APR 051425.csv,True,False,2015-12-30,2025-01-06
+2001,Ada,Chen,4/29/2013 0:00,"155Valmy Street, Milpitas 95035",anniechang719@gmail.com,9/5/2023 0:00,"Chen, Ada",Milpitas,925-6639258,PAS MIL APR 052324.csv,True,False,2013-04-29,2023-09-05
+2003,Ancon,Nguyen,2011-08-05 00:00:00,688 Corinthia,annytran@sbcglobal.net,9/1/2019,"Nguyen, Ancon",Milpitas,4088070062,Report PAS APR 051220.csv,True,False,2011-08-05,2019-09-01
+2004,Anaya,George,4/1/2016 0:00,"1250 Calle de Cuestanada, Milpitas, CA, 95035",ansaephraim@gmail.com,8/19/2024 0:00,"George, Anaya",Milpitas,2012684169,PAS MIL APR 051425.csv,True,False,2016-04-01,2024-08-19
+2005,Saira,George,5/10/2018 0:00,"1250 Calle de Cuestanada, Milpitas, CA, 95035",ansaephraim@gmail.com,8/19/2024 0:00,"George, Saira",Milpitas,2012684169,PAS MIL APR 051425.csv,True,False,2018-05-10,2024-08-19
+2006,Aaron,An,2010-12-21 00:00:00,"1240 Olympic Drive, Milpitas, CA, 95035",anxinghua@gmail.com,2023-08-23 00:00:00,"An, Aaron",Milpitas,6506461428,PAS MIL AUG 092023.csv,True,False,2010-12-21,2023-08-23
+2007,Vincent,An,2012-06-15 00:00:00,"1240 Olympic Drive, Milpitas, CA, 95035",anxinghua@gmail.com,2023-08-23 00:00:00,"An, Vincent",Milpitas,6506461428,PAS MIL AUG 092023.csv,True,False,2012-06-15,2023-08-23
+2008,Hooks,Kaiya,2015-08-23 00:00:00,34196 Rowland Dr,aong47@yahoo.com,2025-06-02 00:00:00,"Kaiya, Hooks",Fremont,5106762755,PAS FREMONT AUG 091325.csv,True,False,2015-08-23,2025-06-02
+2009,Ishani,Kulkarni,2010-04-06 00:00:00,"498 sark ct, Milpitas",apekshakulkarni9@gmail.com,2020-08-17 00:00:00,"Kulkarni, Ishani",Milpitas,4083408636,Report PAS APR 051221.csv,True,False,2010-04-06,2020-08-17
+2010,Jaron,Yang,2015-03-01 00:00:00,"4889 landmark way ,Dublin ,CA 94568",aple_hu@hotmail.com,2020-06-03 00:00:00,"Yang, Jaron",Milpitas,415-900-8118,Report PAS DEC 011120.csv,True,False,2015-03-01,2020-06-03
+2011,Xingchu (Ryan),Ma,2013-06-02 00:00:00,"588 Privet Ter, Fremont",aprilhuang83@gmail.com,2022-01-10 00:00:00,"Ma, Xingchu (Ryan)",Milpitas,9253514314,PAS MIL AUG 092023.csv,True,False,2013-06-02,2022-01-10
+2013,Advith,Ashwin,2017-10-22 00:00:00,"48815 Big Horn Court, Fremont",archana.ashwin@gmail.com,2025-09-16 00:00:00,"Ashwin, Advith",Fremont,408-981-5120,PAS FREMONT DEC 011223.csv,True,False,2017-10-22,2025-09-16
+2014,Chloe,Jiang,5/31/2012 0:00,"336 Grafton Ter, Fremont, CA, 94539",asheng2@yahoo.com,8/1/2023 0:00,"Jiang, Chloe",Milpitas,5106299188,PAS MIL APR 052324.csv,True,False,2012-05-31,2023-08-01
+2015,Ethan,Jiang,4/8/2015 0:00,"336 Grafton Ter, Fremont, CA, 94539",asheng2@yahoo.com,8/1/2023 0:00,"Jiang, Ethan",Milpitas,5106299188,PAS MIL APR 052324.csv,True,False,2015-04-08,2023-08-01
+2016,Cheng,Johnny,2012-12-05 00:00:00,4207 Ogden Drive,babality_4u@yahoo.com,2025-06-02 00:00:00,"Johnny, Cheng",Fremont,5108828973,PAS FREMONT AUG 091325.csv,True,False,2012-12-05,2025-06-02
+2018,CLAIRE,LUO,6/29/2014 0:00,		2151 OAKLAND2 RD SPC 232,baiherui6666@gmail.com,11/1/2023 0:00,"LUO, CLAIRE",Milpitas,4087974251,PAS MIL APR 052324.csv,True,False,2014-06-29,2023-11-01
+2019,Varshith,Pugazh,10/30/2018 0:00,49002 Cinnamon Cmn Fern,balamr0105@gmail.com,10/7/2025 0:00,"Pugazh, Varshith",Milpitas,,PAS MIL NOV 121625.csv,True,False,2018-10-30,2025-10-07
+2020,Varshith Pugazh,Balamurugan,10/30/2018 0:00,49002 Cinnamon Cmn Fern,balamr0105@gmail.com,10/7/2025 0:00,"Balamurugan, Varshith Pugazh",Milpitas,,PAS MIL DEC 011225.csv,True,False,2018-10-30,2025-10-07
+1979,Shivansh,Singh,2017-05-12 00:00:00,30 Washington Square,aks.bitsg@gmail.com,8/16/2024,"Singh, Shivansh",Fremont,4086432868,PAS FREMONT APR 051425.csv,True,True,2017-05-12,2024-08-16
+2021,Derek,Du,2010-09-11 00:00:00,133 N. Temple Drive Milpitas CA 95035,balgoscookie1985@icloud.com,2018-09-02 00:00:00,"Du, Derek",Milpitas,6692268700,Report PAS NOV 120718.csv,True,False,2010-09-11,2018-09-02
+2022,Virgil Wayne,Dollaga,2012-07-04 00:00:00,133 N. Temple Drive Milpitas CA 95035,balgoscookie1985@icloud.com,2018-09-06 00:00:00,"Dollaga, Virgil Wayne",Milpitas,408-9415572,Report PAS APR 050719.csv,True,False,2012-07-04,2018-09-06
+2024,Junqin,Yao,2014-01-24 00:00:00,"1562 Braly Ave. ,Milpitas ,CA 95035",beckysong129@gmail.com,2020-06-22 00:00:00,"Yao, Junqin",Milpitas,4083903175,Report PAS APR 051221.csv,True,False,2014-01-24,2020-06-22
+2028,RICKY,NGUYEN,2016-11-21 00:00:00,"434 Curtner Dr, milpitas",bichngocqn84@yahoo.com,2024-08-19 00:00:00,"NGUYEN, RICKY",Fremont,5103147991,PAS FREMONT APR 051425.csv,True,False,2016-11-21,2024-08-19
+2029,RUBY,NGUYEN,2016-11-21 00:00:00,"434 Curtner Dr, milpitas",bichngocqn84@yahoo.com,2024-08-19 00:00:00,"NGUYEN, RUBY",Fremont,5103147991,PAS FREMONT APR 051425.csv,True,False,2016-11-21,2024-08-19
+2030,Ruoyu,SUN,2014-02-17 00:00:00,,bill_022@hotmail.com,2020-11-01 00:00:00,"SUN, Ruoyu",Milpitas,4084900266,Report PAS DEC 011120.csv,True,False,2014-02-17,2020-11-01
+2031,Surese,Vu,10/21/2008,"120 Dixon Landing, Milpitas, CA 95035",binhbethany89@gmail.com,3/20/2018,"Vu, Surese",Milpitas,408-988881,Report PAS DEC 010718.csv,True,False,2008-10-21,2018-03-20
+2033,Timothy,Xu,3/14/2015,235 Lippert AveFremontCA94539,bjunzhang@gmail.com,8/19/2024,"Xu, Timothy",Fremont,4085108805,PAS FREMONT APR 051425.csv,True,False,2015-03-14,2024-08-19
+2034,Deion,Dang,2013-01-01 00:00:00,40989 Pajaro Dr,bkmlxx@yahoo.com,2025-02-01 00:00:00,"Dang, Deion",Fremont,4085120113,PAS FREMONT APR 051425.csv,True,False,2013-01-01,2025-02-01
+2035,Mengyao,Liu,2011-01-09 00:00:00,43275 chatterton ct,bosong198802@gmail.com,2023-11-03 00:00:00,"Liu, Mengyao",Fremont,5108221710,PAS FREMONT DEC 011720.csv,True,False,2011-01-09,2023-11-03
+2036,Bou,McNulty,2012-06-12 00:00:00,"296 Edgewater Dr, Milpitas, CA 95035",bouboucheng@gmail.com,2019-11-06 00:00:00,"McNulty, Bou",Milpitas,4084318229,Report PAS FEB 031120.csv,True,False,2012-06-12,2019-11-06
+2037,McNulty,Bou,2012-06-12 00:00:00,"296 Edgewater Dr, Milpitas, CA 95035",bouboucheng@gmail.com,2019-11-06 00:00:00,"Bou, McNulty",Milpitas,4084318229,Report PAS DEC 011119.csv,True,False,2012-06-12,2019-11-06
+2038,Jean,Mekoyo,2019-01-22 00:00:00,29505 mission Blvd Apt 406,brunnelf@yahoo.com,2025-03-16 00:00:00,"Mekoyo, Jean",Fremont,5107532567,PAS FREMONT APR 051425.csv,True,False,2019-01-22,2025-03-16
+2039,Krystal,Le,3/13/2012 0:00,"3314 bien way, San Jose, CA",bryanjennyle@gmail.com.com,12/1/2025 0:00,"Le, Krystal",Milpitas,,PAS MIL DEC 011225.csv,True,False,2012-03-13,2025-12-01
+2040,Yiyao,Cai,2018-04-09 00:00:00,8930 Wave Cove Way,caijie0620@gmail.com,2024-10-07 00:00:00,"Cai, Yiyao",Fremont,6503046747,PAS FREMONT APR 051425.csv,True,False,2018-04-09,2024-10-07
+2041,Sunny,Yang,2006-07-31 00:00:00,867 Del Rio Ct Milpitas CA 95035,candychen9069@gmail.com,2018-09-02 00:00:00,"Yang, Sunny",Milpitas,408-4809069,Report PAS APR 050719.csv,True,False,2006-07-31,2018-09-02
+2042,Melody,He,3/7/2013 0:00,1240 Belbrook Way,candymi@hotmail.com,12/1/2023 0:00,"He, Melody",Milpitas,4086146228,PAS MIL APR 052324.csv,True,False,2013-03-07,2023-12-01
+2043,Kimberly,Nguyen,2011-04-29 00:00:00,"1690 Sunnyhill Dr. Milpitas, CA 95035",cantran022012@gmail.com,2018-08-16 00:00:00,"Nguyen, Kimberly",Milpitas,408-207-6746,Report PAS DEC 010718.csv,True,False,2011-04-29,2018-08-16
+2044,Dariah,Feng,2010-10-10 00:00:00,740 Saint Michael Cir,carissad77@yahoo.com,2021-11-18 00:00:00,"Feng, Dariah",Milpitas,510 789 9507,Report PAS APR 051222.csv,True,False,2010-10-10,2021-11-18
+2045,Nora,Casey,2012-03-17 00:00:00,5335 SIERRA RD,carpedmh@gmail.com,2022-06-10 00:00:00,"Casey, Nora",Milpitas,4084990317,Report PAS AUG 091522.csv,True,False,2012-03-17,2022-06-10
+2046,max,wu,2017-04-08 00:00:00,fox hollow ct,cathychwang@gmail.com,2022-06-10 00:00:00,"wu, max",Milpitas,3413459852,Report PAS AUG 091522.csv,True,False,2017-04-08,2022-06-10
+2047,YUCHENG,ZHANG,2/15/2018,43295 Bush ct,cathyzou10@outlook.com,06/05/2024,"ZHANG, YUCHENG",Fremont,6692158549,PAS FREMONT AUG 090424.csv,True,False,2018-02-15,2024-06-05
+2048,Sophia,Kim,42855,47623 Hoyt St,cbkim8677@gmail.com,2025-12-01 00:00:00,"Kim, Sophia",Fremont,6692510861,PAS FREMONT DEC 011223.csv,True,False,2017-04-30,2025-12-01
+2049,Lindsay,Zhu,12/20/2009 0:00,"6183 Potnero Dr, Fremont",cdai@rocketems.com,1/1/2022 0:00,"Zhu, Lindsay",Milpitas,4089168838,PAS MIL APR 052324.csv,True,False,2009-12-20,2022-01-01
+2050,Alex,Wei,2023-01-01 00:00:00,"227 Lippert Ave, Fremont CA",cf.hsudafang@gmail.com,2023-08-16 00:00:00,"Wei, Alex",Fremont,5108813622,PAS FREMONT APR 052324.csv,True,False,2023-01-01,2023-08-16
+2051,Tracy,Wei,2012-09-01 00:00:00,"227 Lippert Ave, Fremont CA",cf.hsudafang@gmail.com,2023-08-16 00:00:00,"Wei, Tracy",Fremont,5108813622,PAS FREMONT APR 052324.csv,True,False,2012-09-01,2023-08-16
+2052,Eric,Zheng,2018-01-26 00:00:00,"1377San Juan Ave, San Jose",ch5029095@gmail.com,2023-09-17 00:00:00,"Zheng, Eric",Milpitas,4089666236,PAS MIL DEC 011723.csv,True,False,2018-01-26,2023-09-17
+2053,David,Tang,10/11/2009 0:00,"1619 Conway Street, Milpitas, CA, 95035",ch_yin@hotmail.com,2/5/2024 0:00,"Tang, David",Milpitas,6502158888,PAS MIL APR 052324.csv,True,False,2009-10-11,2024-02-05
+2054,Evan,Hu,2011-07-01 00:00:00,"1533 Albany ct. ,Milpitas ,CA 95035",charlenewong2008@yahoo.com,2020-07-06 00:00:00,"Hu, Evan",Milpitas,4086444827,Report PAS JUL 081620.csv,True,False,2011-07-01,2020-07-06
+2055,Aidan,Nguyen,2012-09-13 00:00:00,2115 Fieldcrest Dr. MILPITAS,chelsea_ntc@yahoo.com,2020-02-01 00:00:00,"Nguyen, Aidan",Milpitas,4085505781,Report PAS APR 051220.csv,True,False,2012-09-13,2020-02-01
+2056,JACOB,Nguyen,2014-06-12 00:00:00,2115 Fieldcrest Dr. MILPITAS,chelsea_ntc@yahoo.com,2020-02-01 00:00:00,"Nguyen, JACOB",Milpitas,4085505781,Report PAS APR 051220.csv,True,False,2014-06-12,2020-02-01
+2057,Nguyen,Aidan,2012-09-13 00:00:00,2115 Fieldcrest Dr. MILPITAS,chelsea_ntc@yahoo.com,2019-06-17 00:00:00,"Aidan, Nguyen",Milpitas,4085505781,Report PAS AUG 090719.csv,True,False,2012-09-13,2019-06-17
+2058,Nguyen,JACOB,2014-06-12 00:00:00,2115 Fieldcrest Dr. MILPITAS,chelsea_ntc@yahoo.com,2019-06-17 00:00:00,"JACOB, Nguyen",Milpitas,4085505781,Report PAS AUG 090719.csv,True,False,2014-06-12,2019-06-17
+2059,Cherie,Yin,2016-03-04 00:00:00,4157 Redstone Ter,chialingwynn@gmail.com,2025-06-02 00:00:00,"Yin, Cherie",Fremont,5105202610,PAS FREMONT DEC 011223.csv,True,False,2016-03-04,2025-06-02
+2060,Kyrie,Yin,2018-08-14 00:00:00,4159 Redstone Ter,chialingwynn@gmail.com,2025-06-02 00:00:00,"Yin, Kyrie",Fremont,5105202610,PAS FREMONT DEC 011223.csv,True,False,2018-08-14,2025-06-02
+2061,Yin,Cherie,2016-03-04 00:00:00,4157 Redstone Ter,chialingwynn@gmail.com,2025-06-02 00:00:00,"Cherie, Yin",Fremont,5105202610,PAS FREMONT AUG 091325.csv,True,False,2016-03-04,2025-06-02
+2062,Yin,Kyrie,2018-08-14 00:00:00,4159 Redstone Ter,chialingwynn@gmail.com,2025-06-02 00:00:00,"Kyrie, Yin",Fremont,5105202610,PAS FREMONT AUG 091325.csv,True,False,2018-08-14,2025-06-02
+2064,Nathan,Loh,2007-07-24 00:00:00,"46919 Fernald Common, Fremont, CA ",chingnee23@hotmail.com,2019-02-01 00:00:00,"Loh, Nathan",Milpitas,408-3980707,Report PAS APR 050719.csv,True,False,2007-07-24,2019-02-01
+2065,Daksh,Gupta,9/10/2017 0:00,"290 N Park Victoria Dr, Milpitas, CA, 95035",chiragsagi@gmail.com,8/19/2023 0:00,"Gupta, Daksh",Milpitas,5104568792,PAS MIL APR 052324.csv,True,False,2017-09-10,2023-08-19
+2066,Catherine,Nguyen,2011-12-09 00:00:00,"501 Mulphy Ranch Rd 461, Milpitas, 95035",chrissyk111@yahoo.com,2018-08-01 00:00:00,"Nguyen, Catherine",Milpitas,650-773-4182,Report PAS OCT 110719.csv,True,False,2011-12-09,2018-08-01
+2067,Chloe,Nguyen,11/1/2007,"126 Poppy Ct, Milpitas, CA 95035",chrissyk111@yahoo.com,8/1/2017,"Nguyen, Chloe",Milpitas,408-859-7251,Report PAS APR 051220.csv,True,False,2007-11-01,2017-08-01
+2068,Jocelyn,Ly,5/11/2009,628 Manzano St.Milpitas,chrissyk111@yahoo.com,1/1/2019,"Ly, Jocelyn",Milpitas,408-3942074,Report PAS APR 050719.csv,True,False,2009-05-11,2019-01-01
+2069,Kyle,Nguyen,3/21/2012,"126 Poppy Ct, Milpitas, CA 95035",chrissyk111@yahoo.com,2023-08-01 00:00:00,"Nguyen, Kyle",Milpitas,408-859-7251,PAS MIL AUG 092023.csv,True,False,2012-03-21,2023-08-01
+2070,Tyler,Ly,6/11/2012,628 Manzano St.Milpitas,chrissyk111@yahoo.com,1/1/2019,"Ly, Tyler",Milpitas,408-3942074,Report PAS APR 050719.csv,True,False,2012-06-11,2019-01-01
+2073,Ivan,Yang,2013-12-11 00:00:00,"46940 shale common, , Fremont, CA",chtjulia@gmail.com,2023-08-16 00:00:00,"Yang, Ivan",Fremont,6264658590,PAS FREMONT APR 052324.csv,True,False,2013-12-11,2023-08-16
+2074,Kiera,Yang,2011-07-08 00:00:00,"46940 shale common, , Fremont, CA",chtjulia@gmail.com,2023-08-16 00:00:00,"Yang, Kiera",Fremont,6264658590,PAS FREMONT APR 052324.csv,True,False,2011-07-08,2023-08-16
+2076,Alton,Tsang,9/30/2012,"628 Vida Larga Loop, Milpitas, CA 95035",cindylai_99@yahoo.com,2018-08-27 00:00:00,"Tsang, Alton",Milpitas,408-229-3130,Report PAS DEC 010718.csv,True,False,2012-09-30,2018-08-27
+2077,Bailey,Tsang,2010-12-06 00:00:00,"628 Vida Larga Loop, Milpitas, CA 95035",cindylai_99@yahoo.com,2018-08-20 00:00:00,"Tsang, Bailey",Milpitas,408-229-3130,Report PAS DEC 010718.csv,True,False,2010-12-06,2018-08-20
+2078,Hummer,Piao,6/1/2015 0:00,1582 hidden creek ln,cindyre@gmail.com,10/23/2024 0:00,"Piao, Hummer",Milpitas,4083731778,PAS MIL APR 051425.csv,True,False,2015-06-01,2024-10-23
+2079,Alex,Tang,2017-08-15 00:00:00,"48913 Ventura Dr, , Fremont, CA",cissychenjingjing311@gmail.com,2023-08-18 00:00:00,"Tang, Alex",Fremont,4087189860,PAS FREMONT APR 052324.csv,True,False,2017-08-15,2023-08-18
+2080,Christopher,Wu,2007-07-09 00:00:00,"69 Jacklin Circle, Milpitas, CA",cjmaria@gmail.com,2022-02-18 00:00:00,"Wu, Christopher",Milpitas,4085683605,PAS MIL AUG 092023.csv,True,False,2007-07-09,2022-02-18
+2081,Clark,Wu,1/1/2007 0:00,69 Jacklin Circle,cjmaria@gmail.com,2/3/2024 0:00,"Wu, Clark",Milpitas,4085683605,PAS MIL APR 052324.csv,True,False,2007-01-01,2024-02-03
+2082,Eusern,Ng,2007-03-06 00:00:00,"1394 Elkwood Dr, Milpitas  CA 95035",clk_003@yahoo.com,2019-10-19 00:00:00,"Ng, Eusern",Milpitas,4088383737,Report PAS APR 051220.csv,True,False,2007-03-06,2019-10-19
+2083,Helen,Co,2007-09-07 00:00:00,"1936 lakewood dr apt# d ,San jose ,CA 95132",co.longngoc@gmail.com,2020-08-31 00:00:00,"Co, Helen",Milpitas,4086462300,Report PAS APR 051221.csv,True,False,2007-09-07,2020-08-31
+2084,Hillary,Co,2011-11-10 00:00:00,"1936 lakewood dr apt# d ,San jose ,CA 95132",co.longngoc@gmail.com,2020-08-31 00:00:00,"Co, Hillary",Milpitas,4086462300,Report PAS DEC 011120.csv,True,False,2011-11-10,2020-08-31
+2085,Luka,Kurien,2015-11-10 00:00:00,49002 Cinnamon Fern Cmn,cooldk10@gmail.com,2023-07-01 00:00:00,"Kurien, Luka",Milpitas,2137063046,PAS MIL AUG 092023.csv,True,False,2015-11-10,2023-07-01
+2086,KELLY,CHENG,10/1/2012,1750 Lundy Ave,cube@ymail.com,6/3/2024,"CHENG, KELLY",Fremont,6506053215,PAS FREMONT AUG 090424.csv,True,False,2012-10-01,2024-06-03
+2087,Andy,Wang,2014-05-15 00:00:00,"39953 Cedar Blvd unit 221, Newark",cyberlei23@gmail.com,2024-10-23 00:00:00,"Wang, Andy",Fremont,510-896-9021,PAS FREMONT APR 051425.csv,True,False,2014-05-15,2024-10-23
+2088,Alicia,Chu,2012-05-30 00:00:00,"350 Carnegie Drive, Milpitas, CA 95035",cyu220@gmail.com,2019-08-19 00:00:00,"Chu, Alicia",Milpitas,16504830611,Report PAS APR 051220.csv,True,False,2012-05-30,2019-08-19
+2089,Kassidy,Au,2011-06-07 00:00:00,"73 Henriques Lane, Milpitas, CA 95035",cyu220@gmail.com,2018-08-16 00:00:00,"Au, Kassidy",Milpitas,415-4122005,Report PAS APR 050719.csv,True,False,2011-06-07,2018-08-16
+2090,Avalyn,Kim,2/8/2020 0:00,523 Dundee AvenueMilpitasCA95035,daehoonandkimmy@gmail.com,8/26/2024 0:00,"Kim, Avalyn",Milpitas,,PAS MIL AUG 091024.csv,True,False,2020-02-08,2024-08-26
+2091,Emmalyn,Kim,2/24/2016 0:00,523 Dundee AvenueMilpitasCA95035,daehoonandkimmy@gmail.com,8/26/2024 0:00,"Kim, Emmalyn",Milpitas,,PAS MIL AUG 091024.csv,True,False,2016-02-24,2024-08-26
+2092,Aria,Lau,2018-10-28 00:00:00,47560 Kinner Falls Cmn,danlau168@gmail.com,2025-11-08 00:00:00,"Lau, Aria",Fremont,5104748909,PAS FREMONT DEC 011223.csv,True,False,2018-10-28,2025-11-08
+2093,Alysia,Liu,2014-08-15 00:00:00,"47074 Palo Amarillo Dr, , Fremont, CA",danlirealty@gmail.com,2023-08-16 00:00:00,"Liu, Alysia",Fremont,4085696688,PAS FREMONT APR 051425.csv,True,False,2014-08-15,2023-08-16
+2094,Queterie,Ngo,2010-08-20 00:00:00,"588 Carlsbad St., Milpitas, CA, 95035",daomythuy@yahoo.com,2021-09-01 00:00:00,"Ngo, Queterie",Milpitas,4087686361,Report PAS APR 051222.csv,True,False,2010-08-20,2021-09-01
+2095,Darshan,Siddharth,2018-08-28 00:00:00,49114 Rose Ter,darshan.d.komarlu@gmail.com,2025-06-09 00:00:00,"Siddharth, Darshan",Fremont,5183340006,PAS FREMONT AUG 091325.csv,True,False,2018-08-28,2025-06-09
+2096,Theodore,Tong,2012-07-18 00:00:00,"48984 Woodgroove Common , Fremont",defe20080131@gmail.com,2019-02-01 00:00:00,"Tong, Theodore",Milpitas,619-7924603,Report PAS APR 050719.csv,True,False,2012-07-18,2019-02-01
+2097,Eesha,Sreepada,2010-06-06 00:00:00,"1103 Hermina Street, Milpitas, CA",devisreepada@yahoo.com,2018-10-18 00:00:00,"Sreepada, Eesha",Milpitas,408-4800093,Report PAS APR 050719.csv,True,False,2010-06-06,2018-10-18
+2098,Ramya,Sreepada,2014-01-28 00:00:00,"1103 Hermina Street, Milpitas, CA",devisreepada@yahoo.com,2018-10-18 00:00:00,"Sreepada, Ramya",Milpitas,408-4800093,Report PAS APR 050719.csv,True,False,2014-01-28,2018-10-18
+2100,Ziyu,Wu,2012-02-23 00:00:00,"31 San Miguel Ct. Apt1, Milpitas, CA95035",dgxtdht@gmail.com,2018-12-01 00:00:00,"Wu, Ziyu",Milpitas,415-539-6322,Report PAS APR 050719.csv,True,False,2012-02-23,2018-12-01
+2101,Zoey,Wu,2/23/2012 0:00,1062 N Hillview dr,dgxtdht@gmail.com,8/6/2025 0:00,"Wu, Zoey",Milpitas,,PAS MIL AUG 091325.csv,True,False,2012-02-23,2025-08-06
+2102,Hannah,Chen,9/18/2008,"1966 Yosemite Dr., Milpitas, CA 95035",dieuguang888@yahoo.com,2018-01-01 00:00:00,"Chen, Hannah",Milpitas,(408)-818-0511,Report PAS APR 050719.csv,True,False,2008-09-18,2018-01-01
+2103,Kai,Hu,2011-05-26 00:00:00,354 Sequim Common Fremont CA 94539,dieuguang888@yahoo.com,7/16/2019,"Hu, Kai",Milpitas,408-2235588,Report PAS DEC 011119.csv,True,False,2011-05-26,2019-07-16
+2105,Xincheng,Wang,2016-05-26 00:00:00,"49195 Violet Terence, , Fremont, CA",dingshan.cn@gmail.com,2023-08-18 00:00:00,"Wang, Xincheng",Fremont,6318770767,PAS FREMONT APR 052324.csv,True,False,2016-05-26,2023-08-18
+2106,Ishaan,Pedapudi,4/30/2020 0:00,297 barker street,divyadivz93@gmail.com,8/21/2025 0:00,"Pedapudi, Ishaan",Milpitas,,PAS MIL AUG 091325.csv,True,False,2020-04-30,2025-08-21
+2107,Edison,Qiu,2012-07-15 00:00:00,"231 Dixon Landing Rd, Milpitas, CA 95035",divyagutha007@gmail.com,2018-09-02 00:00:00,"Qiu, Edison",Milpitas,510-566-6932,Report PAS APR 051220.csv,True,False,2012-07-15,2018-09-02
+2108,Srinithya,Mullapudi,8/13/2010,"282 Jorgens Drive, Milpitas",divyagutha007@gmail.com,1/6/2019,"Mullapudi, Srinithya",Milpitas,571-2946019,Report PAS APR 050719.csv,True,False,2010-08-13,2019-01-06
+2109,Autumn,Motiwalla,6/28/2014 0:00,"2115 KIWI WALKWAY, San Jose",divyesh86@gmail.com,8/1/2023 0:00,"Motiwalla, Autumn",Milpitas,4083386396,PAS MIL APR 052324.csv,True,False,2014-06-28,2023-08-01
+2110,Vivaan,Gimonkar,6/15/2020 0:00,485 Snap Dragon Street,dnyanavijogewar@gmail.com,8/18/2025 0:00,"Gimonkar, Vivaan",Milpitas,,PAS MIL AUG 091325.csv,True,False,2020-06-15,2025-08-18
+2111,Caleb,Shang,2018-09-04 00:00:00,"263 currlin cir, Milpitas 95035",dongfeishang@gmail.com,2023-06-21 00:00:00,"Shang, Caleb",Milpitas,4088394977,PAS MIL AUG 092023.csv,True,False,2018-09-04,2023-06-21
+2112,Stella,Lu,10/22/2019 0:00,1801 Trudean Way,dongliulu@gmail.com,8/11/2025 0:00,"Lu, Stella",Milpitas,,PAS MIL AUG 091325.csv,True,False,2019-10-22,2025-08-11
+2113,Tiffany,Nguyen,2017-08-15 00:00:00,4044 PAPILLON TER,donguyen64@gmail.com,2025-11-01 00:00:00,"Nguyen, Tiffany",Fremont,5103869058,PAS FREMONT DEC 011223.csv,True,False,2017-08-15,2025-11-01
+2114,Dominic,Son,2011-07-15 00:00:00,",235 Currlin Circle, Milpitas, CA 95035",dsong1025@gmail.com,2018-08-16 00:00:00,"Son, Dominic",Milpitas,4085868276,Report PAS APR 050719.csv,True,False,2011-07-15,2018-08-16
+2115,Yihan,Yang,2014-11-10 00:00:00,"3232 parkhaven dr, San jose CA",dy6521@yahoo.com,2022-03-01 00:00:00,"Yang, Yihan",Milpitas,6464205298,Report PAS APR 051222.csv,True,False,2014-11-10,2022-03-01
+2116,Olivia,Chung,2003-06-09 00:00:00,1168 Moonlight Way Milpitas CA 95035,eapc88@yahoo.com.hk,2018-09-01 00:00:00,"Chung, Olivia",Milpitas,(408)-386-7609,Report PAS APR 050719.csv,True,False,2003-06-09,2018-09-01
+2117,Aaron,Chu,3/4/2012 0:00,839 Pacheco Dr,edc7@yahoo.com,9/3/2024 0:00,"Chu, Aaron",Milpitas,,PAS MIL APR 051425.csv,True,False,2012-03-04,2024-09-03
+2118,Mason,Hsu,2014-03-15 00:00:00,"1028 Jungtrau Ct ,Milpitas ,CA 95035",ejane9430@gmail.com,2020-06-03 00:00:00,"Hsu, Mason",Milpitas,2164827105,Report PAS APR 051221.csv,True,False,2014-03-15,2020-06-03
+2119,Kelvin,Ukeme,12/31/2015 0:00,"1775 Milmont Dr Milpitas, CA",ememkelvin13@gmail.com,2/17/2024 0:00,"Ukeme, Kelvin",Milpitas,4083341074,PAS MIL APR 052324.csv,True,False,2015-12-31,2024-02-17
+2120,Princess,Ukeme,6/15/2018 0:00,"1775 Milmont Dr Milpitas, CA",ememkelvin13@gmail.com,2/17/2024 0:00,"Ukeme, Princess",Milpitas,4083341074,PAS MIL APR 052324.csv,True,False,2018-06-15,2024-02-17
+2122,QUINTUS,CHEUNG,5/24/2017 0:00,"324 SAN PETRA CT APT 4, MILPITAS 95035",emtojw@gmail.com,6/5/2023 0:00,"CHEUNG, QUINTUS",Milpitas,4086600798,PAS MIL APR 051425.csv,True,False,2017-05-24,2023-06-05
+2123,Aiden,Tang,2015-12-10 00:00:00,"44642 Gabrielino Way, Fremont, CA, 94539",etang@pacbell.net,8/30/2024,"Tang, Aiden",Fremont,4157228574,PAS FREMONT APR 051425.csv,True,False,2015-12-10,2024-08-30
+2124,Gabriella,Kim,2008-05-06 00:00:00,949 Courtland Court Milpitas CA 95035,eunicekim75@gmail.com,2018-09-05 00:00:00,"Kim, Gabriella",Milpitas,650-6953127,Report PAS DEC 010718.csv,True,False,2008-05-06,2018-09-05
+2126,kaden,XU,1/14/2009 0:00,709 Parvin Dr,eva_exu@hotmail.com,3/1/2024 0:00,"XU, kaden",Milpitas,,PAS MIL APR 052324.csv,True,False,2009-01-14,2024-03-01
+2127,kenneth,Xu,1/14/2009,"709 Parvin Dr. Milpitas, CA 95035",eva_exu@hotmail.com,2018-08-01 00:00:00,"Xu, kenneth",Milpitas,408-263-8318,Report PAS APR 050719.csv,True,False,2009-01-14,2018-08-01
+2128,Richard,Chang,2013-03-04 00:00:00,39871 Duran Ct,fangli.sf@gmail.com,2022-10-10 00:00:00,"Chang, Richard",Fremont,5103585536,PAS FREMONT AUG 091923.csv,True,False,2013-03-04,2022-10-10
+2129,Sophie,Le,2/5/2007,"536 Maple Ave. Milpitas, CA 95035",fatcat888@hotmail.com,2018-08-01 00:00:00,"Le, Sophie",Milpitas,4085136899,Report PAS APR 050719.csv,True,False,2007-02-05,2018-08-01
+2130,YUENING,LIN,6/24/2018,44908 Wisdom rd,flora.qu@compass.com,06/05/2024,"LIN, YUENING",Fremont,2016651117,PAS FREMONT APR 051425.csv,True,False,2018-06-24,2024-06-05
+2131,Jessica,Zhai,9/3/2014 0:00,203 Wild Rose Way,flysummer@yahoo.com,9/16/2019 0:00,"Zhai, Jessica",Milpitas,4087187827,PAS MIL APR 052324.csv,True,False,2014-09-03,2019-09-16
+2132,Henry,Duewer,39666,286 La Crosse Drive,fwduewer@gmail.com,45008,"Duewer, Henry",Milpitas,5104233414,Report PAS APR 051923.csv,True,False,2008-08-06,2023-03-23
+2134,Shanay,Gajera,7/16/2021 0:00,597 Singley Dr,gajerashirish@gmail.com,8/18/2025 0:00,"Gajera, Shanay",Milpitas,,PAS MIL AUG 091325.csv,True,False,2021-07-16,2025-08-18
+2135,Rivaan,Waghmare,2017-03-03 00:00:00,1042 Pescadero St,ganeshsw@gmail.com,2022-09-19 00:00:00,"Waghmare, Rivaan",Milpitas,4089312793,Report PAS OCT 111722.csv,True,False,2017-03-03,2022-09-19
+2136,Aiden,Zheng,2017-07-24 00:00:00,47879 maya st,gaolili20100@gmail.com,2022-06-11 00:00:00,"Zheng, Aiden",Fremont,5105090555,PAS FREMONT APR 052324.csv,True,False,2017-07-24,2022-06-11
+2140,Grace,Clements,12/19/2005,"120 Dixon Landing Road #164, Milpitas,",gcoria@stanford.edu,1/17/2019,"Clements, Grace",Milpitas,408-4207045,Report PAS APR 050719.csv,True,False,2005-12-19,2019-01-17
+2141,Kyna,Chen,2016-03-07 00:00:00,49119 Rose Ter Fremont Ca 94539,gcychen@outlook.com,2025-01-01 00:00:00,"Chen, Kyna",Fremont,6505245558,PAS FREMONT APR 051425.csv,True,False,2016-03-07,2025-01-01
+2142,Arick,Yuan,2016-02-09 00:00:00,"450 s 19th st, San Jose",gfyuan@gmail.com,2022-03-25 00:00:00,"Yuan, Arick",Fremont,4088292099,PAS FREMONT AUG 091923.csv,True,False,2016-02-09,2022-03-25
+2143,Tanushree,Nallamothu,4/6/2015 0:00,1392 Traughber St,ghemach@gmail.com,9/8/2025 0:00,"Nallamothu, Tanushree",Milpitas,,PAS MIL DEC 011225.csv,True,False,2015-04-06,2025-09-08
+2144,Tanvika,Nallamothu,10/6/2013 0:00,1392 Traughber St,ghemach@gmail.com,9/8/2025 0:00,"Nallamothu, Tanvika",Milpitas,,PAS MIL DEC 011225.csv,True,False,2013-10-06,2025-09-08
+2145,Deng,Jay,7/15/2002,"1756 Country Club Drive, Milpitas",ginadeng@yahoo.com,1/11/2019,"Jay, Deng",Milpitas,408-9640775,Report PAS APR 050719.csv,True,False,2002-07-15,2019-01-11
+2121,Winnie,Pan,2017-04-11 00:00:00,327 Bead Grass TerFremontCA94539,emiliehua1981@gmail.com,2025-08-19 00:00:00,"Pan, Winnie",Fremont,9256635744,PAS FREMONT AUG 091325.csv,True,True,2017-04-11,2025-08-19
+2133,Angela,Fan,2015-02-10 00:00:00,"295 Fusteria Ct., Fremont, CA",fwentao@gmail.com,2024-01-02 00:00:00,"Fan, Angela",Fremont,6692138834,PAS FREMONT APR 051425.csv,True,True,2015-02-10,2024-01-02
+2148,Shaurya,Malviya,12/7/2012 0:00,"1289 Elkwood Drive, Milpitas CA",girsimmy@gmail.com,8/19/2024 0:00,"Malviya, Shaurya",Milpitas,408-6804761,PAS MIL APR 051425.csv,True,False,2012-12-07,2024-08-19
+2149,Timothy,Nguyen,2009-09-14 00:00:00,"501 Mulphy Ranch Rd 461, Milpitas, 95035",girsimmy@gmail.com,2017-08-18 00:00:00,"Nguyen, Timothy",Milpitas,650-773-4182,Report PAS DEC 011119.csv,True,False,2009-09-14,2017-08-18
+2150,Reyansh,Gunupudi,4/5/2015 0:00,48998 Meadow Faire Common,gnageswararao@gmail.com,6/16/2025 0:00,"Gunupudi, Reyansh",Milpitas,,PAS MIL AUG 091325.csv,True,False,2015-04-05,2025-06-16
+2151,Vedansh,Gunupudi,5/21/2018 0:00,48998 Meadow Faire Common,gnageswararao@gmail.com,6/16/2025 0:00,"Gunupudi, Vedansh",Milpitas,,PAS MIL AUG 091325.csv,True,False,2018-05-21,2025-06-16
+2152,Koutaro,Murata,5/5/2012,"178 Millwater Ct, Milpitas, CA 95035",gowu5@yahoo.com,5/1/2018,"Murata, Koutaro",Milpitas,4086607458,Report PAS DEC 010718.csv,True,False,2012-05-05,2018-05-01
+2153,Dylan,Gao,2016-05-31 00:00:00,"4407 Keepsake Rose Cmn, , Fremont, CA",gracesmallrain@yahoo.com,2023-08-23 00:00:00,"Gao, Dylan",Fremont,4089311977,PAS FREMONT APR 052324.csv,True,False,2016-05-31,2023-08-23
+2154,Claire,Fang,2011-11-11 00:00:00,"2874 Summerheights Dr., San Jose, ",graceyhuang99@gmail.com,2018-08-16 00:00:00,"Fang, Claire",Milpitas,4152907781,Report PAS NOV 120718.csv,True,False,2011-11-11,2018-08-16
+2155,Madhuvanthi,Sudharsan,10/22/2011,"94 Washington Sov Dr. Milpitas, CA 95035",gsudhy@gmail.com,2/16/2018,"Sudharsan, Madhuvanthi",Milpitas,408-9075618,Report PAS APR 050719.csv,True,False,2011-10-22,2018-02-16
+2156,Felice,Yu,11/21/2007,"305 Bixny Dr. Milpitas, CA 95035",guanwen1973@icloud.com,9/4/2018,"Yu, Felice",Milpitas,510-350-6303,Report PAS APR 050719.csv,True,False,2007-11-21,2018-09-04
+2157,Jasmine,Yu,6/30/2009,"305 Bixny Dr. Milpitas, CA 95035",guanwen1973@icloud.com,9/4/2018,"Yu, Jasmine",Milpitas,510-350-6303,Report PAS APR 050719.csv,True,False,2009-06-30,2018-09-04
+2158,Almanda,Yu,2016-04-14 00:00:00,"1730 Franck Ave ,Santa Clara ,CA 95051",guixiong2002@gmail.com,2020-07-01 00:00:00,"Yu, Almanda",Milpitas,4087189831,Report PAS JUL 081620.csv,True,False,2016-04-14,2020-07-01
+2159,Eric,Yu,2013-12-20 00:00:00,"1730 Franck Ave, Santa Clara  CA 95051",guixiong2002@gmail.com,2019-10-05 00:00:00,"Yu, Eric",Milpitas,4087189831,Report PAS APR 051220.csv,True,False,2013-12-20,2019-10-05
+2160,Neyansh,Chaudhari,10/23/2017 0:00,406 Donahe dr,gunwant.chaudhari@gmail.com,6/16/2025 0:00,"Chaudhari, Neyansh",Milpitas,,PAS MIL AUG 091325.csv,True,False,2017-10-23,2025-06-16
+2161,Gavin,Dhaliwal,4/1/2016 0:00,1027 cervantez court,gurpreet_boyal@hotmail.com,10/1/2025 0:00,"Dhaliwal, Gavin",Milpitas,,PAS MIL DEC 011225.csv,True,False,2016-04-01,2025-10-01
+2162,Gurtaj,Dhaliwal,8/13/2018 0:00,1027 cervantez court,gurpreet_boyal@hotmail.com,10/1/2025 0:00,"Dhaliwal, Gurtaj",Milpitas,,PAS MIL DEC 011225.csv,True,False,2018-08-13,2025-10-01
+2163,Simon,Zhu,2011-03-04 00:00:00,"1833 Landess ,Milpitas ,CA 95035",haifeng.zhu.cn@gmail.com,2020-06-02 00:00:00,"Zhu, Simon",Milpitas,4084317935,Report PAS APR 051221.csv,True,False,2011-03-04,2020-06-02
+2164,Jason,Wang,4/28/2015,350 Phantom Falls CMNFremontCA94539,haimingw24@gmail.com,8/16/2024,"Wang, Jason",Fremont,7324916636,PAS FREMONT AUG 090424.csv,True,False,2015-04-28,2024-08-16
+2167,Nithik,Tamizhinian,2012-05-07 00:00:00,"440 Dixon landing Road, Milpitas",hemajess@gmail.com,2018-10-02 00:00:00,"Tamizhinian, Nithik",Milpitas,669-2435620,Report PAS APR 050719.csv,True,False,2012-05-07,2018-10-02
+2168,Somaja,Vijayan,2012-10-21 00:00:00, Washington Drive,hemalathar@gmai.com,2018-11-13 00:00:00,"Vijayan, Somaja",Milpitas,408-4760346,Report PAS APR 050719.csv,True,False,2012-10-21,2018-11-13
+2169,Nabhay,Majmudar,7/12/2019 0:00,363 Donahe Dr,heshang.ranjana@gmail.com,6/16/2025 0:00,"Majmudar, Nabhay",Milpitas,,PAS MIL AUG 091325.csv,True,False,2019-07-12,2025-06-16
+2170,Alvin,Jiang,2015-05-01 00:00:00,"46776 Fernald St., , Fremont, CA",hgao5515@gmail.com,2023-08-18 00:00:00,"Jiang, Alvin",Fremont,5105795250,PAS FREMONT APR 052324.csv,True,False,2015-05-01,2023-08-18
+2171,Rashid,Shaik,5/1/2015,747 Choctaw Dr，Fremont,hi.moulaali@gmail.com,11/18/2024,"Shaik, Rashid",Fremont,2066055380,PAS FREMONT APR 051425.csv,True,False,2015-05-01,2024-11-18
+2172,Anh,Cao,2016-09-20 00:00:00,1791 Sunnyhills Dr,hien.nguyen0484@gmail.com,2021-12-06 00:00:00,"Cao, Anh",Milpitas,669-888-8868,Report PAS APR 051222.csv,True,False,2016-09-20,2021-12-06
+2173,Aaron,Liang,2015-11-27 00:00:00,20678 Shelly Dr,hippopotamus1984@gmail.com,2021-03-02 00:00:00,"Liang, Aaron",Milpitas,4086606354,Report PAS APR 051221.csv,True,False,2015-11-27,2021-03-02
+2174,Grace,Liang,2013-01-06 00:00:00,20678 Shelly Dr,hippopotamus1984@gmail.com,2021-03-02 00:00:00,"Liang, Grace",Milpitas,4086606354,Report PAS APR 051221.csv,True,False,2013-01-06,2021-03-02
+2175,Jaiden,Japa,3/8/2019 0:00,436 Desert Holly Street,hjkang57@gmail.com,7/18/2025 0:00,"Japa, Jaiden",Milpitas,,PAS MIL AUG 091325.csv,True,False,2019-03-08,2025-07-18
+2176,Zoey,Truong,2013-12-08 00:00:00,"3185 Knights Bridge Road, San Jose, CA, 95132",hkalyn@yahoo.com,2023-02-28 00:00:00,"Truong, Zoey",Milpitas,5106761325,Report PAS APR 051923.csv,True,False,2013-12-08,2023-02-28
+2177,ROBERT,BALCOMB,10/14/2017,195 Stacia ST,hkvictoria@gmail.com,6/24/2024,"BALCOMB, ROBERT",Milpitas,,PAS MIL AUG 091024.csv,True,False,2017-10-14,2024-06-24
+2178,Hadi,Almathkur,4/26/2016 0:00,23 Duttonwood Ln,hloonice@yahoo.com,3/16/2024 0:00,"Almathkur, Hadi",Milpitas,,PAS MIL APR 052324.csv,True,False,2016-04-26,2024-03-16
+2179,Yifan,Li,2009-09-14 00:00:00,"4415 Westerly Cmn, Fremont",hmm000@163.com,2018-08-20 00:00:00,"Li, Yifan",Milpitas,(650)-421-1589,Report PAS DEC 010718.csv,True,False,2009-09-14,2018-08-20
+2180,Bao-Di,Tran,2011-11-05 00:00:00,"1663 Sunnyhills Dr., Milpitas  CA 95035",hoangmymusic@yahoo.com,2019-10-16 00:00:00,"Tran, Bao-Di",Milpitas,4087170854,Report PAS DEC 011119.csv,True,False,2011-11-05,2019-10-16
+2182,Aurelian,Lin,7/31/2009,1202 Daniel CT,hongthuphan2012@yahoo.com,2019-06-01 00:00:00,"Lin, Aurelian",Milpitas,510-4680756,Report PAS APR 051220.csv,True,False,2009-07-31,2019-06-01
+2183,Keira,Huynh,2007-03-02 00:00:00,"1839 Sunnyhills Dr., Milpitas, CA 95035",hongthuphan2012@yahoo.com,2019-08-16 00:00:00,"Huynh, Keira",Milpitas,6507144355,Report PAS AUG 090719.csv,True,False,2007-03-02,2019-08-16
+2184,Michael,Dai,2011-12-21 00:00:00,"816 silk tree, Irvine",houcc821@gmail.com,2022-03-26 00:00:00,"Dai, Michael",Milpitas,4087991358,Report PAS APR 051222.csv,True,False,2011-12-21,2022-03-26
+2185,KEVIN,WANG,8/8/2013,47441 Avalon Heights Terrace,hsiangchenlee@gmail.com,6/1/2024,"WANG, KEVIN",Milpitas,,PAS MIL APR 051425.csv,True,False,2013-08-08,2024-06-01
+2147,Aileen,Chow,10/10/2014,506 Bristle Grass TerraceFremontCA94539,ginah.kid@gmail.com,8/21/2024,"Chow, Aileen",Fremont,5102602020,PAS FREMONT APR 051425.csv,True,True,2014-10-10,2024-08-21
+2166,Kanishk,golla,42964,"48943 Air Fern Common, Fremont",harish.golla@gmail.com,44911,"golla, Kanishk",Milpitas,6692438102,Report PAS APR 051923.csv,True,True,2017-08-17,2022-12-16
+2186,Eaint Khun(Hazel),Cho,5/17/2015,49002 Cinnamon Fern Common,hsumon.tarm@gmail.com,12/9/2024,"Cho, Eaint Khun(Hazel)",Fremont,3415296214,PAS FREMONT APR 051425.csv,True,True,2015-05-17,2024-12-09
+2188,CHLOE,HUANG,6/21/2018,2932 lambeth ct,huangrunhui510@gmail.com,6/3/2024,"HUANG, CHLOE",Milpitas,,PAS MIL AUG 091024.csv,True,False,2018-06-21,2024-06-03
+2189,Felicity,Du,2012-06-11 00:00:00,"336 goldenrain ave, Fremont CA",huiyunwu93@gmail.com,2021-08-18 00:00:00,"Du, Felicity",Milpitas,319-400-7790,Report PAS APR 051222.csv,True,False,2012-06-11,2021-08-18
+2190,Julian,Du,42736,"336 goldenrain ave, Fremont CA",huiyunwu93@gmail.com,44882,"Du, Julian",Milpitas,319-400-7790,Report PAS APR 051923.csv,True,False,2017-01-01,2022-11-17
+2191,Liam,LeBeuf,2018-04-04 00:00:00,"47500 Kinner Falls Cmn, Fremont, CA 94539",hulanb@icloud.com,2025-02-01 00:00:00,"LeBeuf, Liam",Fremont,4155426994,PAS FREMONT APR 051425.csv,True,False,2018-04-04,2025-02-01
+2192,Ella,Qian,11/15/2013 0:00,3376 Isadora Dr,huting.cn@gmail.com,9/16/2024 0:00,"Qian, Ella",Milpitas,,PAS MIL DEC-2024 011624.csv,True,False,2013-11-15,2024-09-16
+2193,Jay,Huang,2011-12-09 00:00:00,"1207 Summerwind Way, milpitas, CA 95035",hw.winnie@yahoo.om,2019-08-18 00:00:00,"Huang, Jay",Milpitas,408-712-8721,Report PAS APR 051220.csv,True,False,2011-12-09,2019-08-18
+2194,Sylvia,Chi,2013-07-06 00:00:00,103 Smithwood Street,hw.winnie@yahoo.om,2018-11-01 00:00:00,"Chi, Sylvia",Milpitas,408-8925525,Report PAS APR 050719.csv,True,False,2013-07-06,2018-11-01
+2195,Sophie,Ong,2011-12-01 00:00:00,,hwei26@hotmail.com,2020-11-16 00:00:00,"Ong, Sophie",Milpitas,4083148206,Report PAS DEC 011120.csv,True,False,2011-12-01,2020-11-16
+2196,Meggie,Li,2011-07-12 00:00:00,"245 Wenatchee CMN ,Fremont ,CA 94539",hxzhou@gmail.com,2020-06-22 00:00:00,"Li, Meggie",Fremont,4083321491,PAS FREMONT APR 052324.csv,True,False,2011-07-12,2020-06-22
+2197,Daniel,Gim,10/10/2012,"837 Penitencia St, Milpitas, CA 95035",hyeonmin0505@gmail.com,5/1/2018,"Gim, Daniel",Milpitas,979-587-8311,Report PAS APR 050719.csv,True,False,2012-10-10,2018-05-01
+2198,Yunsu,Gim,3/2/ 2011,"837 Penitencia St, Milpitas, CA 95035",hyeonmin0505@gmail.com,2/7/2018,"Gim, Yunsu",Milpitas,979-587-8311,Report PAS APR 050719.csv,True,False,2011-03-02,2018-02-07
+2199,Eva,Shah,9/10/2019 0:00,963 Erie Cir,iamevashah@gmail.com,8/18/2025 0:00,"Shah, Eva",Milpitas,,PAS MIL AUG 091325.csv,True,False,2019-09-10,2025-08-18
+2200,Sandhya,Iyer,1/31/2016 0:00,181 Parc Place Dr,indranil.iyer@gmail.com,9/2/2025 0:00,"Iyer, Sandhya",Milpitas,,PAS MIL DEC 011225.csv,True,False,2016-01-31,2025-09-02
+2201,Vishwan,Iyer,9/25/2017 0:00,181 Parc Place Dr,indranil.iyer@gmail.com,9/2/2025 0:00,"Iyer, Vishwan",Milpitas,,PAS MIL DEC 011225.csv,True,False,2017-09-25,2025-09-02
+2202,Kai,Tanutama,2018-02-11 00:00:00,328 Grafton Terrace,intanlilyana@gmail.com,2025-09-01 00:00:00,"Tanutama, Kai",Fremont,4083246817,PAS FREMONT DEC 011223.csv,True,False,2018-02-11,2025-09-01
+2203,Natan,Sebhatu,2014-07-21 00:00:00,440 Dixon Landing,isaacsh2000@yahoo.com,2019-09-19 00:00:00,"Sebhatu, Natan",Milpitas,6506450741,Report PAS DEC 011119.csv,True,False,2014-07-21,2019-09-19
+2204,Ava,Shao,3/11/2016 0:00,930 Westridge Dr.,jackiew0507@gmail.com,6/23/2025 0:00,"Shao, Ava",Milpitas,,PAS MIL AUG 091325.csv,True,False,2016-03-11,2025-06-23
+2205,Luis,Hau,2013-04-13 00:00:00,Warm Spring,jade1101@hotmail.com,2019-09-01 00:00:00,"Hau, Luis",Milpitas,4087759975,Report PAS APR 051220.csv,True,False,2013-04-13,2019-09-01
+2206,Michelle,Hau,5/3/2012,Warm Spring,jade1101@hotmail.com,2019-09-01 00:00:00,"Hau, Michelle",Milpitas,4087759975,Report PAS APR 051220.csv,True,False,2012-05-03,2019-09-01
+2207,Richard,Liu,2017-07-27 00:00:00,47069 Benns Ter,janezh3080@gmail.com,2022-06-16 00:00:00,"Liu, Richard",Fremont,5103035129,PAS FREMONT APR 052324.csv,True,False,2017-07-27,2022-06-16
+2208,Micah,Finder,5/4/2018 0:00,43 Midwick Dr,jared.finder@gmail.com,3/21/2024 0:00,"Finder, Micah",Milpitas,,PAS MIL APR 052324.csv,True,False,2018-05-04,2024-03-21
+2209,Shrinika,Jatsi,8/7/2018 0:00,874 Berryessa St,jasti_sharada@yahoo.com,9/2/2025 0:00,"Jatsi, Shrinika",Milpitas,,PAS MIL DEC 011225.csv,True,False,2018-08-07,2025-09-02
+2210,Isitva,Vempali,10/23/2015 0:00,"2051 Calle Mesa Alta, Milpitas, CA, 95035",jayaram.csit@gmail.com,8/28/2023 0:00,"Vempali, Isitva",Milpitas,3375296156,PAS MIL APR 051425.csv,True,False,2015-10-23,2023-08-28
+2211,IRIS,CHAN,6/14/2014 0:00,"610 Shetland Ct, Milpitas",jchan138@gmail.com,4/1/2024 0:00,"CHAN, IRIS",Milpitas,,PAS MIL APR 051425.csv,True,False,2014-06-14,2024-04-01
+2212,JENNY,CHAN,3/29/2010 0:00,"610 Shetland Ct, Milpitas",jchan138@gmail.com,4/1/2024 0:00,"CHAN, JENNY",Milpitas,,PAS MIL APR 051425.csv,True,False,2010-03-29,2024-04-01
+2213,Santria,Antin,1/5/2017 0:00,863 Nieves Street,jeenu.antin@gmail.com,1/20/2025 0:00,"Antin, Santria",Milpitas,,PAS MIL APR 051425.csv,True,False,2017-01-05,2025-01-20
+2214,Justin,Yang,2010-11-22 00:00:00,4079 Carol Avenue,jeenyw8@yahoo.com,2022-06-16 00:00:00,"Yang, Justin",Milpitas,4085066388,Report PAS AUG 091522.csv,True,False,2010-11-22,2022-06-16
+2215,Anvika,Patil,4/1/2019,3511 Vision Cmn Unit 1004FremontCA94538,jeetenpatil@gmail.com,7/22/2024,"Patil, Anvika",Fremont,7063088178,PAS FREMONT APR 051425.csv,True,False,2019-04-01,2024-07-22
+2216,Emmi,Wong,5/2/2006,"661 Vasona St, Milpitas, CA 95035",jessicaxyz@yahoo.com,7/1/2018,"Wong, Emmi",Milpitas,415-385-6760,Report PAS NOV 120718.csv,True,False,2006-05-02,2018-07-01
+2217,Angel,Deborja,9/29/2013 0:00,340 Brisa Suave CMN,jewelldbj13@gmail.com,10/1/2024 0:00,"Deborja, Angel",Milpitas,,PAS MIL APR 051425.csv,True,False,2013-09-29,2024-10-01
+2218,Kavya,Shah,3/19/2018 0:00,732 Erie Cir,jhaveri.jyoti@gmail.com,8/25/2025 0:00,"Shah, Kavya",Milpitas,,PAS MIL AUG 091325.csv,True,False,2018-03-19,2025-08-25
+2219,Jasper,Yoshioka,2/9/2020 0:00,2305 Glenview Dr,jhyschool2020@gmail.com,8/21/2025 0:00,"Yoshioka, Jasper",Milpitas,,PAS MIL AUG 091325.csv,True,False,2020-02-09,2025-08-21
+2220,Lily,Zhou,2012-08-29 00:00:00,"609 Sammie Ave, Fremont",jianping.zhou@gmail.com,2022-01-10 00:00:00,"Zhou, Lily",Milpitas,4084399332,Report PAS APR 051222.csv,True,False,2012-08-29,2022-01-10
+2221,Chris,Wu,2020-01-01 00:00:00,"1605 Arizona Ave ,Milpitas ,CA 95035",jiawen198564@gmail.com,2020-06-01 00:00:00,"Wu, Chris",Milpitas,4157124727,Report PAS DEC 011120.csv,True,False,2020-01-01,2020-06-01
+2222,Wu,Chris,1/1/2012,"1605 Arizona Ave, Milpitas, CA 95035",jiawen198564@gmail.com,11/13/2019,"Chris, Wu",Milpitas,4157124727,Report PAS APR 051220.csv,True,False,2012-01-01,2019-11-13
+2223,Jasmine,Zhang,2017-08-29 00:00:00,"44 Essanay Ave , Fremont, CA ",jiazi3303@gmail.com,2023-09-05 00:00:00,"Zhang, Jasmine",Fremont,5105579050,PAS FREMONT APR 051425.csv,True,False,2017-08-29,2023-09-05
+2224,Joe,Tang,2008-01-08 00:00:00,"44930 Lynx Dr.Fremont, CA",jie9ding18@gmail.com,2018-08-22 00:00:00,"Tang, Joe",Milpitas,(408)-800-8209,Report PAS DEC 010718.csv,True,False,2008-01-08,2018-08-22
+2225,LingQun(Joy),Tang,2015-03-23 00:00:00,"44930 Lynx Dr., Fremont, CA, 94539",jie9ding18@gmail.com,2024-09-01 00:00:00,"Tang, LingQun(Joy)",Fremont,5109848496,PAS FREMONT APR 051425.csv,True,False,2015-03-23,2024-09-01
+2227,XunRan (Michelle),Yuan,12/26/2016 0:00,"2125 Limewood Drive , San Jose",jin.fighting@gmail.com,7/28/2025 0:00,"Yuan, XunRan (Michelle)",Milpitas,,PAS MIL DEC 011225.csv,True,False,2016-12-26,2025-07-28
+2229,Yuan,XunRan (Michelle),12/26/2016 0:00,"2125 Limewood Drive , San Jose",jin.fighting@gmail.com,7/28/2025 0:00,"XunRan (Michelle), Yuan",Milpitas,,PAS MIL NOV 121625.csv,False,False,2016-12-26,2025-07-28
+2232,Leyi,Lin,2015-06-23 00:00:00,294 Washington Dr.MilpitasCA95035,jinfenghu42@gmail.com,2025-08-19 00:00:00,"Lin, Leyi",Fremont,6692331853,PAS FREMONT AUG 091325.csv,True,False,2015-06-23,2025-08-19
+2233,Emily,Lin,7/15/2013 0:00,"47238 Armata st, Fremont, CA, 94539",jing.huang1982@gmail.com,2/2/2023 0:00,"Lin, Emily",Milpitas,5105652958,PAS MIL APR 052324.csv,True,False,2013-07-15,2023-02-02
+2234,Jeremy,Su,2016-05-24 00:00:00,"736 Maya Ct. Fremont, CA 94539",jinghuazhao950@gmail.com,2025-02-07 00:00:00,"Su, Jeremy",Fremont,4703493407,PAS FREMONT APR 051425.csv,True,False,2016-05-24,2025-02-07
+2235,ZIQIANG,ZHANG,5/24/2008 0:00,440 DIXON LANDING RD APT J-303,jingxiabai1982@yahoo.com,6/18/2021 0:00,"ZHANG, ZIQIANG",Milpitas,6266204470,Report PAS AUG 092021.csv,True,False,2008-05-24,2021-06-18
+2236,Lisa,Wang,7/5/2016 0:00,"1803 Cannal Way, San Jose, CA",jinyuhan126581@gmail.com,6/16/2025 0:00,"Wang, Lisa",Milpitas,4088632948,PAS MIL AUG 091325.csv,True,False,2016-07-05,2025-06-16
+2237,Janice,Wang,2007-09-09 00:00:00,"77 Duttonwood Lane, Milpitas, CA 95035",jjjjune@yahoo.com,7/16/2018,"Wang, Janice",Milpitas,405-290-8673,Report PAS APR 050719.csv,True,False,2007-09-09,2018-07-16
+2238,Serena,Wang,6/8/2009,"77 Duttonwood Lane, Milpitas, CA 95035",jjjjune@yahoo.com,7/16/2018,"Wang, Serena",Milpitas,405-290-8673,Report PAS APR 050719.csv,True,False,2009-06-08,2018-07-16
+2240,Shafiq,Mir,12/10/2010 0:00,"3467 Maroun Place, San Jose",jmahbub@gmail.com,3/1/2022 0:00,"Mir, Shafiq",Milpitas,4083328281,PAS MIL APR 051425.csv,True,False,2010-12-10,2022-03-01
+2241,Caleb,Antonio,8/2/2015 0:00,804 Deboer Lane,jnnfr_diep@yahoo.com,1/2/2024 0:00,"Antonio, Caleb",Milpitas,4089069262,PAS MIL APR 051425.csv,True,False,2015-08-02,2024-01-02
+2242,Liliana,Antonio,4/23/2019 0:00,804 Deboer LaneSan JoseCA95111,jnnfr_diep@yahoo.com,8/19/2024 0:00,"Antonio, Liliana",Milpitas,,PAS MIL APR 051425.csv,True,False,2019-04-23,2024-08-19
+2243,Mason,Antonio,8/24/2016 0:00,804 Deboer Lane,jnnfr_diep@yahoo.com,1/2/2024 0:00,"Antonio, Mason",Milpitas,4089069262,PAS MIL APR 051425.csv,True,False,2016-08-24,2024-01-02
+2244,Lucas,Yao,2010-04-20 00:00:00,"40927 Cantare Pl ,Fremont ,CA 94539",joanliu2004@gmail.com,2020-09-17 00:00:00,"Yao, Lucas",Milpitas,5102990900,Report PAS APR 051221.csv,True,False,2010-04-20,2020-09-17
+2245,Amber,Lee,5/12/2012 0:00,"2768 Somerset, San Jose",jocelyn.x.zh@gmail.com,3/1/2025,"Lee, Amber",Milpitas,4082293998,PAS MIL APR 051425.csv,True,False,2012-05-12,2025-03-01
+2246,Mahi,Sutaria,4/26/2015 0:00,"1035 Hamilton Ave. Milpitas, CA 95035",jolly0209@gmail.com,2/5/2024 0:00,"Sutaria, Mahi",Milpitas,4088196548,PAS MIL APR 052324.csv,True,False,2015-04-26,2024-02-05
+2247,Penelope,Ng,3/25/2016 0:00,"444 Elm Court, Milpitas, CA, USA",joycechong14@gmail.com,8/16/2023 0:00,"Ng, Penelope",Milpitas,5743398769,PAS MIL APR 051425.csv,True,False,2016-03-25,2023-08-16
+2248,Olivia,Wang,2013-01-09 00:00:00,"1444 David Ln, Milpitas, CA, 95035",jpwang121@gmail.com,2021-09-01 00:00:00,"Wang, Olivia",Milpitas,4084313075,Report PAS OCT 112421.csv,True,False,2013-01-09,2021-09-01
+2249,Dhivya,Sivaruban,2013-03-30 00:00:00,559 Tumble Grass Terrace Fremont CA 94539,jthulasi@gmail.com,2018-09-10 00:00:00,"Sivaruban, Dhivya",Milpitas,408-2064921,Report PAS APR 050719.csv,True,False,2013-03-30,2018-09-10
+2250,Sophia,Wang,12/21/2012,"1571 Dennis Avenue, MILPITAS",julialue@hotmail.com,7/16/2019,"Wang, Sophia",Milpitas,408-4106826,Report PAS AUG 090719.csv,True,False,2012-12-21,2019-07-16
+2251,Wang,Sophia,12/21/2012,"1571 Dennis Avenue, MILPITAS",julialue@hotmail.com,7/16/2019,"Sophia, Wang",Milpitas,408-4106826,Report PAS JULY 080719.csv,True,False,2012-12-21,2019-07-16
+2252,Huang,Jocelyn,2014-05-14 00:00:00,131 Jose Figueres Ave,junhuang198110@gmail.com,2022-07-25 00:00:00,"Jocelyn, Huang",Milpitas,5103585251,Report PAS APR 051923.csv,True,False,2014-05-14,2022-07-25
+2253,Jocelyn,Huang,5/14/2014 0:00,131 Jose Figueres Ave,junhuang198110@gmail.com,7/25/2022 0:00,"Huang, Jocelyn",Milpitas,5103585251,PAS MIL APR 051425.csv,True,False,2014-05-14,2022-07-25
+2254,Lakshana,Rajeshkumar,2010-03-20 00:00:00,"APT H203, 440 Dixon Landing Road, Milpitas, CA",kalabarajesh@gmail.com,2021-04-01 00:00:00,"Rajeshkumar, Lakshana",Milpitas,7146514044,Report PAS APR 051221.csv,True,False,2010-03-20,2021-04-01
+2255,Pooja,Ragala,2009-01-01 00:00:00,"1610 Adams Ave#1, Milpitas, CA 95035",kalahasti.madhuri@gmail.com,2018-08-22 00:00:00,"Ragala, Pooja",Milpitas,858-8866865,Report PAS APR 050719.csv,True,False,2009-01-01,2018-08-22
+2256,Mohitha,Varatharajan,2009-05-31 00:00:00,440 Dixon landing Road,kalai.varthu@gmail.com,2021-02-03 00:00:00,"Varatharajan, Mohitha",Milpitas,4086240995,Report PAS APR 051221.csv,True,False,2009-05-31,2021-02-03
+2257,Atharva,Singh,2017-08-30 00:00:00,"4269 Delaware Dr, Fremont, CA, 94538",kameshwar2004@gmail.com,2023-09-05 00:00:00,"Singh, Atharva",Fremont,8173712065,PAS FREMONT APR 052324.csv,True,False,2017-08-30,2023-09-05
+2258,Vishnu Vardhan,Hanumanula,2018-11-05 00:00:00,48907 Air Fern CommonFremontCA94539,karempudi.bhavya@gmail.com,2025-08-19 00:00:00,"Hanumanula, Vishnu Vardhan",Fremont,6507891500,PAS FREMONT AUG 091325.csv,True,False,2018-11-05,2025-08-19
+2259,Ann,Nguyen,2010-10-26 00:00:00,473 Murray Street Milpitas CA 95035,karilynk@gmail.com,7/16/2019,"Nguyen, Ann",Milpitas,408-4760429,Report PAS APR 051220.csv,True,False,2010-10-26,2019-07-16
+2260,Audrey,Loui,7/23/2012,"505 Topham Ct. Milpitas, CA 95035",karilynk@gmail.com,5/22/2018,"Loui, Audrey",Milpitas,408-8346209,Report PAS APR 050719.csv,True,False,2012-07-23,2018-05-22
+2290,Reya,Shah,4/27/2012,"27 Vienna Drive, Milpitas",laxa123@gmail.com,1/6/2019,"Shah, Reya",Milpitas,408-4443615,Report PAS APR 050719.csv,False,False,2012-04-27,2019-01-06
+2261,Catherine,Nguyen,2011-12-09 00:00:00,"501 Mulphy Ranch Rd 461, Milpitas, 95035",karilynk@gmail.com,2017-08-18 00:00:00,"Nguyen, Catherine",Milpitas,650-773-4182,Report PAS DEC 011119.csv,True,False,2011-12-09,2017-08-18
+2262,Vera,Loui,8/24/2009,"505 Topham Ct. Milpitas, CA 95035",karilynk@gmail.com,2019-01-01 00:00:00,"Loui, Vera",Milpitas,408-8346209,Report PAS APR 050719.csv,True,False,2009-08-24,2019-01-01
+2263,KATYAAYANI,KARTHIK,4/3/2018,48968 Lady Fern Cmn,karthikm2006@gmail.com,06/18/2024,"KARTHIK, KATYAAYANI",Fremont,5105654841,PAS FREMONT JULY 083024.csv,True,False,2018-04-03,2024-06-18
+2264,ZHnag,Ivan,2016-11-01 00:00:00,4207 Ogden,kathy09041101@gmail.com,2025-06-30 00:00:00,"Ivan, ZHnag",Fremont,4207 Ogden,PAS FREMONT JUNE 072225.csv,True,False,2016-11-01,2025-06-30
+2265,Zhang,Ivan,2016-11-01 00:00:00,4207 Ogden,kathy09041101@gmail.com,2025-06-30 00:00:00,"Ivan, Zhang",Fremont,4207 Ogden,PAS FREMONT AUG 091325.csv,True,False,2016-11-01,2025-06-30
+2266,London,Le,5/21/2019 0:00,204 redwood avenue,kathylern@gmail.com,9/8/2024 0:00,"Le, London",Milpitas,,PAS MIL DEC-2024 011624.csv,True,False,2019-05-21,2024-09-08
+2267,Kelly,Chung,2007-04-30 00:00:00,1922 Queen Mary Ct San Jose CA 95132,kchung05@yahoo.com,2018-09-01 00:00:00,"Chung, Kelly",Milpitas,(408)-729-1568,Report PAS APR 050719.csv,True,False,2007-04-30,2018-09-01
+2268,Wong,Kaiden Wong,2012-08-14 00:00:00,"47644 Bannon Ct, Fremont",kcwong2002@gmail.com,2025-07-17 00:00:00,"Kaiden Wong, Wong",Fremont,5106848488,PAS FREMONT AUG 091325.csv,True,False,2012-08-14,2025-07-17
+2269,Felix,Zeng,2019-02-25 00:00:00,"PO Box 360424, MILPITAS, CA",kenzeng2@yahoo.com,2024-01-26 00:00:00,"Zeng, Felix",Fremont,5107505202,PAS FREMONT APR 052324.csv,True,False,2019-02-25,2024-01-26
+2270,Aaron,Castro,2016-05-31 00:00:00,"2065 Old Piedmont Rd, San Jose",kgoltiao@gmail.com,2022-02-06 00:00:00,"Castro, Aaron",Milpitas,4082046275,Report PAS APR 051222.csv,True,False,2016-05-31,2022-02-06
+2272,Kenny,Vu,2019-01-01 00:00:00,96 Delta Green Fremont CA 94538,khanhhang96@yahoo.com,2018-09-06 00:00:00,"Vu, Kenny",Milpitas,(510)-557-3769,Report PAS NOV 120718.csv,True,False,2019-01-01,2018-09-06
+2273,Blair,Le,6/26/2018 0:00,3100 Melchester Dr,khanhmaivuong@gmail.com,9/23/2024 0:00,"Le, Blair",Milpitas,7142305311,PAS MIL APR 051425.csv,True,False,2018-06-26,2024-09-23
+2274,Bailey,Lim,4/14/2005,"1226 Elkwood. Milpitas, CA 95035",khwlim@yahoo.com,6/16/2016,"Lim, Bailey",Milpitas,415-516-3978,Report PAS APR 050719.csv,True,False,2005-04-14,2016-06-16
+2275,Kristen,Chang,8/16/2018 0:00,631 Troon Court,kimachu@gmail.com,3/17/2025 0:00,"Chang, Kristen",Milpitas,,PAS MIL APR 051425.csv,True,False,2018-08-16,2025-03-17
+2276,Lauren,Chang,5/7/2016 0:00,631 Troon Court,kimachu@gmail.com,9/1/2024 0:00,"Chang, Lauren",Milpitas,,PAS MIL APR 051425.csv,True,False,2016-05-07,2024-09-01
+2277,Gavin,Garcia,2011-11-08 00:00:00,720 Tramway Dr,kimstuder26@gmail.com,2022-08-16 00:00:00,"Garcia, Gavin",Milpitas,5103780855,Report PAS AUG 091522.csv,True,False,2011-11-08,2022-08-16
+2278,Arjun,Sing,2015-02-04 00:00:00,	261 Edgewater Dr,kismatsingh.a@gmail.com,2023-11-02 00:00:00,"Sing, Arjun",Milpitas,4088028785,PAS MIL DEC 011723.csv,True,False,2015-02-04,2023-11-02
+2279,Arjun,Singh,2/4/2015 0:00,	261 Edgewater Dr,kismatsingh.a@gmail.com,11/2/2023 0:00,"Singh, Arjun",Milpitas,4088028785,PAS MIL APR 051425.csv,True,False,2015-02-04,2023-11-02
+2280,Jiang,Jennie,2006-05-16 00:00:00,"1275 Canton Drive, MILPITAS",kj647688@gmail.com,2019-06-24 00:00:00,"Jennie, Jiang",Milpitas,4089423050,Report PAS AUG 090719.csv,True,False,2006-05-16,2019-06-24
+2281,Jessica,Segales,1/31/2013 0:00,807 tassasara drive,kkwan99@yahoo.com,8/17/2022 0:00,"Segales, Jessica",Milpitas,14083966159,PAS MIL APR 051425.csv,True,False,2013-01-31,2022-08-17
+2282,Louie,Cao,2014-01-24 00:00:00,1244 Sioux Ct,konaxyz@gmail.com,2022-08-22 00:00:00,"Cao, Louie",Milpitas,6503390856,Report PAS APR 051923.csv,True,False,2014-01-24,2022-08-22
+2283,Remmy,Cao,2014-01-24 00:00:00,1244 Sioux Ct,konaxyz@gmail.com,2022-06-06 00:00:00,"Cao, Remmy",Milpitas,6503390856,Report PAS APR 051923.csv,True,False,2014-01-24,2022-06-06
+2284,Abbie,Peng,2009-10-27 00:00:00,"242 Uvas Street， Milpitas, CA95035",kypeng@gmail.com,2018-08-16 00:00:00,"Peng, Abbie",Milpitas,215-939-0304,Report PAS APR 050719.csv,True,False,2009-10-27,2018-08-16
+2285,Bodhi,Peng,2012-02-21 00:00:00,"242 Uvas Street， Milpitas, CA95035",kypeng@gmail.com,2018-10-02 00:00:00,"Peng, Bodhi",Milpitas,215-939-0304,Report PAS APR 050719.csv,True,False,2012-02-21,2018-10-02
+2286,Miao,Alven,5/5/2005,"2283 Devon Pl, Milpitas, CA 95035",kzkitchen@gmail.com,11/5/2019,"Alven, Miao",Milpitas,5108965652,Report PAS DEC 011119.csv,True,False,2005-05-05,2019-11-05
+2287,Thansi Chowdary,Inaganti,2012-09-03 00:00:00,"20 BearPaw, 49A, Irvine, CA, 92604",lallychowdary@gmail.com,2021-09-11 00:00:00,"Inaganti, Thansi Chowdary",Milpitas,949-231-2657,Report PAS APR 051222.csv,True,False,2012-09-03,2021-09-11
+2288,Furui,Lei,2011-04-13 00:00:00,"4140 Felter Rd., Milpitas, CA, 95035",laolei2020@gmail.com,2023-02-16 00:00:00,"Lei, Furui",Milpitas,9254348068,Report PAS APR 051923.csv,True,False,2011-04-13,2023-02-16
+2289,Fuzhi,Lei,2011-04-13 00:00:00,"4140 Felter Rd., Milpitas, CA, 95035",laolei2020@gmail.com,2023-02-16 00:00:00,"Lei, Fuzhi",Milpitas,9254348068,Report PAS APR 051923.csv,True,False,2011-04-13,2023-02-16
+2291,Raeya,Chang,2018-07-04 00:00:00,3909 Engage Ter Unit 301,lcleeman@gmail.com,2025-03-01 00:00:00,"Chang, Raeya",Fremont,8584722267,PAS FREMONT APR 051425.csv,True,False,2018-07-04,2025-03-01
+2292,Aiden,Ye,2018-02-15 00:00:00,"735 Casa Bonita Court, Los Altos",leahlilywang@gmail.com,2022-03-21 00:00:00,"Ye, Aiden",Milpitas,6507668371,Report PAS APR 051222.csv,True,False,2018-02-15,2022-03-21
+2293,Louis,liu,2013-08-10 00:00:00,"47342 Mission falls ct, Fremont 94539",leehomc123@gmail.com,2023-06-05 00:00:00,"liu, Louis",Fremont,4156099128,PAS FREMONT APR 052324.csv,True,False,2013-08-10,2023-06-05
+2294,Olivia,liu,2017-01-22 00:00:00,"47342 Mission falls ct, Fremont 94539",leehomc123@gmail.com,2023-06-05 00:00:00,"liu, Olivia",Fremont,4156099128,PAS FREMONT APR 052324.csv,True,False,2017-01-22,2023-06-05
+2295,Kate,Hang,9/1/2014,310 Stocker Ct，Fremont,leeliantan@gmail.com,11/16/2024,"Hang, Kate",Fremont,4083389401,PAS FREMONT APR 051425.csv,True,False,2014-09-01,2024-11-16
+2296,Anthony,Lu,2012-12-10 00:00:00,"117 Fisk Terrace, Fremont, CA, 94539",lewis1318@hotmail.com,2023-09-11 00:00:00,"Lu, Anthony",Fremont,4153956788,PAS FREMONT APR 052324.csv,True,False,2012-12-10,2023-09-11
+2297,Nathan,Lu,2014-08-24 00:00:00,"117 Fisk Terrace, Fremont, CA, 94539",lewis1318@hotmail.com,2023-09-11 00:00:00,"Lu, Nathan",Fremont,4153956788,PAS FREMONT APR 052324.csv,True,False,2014-08-24,2023-09-11
+2299,Anna,Yu,9/2/2014 0:00,"1400 Olympic Dr., Milpitas, CA, 95035",libing.wang@gmail.com,10/30/2023 0:00,"Yu, Anna",Milpitas,5104027791,PAS MIL APR 052324.csv,True,False,2014-09-02,2023-10-30
+2300,Matthew,Li,2017-06-16 00:00:00,48909 rustyleaf ter,lihuisophia@gmail.com,2022-10-01 00:00:00,"Li, Matthew",Milpitas,4352252200,Report PAS APR 051923.csv,True,False,2017-06-16,2022-10-01
+2301,Matthew,Wang,2017-06-16 00:00:00,48909 rustyleaf ter,lihuisophia@gmail.com,2022-10-01 00:00:00,"Wang, Matthew",Fremont,4352252200,PAS FREMONT APR 052324.csv,True,False,2017-06-16,2022-10-01
+2302,Nathan,Wang,2017-06-16 00:00:00,48909 rustyleaf ter,lihuisophia@gmail.com,2022-10-01 00:00:00,"Wang, Nathan",Fremont,4352252200,PAS FREMONT APR 052324.csv,True,False,2017-06-16,2022-10-01
+2303,Jeffrey,Chen,2010-02-08 00:00:00,"4664 Cheeney St,, Santa Clara, CA, 95054",lilian010@gmail.com,2021-09-09 00:00:00,"Chen, Jeffrey",Milpitas,1(408)329-0550,Report PAS NOV 121321.csv,True,False,2010-02-08,2021-09-09
+2304,Lavernie,Chen,2010-02-08 00:00:00,"4664 Cheeney St,, Santa Clara, CA, 95054",lilian010@gmail.com,2021-09-09 00:00:00,"Chen, Lavernie",Milpitas,1(408)329-0550,Report PAS NOV 121321.csv,True,False,2010-02-08,2021-09-09
+2305,Yunxi,Fang,2006-10-27 00:00:00,"45 Washington Drive, Milpitas, CA 95035",lilianyu365@gmail.com,2018-08-16 00:00:00,"Fang, Yunxi",Milpitas,408-6019656,Report PAS APR 050719.csv,True,False,2006-10-27,2018-08-16
+2306,Kelly,Lu,2008-11-23 00:00:00,1268 milkweed street,lily71374@gmail.com,2022-10-04 00:00:00,"Lu, Kelly",Milpitas,669-9002958,PAS MIL AUG 092023.csv,True,False,2008-11-23,2022-10-04
+2307,Kenneth,Lu,10/28/2006,"1528 Canal Street, Milpitas",lily71374@gmail.com,1/18/2019,"Lu, Kenneth",Milpitas,669-9002958,Report PAS APR 050719.csv,True,False,2006-10-28,2019-01-18
+2308,Vora,Sindri,2019-05-28 00:00:00,44153 Boitano dr,lindsayvora@gmail.com,2025-06-01 00:00:00,"Sindri, Vora",Fremont,6507406798,PAS FREMONT AUG 091325.csv,True,False,2019-05-28,2025-06-01
+2309,Shihan,Yan,3/31/2012 0:00,"779 Gateview Dr., San Jose, CA, 95133",ling890810@gmail.com,8/17/2022 0:00,"Yan, Shihan",Milpitas,5103047872,PAS MIL APR 052324.csv,True,False,2012-03-31,2022-08-17
+2310,George,Lyu,2016-01-19 00:00:00,"468 Pagosa Way Fremont, CA",lingchanxu@gmail.com,2024-02-01 00:00:00,"Lyu, George",Fremont,4087977701,PAS FREMONT APR 052324.csv,True,False,2016-01-19,2024-02-01
+2311,Xingchuan,Lyu,2012-02-22 00:00:00,"468 Pagosa Way Fremont, CA",lingchanxu@gmail.com,2024-02-01 00:00:00,"Lyu, Xingchuan",Fremont,4087977701,PAS FREMONT APR 052324.csv,True,False,2012-02-22,2024-02-01
+2312,Jevin,Hoang,2010-04-22 00:00:00,1720 Arana Ct. Milpitas CA 95035,linhly1204@gmail.com,2018-11-01 00:00:00,"Hoang, Jevin",Milpitas,925-8609108,Report PAS APR 050719.csv,True,False,2010-04-22,2018-11-01
+2315,DANIEL,SINOY,6/19/2015 0:00,"978, PESCADERO STMilpitasCA95035",linspachy@yahoo.com,8/19/2024 0:00,"SINOY, DANIEL",Milpitas,,PAS MIL APR 051425.csv,True,False,2015-06-19,2024-08-19
+2316,ISAIAH,SINOY,4/8/2014 0:00,"978, PESCADERO STMilpitasCA95035",linspachy@yahoo.com,8/19/2024 0:00,"SINOY, ISAIAH",Milpitas,,PAS MIL APR 051425.csv,True,False,2014-04-08,2024-08-19
+2317,Joshua,Sinoy,2/6/2017 0:00,"978, PESCADERO STMilpitasCA95035",linspachy@yahoo.com,8/19/2024 0:00,"Sinoy, Joshua",Milpitas,,PAS MIL APR 051425.csv,True,False,2017-02-06,2024-08-19
+2318,Ethan,Kuo,6/22/2012 0:00,"2145 Old Piedmont Rd, San Jose",linwc529@gmail.com,3/1/2022 0:00,"Kuo, Ethan",Milpitas,5122175106,PAS MIL APR 051425.csv,True,False,2012-06-22,2022-03-01
+2319,Sean,Kuo,7/28/2010 0:00,"2145 Old Piedmont Rd, San Jose",linwc529@gmail.com,3/1/2022 0:00,"Kuo, Sean",Milpitas,5122175106,PAS MIL APR 051425.csv,True,False,2010-07-28,2022-03-01
+2320,Samuel,Chan,2016-12-22 00:00:00,3685 Integration CommonFremontCA94538,lipriss@gmail.com,2025-08-19 00:00:00,"Chan, Samuel",Fremont,6502553705,PAS FREMONT AUG 091325.csv,True,False,2016-12-22,2025-08-19
+2322,Alvin,Chuong,2010-01-27 00:00:00,1470 El Calaveres Blvd.,lisa123liang@iclould.com,2022-06-17 00:00:00,"Chuong, Alvin",Milpitas,4084392389,Report PAS AUG 091522.csv,True,False,2010-01-27,2022-06-17
+2323,EVA,CHUONG,1/5/2012 0:00,1470 El Calaveres Blvd.,lisa123liang@iclould.com,11/2/2023 0:00,"CHUONG, EVA",Milpitas,4084392389,PAS MIL APR 052324.csv,True,False,2012-01-05,2023-11-02
+2324,KaiWei,Hsu,2020-02-17 00:00:00,"46957 Lundy Terrace, Fremont, CA ",lisahsu0601@gmail.com,2019-02-01 00:00:00,"Hsu, KaiWei",Milpitas,408-3188659,Report PAS APR 050719.csv,True,False,2020-02-17,2019-02-01
+2325,Polly,Li,2013-10-23 00:00:00,"390 Coelho Street, Milpitas 95035",lisugar@gmail.com,2023-06-05 00:00:00,"Li, Polly",Milpitas,4086133688,PAS MIL AUG 092023.csv,True,False,2013-10-23,2023-06-05
+2326,Cayla,Lan,2/24/2012 0:00,Pi box 610141San JoseCA95161,littleyan125@yahoo.com,8/20/2024 0:00,"Lan, Cayla",Milpitas,,PAS MIL AUG 091024.csv,True,False,2012-02-24,2024-08-20
+2327,RUICHEN,ZHAA,8/16/2018,1031 Branbury Way,liujie88cat@gmail.com,6/1/2024,"ZHAA, RUICHEN",Milpitas,,PAS MIL AUG 091024.csv,True,False,2018-08-16,2024-06-01
+2329,Evan,liu,5/21/2016,5480 borgia roadFremontCA94538,liusheng188888@gmail.com,8/21/2024,"liu, Evan",Fremont,5103336666,PAS FREMONT APR 051425.csv,True,False,2016-05-21,2024-08-21
+2330,YANCHEN,LIU,11/2/2014 0:00,3231 Tulipwood Ln,liushidong23@gmail.com,5/20/2024 0:00,"LIU, YANCHEN",Milpitas,,PAS MIL AUG 091024.csv,True,False,2014-11-02,2024-05-20
+2331,Zijin (Leo),Yi,2017-06-19 00:00:00,"392 Farley common, Fremont, CA 94539",liuxin170619@gmail.com,2025-03-01 00:00:00,"Yi, Zijin (Leo)",Fremont,5303647578,PAS FREMONT APR 051425.csv,True,False,2017-06-19,2025-03-01
+2332,Xiaohan,Zhang,2009-12-26 00:00:00,"392 Acoma Way, ",liwenxiao-zhang@gmail.com,2019-05-20 00:00:00,"Zhang, Xiaohan",Milpitas,6504479461,Report PAS JULY 080719.csv,True,False,2009-12-26,2019-05-20
+2333,Brianna,Ye,5/8/2009,"1243 N Hillview Dr. Milpitas, CA 95035",liyayang@yahoo.com,7/17/2018,"Ye, Brianna",Milpitas,409-409-2405,Report PAS DEC 010718.csv,True,False,2009-05-08,2018-07-17
+2334,Brianna,Yee,5/8/2009,"1243 N Hillview Dr. Milpitas, CA 95035",liyayang@yahoo.com,7/17/2018,"Yee, Brianna",Milpitas,409-409-2405,Report PAS APR 050719.csv,True,False,2009-05-08,2018-07-17
+2335,YEE,Brianna,5/8/2009,"1243 N Hillview Dr. Milpitas, CA 95035",liyayang@yahoo.com,2019-06-17 00:00:00,"Brianna, YEE",Milpitas,409-409-2405,Report PAS AUG 090719.csv,True,False,2009-05-08,2019-06-17
+2336,Rudy,McGraw,2015-09-17 00:00:00,763 McLaughlin Ave,liz.hernandezelin@yahoo.com,2022-09-22 00:00:00,"McGraw, Rudy",Milpitas,4088238680,Report PAS NOV 121422.csv,True,False,2015-09-17,2022-09-22
+2337,FERNANDO,REYES,10/8/2013 0:00,"851 Kevenaire dr, Milpitas",lizfarias09@yahoo.com,4/1/2024 0:00,"REYES, FERNANDO",Milpitas,,PAS MIL APR 052324.csv,True,False,2013-10-08,2024-04-01
+2338,Bryce,Lim,9/23/2015 0:00,729 Carino Ter,lloydlim21@gmail.com,9/3/2024 0:00,"Lim, Bryce",Milpitas,14152727469,PAS MIL APR 051425.csv,True,False,2015-09-23,2024-09-03
+2339,Mason,Lim,1/1/2019 0:00,729 Carino Ter,lloydlim21@gmail.com,9/3/2024 0:00,"Lim, Mason",Milpitas,,PAS MIL APR 051425.csv,True,False,2019-01-01,2024-09-03
+2340,Dylan,Nguyen,2011-09-13 00:00:00,,lphuonglien@yahoo.com,2020-10-01 00:00:00,"Nguyen, Dylan",Milpitas,5105015578,Report PAS APR 051221.csv,True,False,2011-09-13,2020-10-01
+2341,Flynn,Xu,2013-02-21 00:00:00,421 Montague Expressway,luckling00@gmail.com,2019-09-06 00:00:00,"Xu, Flynn",Milpitas,6502832905,Report PAS APR 051220.csv,True,False,2013-02-21,2019-09-06
+2342,Howard,Lu,2011-09-23 00:00:00,"48044 Leontine Ct, Fremont, CA 94539",luckycclu@gmail.com,2022-02-01 00:00:00,"Lu, Howard",Milpitas,5102060413,Report PAS APR 051222.csv,True,False,2011-09-23,2022-02-01
+2343,Vincent,Lu,2011-09-23 00:00:00,"48044 Leontine Ct, Fremont, CA 94539",luckycclu@gmail.com,2022-02-01 00:00:00,"Lu, Vincent",Milpitas,5102060413,Report PAS APR 051222.csv,True,False,2011-09-23,2022-02-01
+2344,Luliya,Hagos,2015-03-08 00:00:00,,luliya08@gmail.com,2020-10-01 00:00:00,"Hagos, Luliya",Milpitas,510-314-4836,Report PAS DEC 011120.csv,True,False,2015-03-08,2020-10-01
+2345,Elson,Tian,2/12/2017 0:00,"1306 Tourney Dr San Jose, CA ",lydia7758521@gmail.com,2/1/2024 0:00,"Tian, Elson",Milpitas,6692262668,PAS MIL APR 052324.csv,True,False,2017-02-12,2024-02-01
+2346,An,Nguyen,2011-10-17 00:00:00,817 horcajo st,lydiapnd@yahoo.com,2021-11-16 00:00:00,"Nguyen, An",Milpitas,9168657621,Report PAS APR 051222.csv,True,False,2011-10-17,2021-11-16
+2370,Jason,Tan,2012-12-02 00:00:00,"46733 Crawford St Fremont, CA ",maogenetics@gmail.com,2020-01-06 00:00:00,"Tan, Jason",Milpitas,3523281504,Report PAS APR 051220.csv,True,False,2012-12-02,2020-01-06
+2347,Liem,Nguyen,2014-05-22 00:00:00,817 horcajo st,lydiapnd@yahoo.com,2023-08-16 00:00:00,"Nguyen, Liem",Milpitas,9168657621,PAS MIL AUG 092023.csv,True,False,2014-05-22,2023-08-16
+2348,Faraz,Mostafa,3/27/2013 0:00,38865 Argonaut Way,m_farial@yahoo.com,6/16/2022 0:00,"Mostafa, Faraz",Milpitas,4084253980,PAS MIL APR 051425.csv,True,False,2013-03-27,2022-06-16
+2349,Aanya,Madala,2013-07-06 00:00:00,"17061 Barton street, KS",madala.deepa@gmail.com,2022-03-01 00:00:00,"Madala, Aanya",Milpitas,9132128680,Report PAS APR 051222.csv,True,False,2013-07-06,2022-03-01
+2350,Madala,Aanya,2013-07-06 00:00:00,,madala.deepa@gmail.com,2020-10-02 00:00:00,"Aanya, Madala",Milpitas,9132128680,Report PAS APR 051221.csv,True,False,2013-07-06,2020-10-02
+2352,Avika,Madhavan,2019-10-06 00:00:00,47675 Mardis Street,madhavans007@gmail.com,2025-07-07 00:00:00,"Madhavan, Avika",Fremont,4792681126,PAS FREMONT AUG 091325.csv,True,False,2019-10-06,2025-07-07
+2353,Karthik,Mahesh,8/10/2015 0:00,522 N park victoria drive,mahesh.sankaran17@gmail.com,11/20/2025 0:00,"Mahesh, Karthik",Milpitas,,PAS MIL DEC 011225.csv,True,False,2015-08-10,2025-11-20
+2354,Mukund,Mahesh,12/5/2012 0:00,"522 N park victoria drive Milpitas, CA 95035",mahesh.sankaran17@gmail.com,3/17/2025 0:00,"Mahesh, Mukund",Milpitas,,PAS MIL APR 051425.csv,True,False,2012-12-05,2025-03-17
+2355,Eric,Wang,5/1/2015,251 Bunch Grass TerFremontCA94539,mail.liang.wang@gmail.com,8/1/2024,"Wang, Eric",Fremont,6266790497,PAS FREMONT APR 051425.csv,True,False,2015-05-01,2024-08-01
+2351,Medha,Chinta,2017-05-20 00:00:00,752 McDuff Avenue,maddywared@gmail.com,2025-09-01 00:00:00,"Chinta, Medha",Fremont,6508805036,PAS FREMONT DEC 011223.csv,True,True,2017-05-20,2025-09-01
+2357,Hanlin,Liu,2007-08-01 00:00:00," 1010 Drexel way, San Jose",mailtohaijun@gmail.com,2020-11-01 00:00:00,"Liu, Hanlin",Milpitas,4088022620,Report PAS APR 051221.csv,True,False,2007-08-01,2020-11-01
+2358,Siyona,Angrish,2013-03-30 00:00:00,"276 Silverlake Cr., Milpitas, CA",maitri.angrish@gmail.com,2019-03-01 00:00:00,"Angrish, Siyona",Milpitas,4083848471,Report PAS APR 050719.csv,True,False,2013-03-30,2019-03-01
+2359,Tishya,Angrish,2009-10-18 00:00:00,"276 Silverlake Cr., Milpitas, CA",maitri.angrish@gmail.com,2019-03-01 00:00:00,"Angrish, Tishya",Milpitas,4083848471,Report PAS APR 050719.csv,True,False,2009-10-18,2019-03-01
+2360,Maithri,Yelisetty,9/3/2010,2116 Petersburg Drive,malathi.yagam@gmail.com,6/18/2018,"Yelisetty, Maithri",Milpitas,408-8839940,Report PAS DEC 010718.csv,True,False,2010-09-03,2018-06-18
+2361,Riaan,Suraj,2016-08-29 00:00:00,	217 Baja rose st,malvicasuraj@gmail.com,2023-11-16 00:00:00,"Suraj, Riaan",Milpitas,6506600802,PAS MIL DEC 011723.csv,True,False,2016-08-29,2023-11-16
+2362,Samarth,Suraj,2011-01-20 00:00:00,	217 Baja rose st,malvicasuraj@gmail.com,2023-11-16 00:00:00,"Suraj, Samarth",Milpitas,6506600802,PAS MIL DEC 011723.csv,True,False,2011-01-20,2023-11-16
+2363,Keira,Huynh,2007-03-02 00:00:00,"1839 Sunnyhills Dr., Milpitas, CA 95035",man.si.jiang@gmail.com,2019-08-16 00:00:00,"Huynh, Keira",Milpitas,6507144355,Report PAS OCT 110719.csv,True,False,2007-03-02,2019-08-16
+2364,Natalie,Deng,2012-05-11 00:00:00,1983 Conway St. Milpitas CA 95035,man.si.jiang@gmail.com,2018-09-02 00:00:00,"Deng, Natalie",Milpitas,4086368305,Report PAS APR 050719.csv,True,False,2012-05-11,2018-09-02
+2365,Julia,Aranjany,5/16/2018 0:00,465 Paseo Refugio,manjuphilips@yahoo.com,8/1/2025 0:00,"Aranjany, Julia",Milpitas,,PAS MIL AUG 091325.csv,True,False,2018-05-16,2025-08-01
+2366,Maahin,Devpura,12/21/2018 0:00,"789 Penitencia st, Milpitas, CA 95035",manojdevpura@gmail.com,4/1/2025 0:00,"Devpura, Maahin",Milpitas,,PAS MIL APR 051425.csv,True,False,2018-12-21,2025-04-01
+2367,JOHAN,MANU,8/4/2015 0:00,"131 Fontainbleu Court, Milpitas ",manujose@gmail.com,5/1/2024 0:00,"MANU, JOHAN",Milpitas,,PAS MIL JUNE LATE 073024.csv,True,False,2015-08-04,2024-05-01
+2368,Janet,Manu,11/3/2018 0:00,131 Fontainbleu Court,manujose@gmail.com,9/1/2024 0:00,"Manu, Janet",Milpitas,4084312269,PAS MIL APR 051425.csv,True,False,2018-11-03,2024-09-01
+2369,Jeana,Manu,11/3/2018 0:00,131 Fontainbleu Court,manujose@gmail.com,9/1/2024 0:00,"Manu, Jeana",Milpitas,4084312269,PAS MIL APR 051425.csv,True,False,2018-11-03,2024-09-01
+2371,Katherine,Tan,2008-06-16 00:00:00,"46733 Crawford St Fremont, CA ",maogenetics@gmail.com,2020-01-06 00:00:00,"Tan, Katherine",Milpitas,3523281504,Report PAS APR 051220.csv,True,False,2008-06-16,2020-01-06
+2372,Kayla,Mejia Garcia,2014-04-04 00:00:00,"424 Dempsey Rd, Milpitas 95035",mariagd987@gmail.com,2023-06-19 00:00:00,"Mejia Garcia, Kayla",Milpitas,4085975497,Report PAS JULY 081823.csv,True,False,2014-04-04,2023-06-19
+2373,Omer,Sultan,2008-10-10 00:00:00,"2168 Calle Vista Verde, Milpitas CA",masiya21@gmail.com,2021-08-16 00:00:00,"Sultan, Omer",Milpitas,4088963505,Report PAS APR 051222.csv,True,False,2008-10-10,2021-08-16
+2374,Mengjie,Liu,2012-06-24 00:00:00,"375 Hazen St, Milpitas, CA 95035",may9497979@icloud.com,2020-01-19 00:00:00,"Liu, Mengjie",Milpitas,5109497979,Report PAS APR 051220.csv,True,False,2012-06-24,2020-01-19
+2375,Megan,Sun,2014-10-02 00:00:00,"424 silvercrown way ,San Ramon ,CA 94582",maymak518@hotmail.com,2020-06-22 00:00:00,"Sun, Megan",Milpitas,5102606448,Report PAS APR 051221.csv,True,False,2014-10-02,2020-06-22
+2377,Vincent,Tien,9/17/2014 0:00,662 Grayson Way,mctien101@gmail.com,1/17/2025 0:00,"Tien, Vincent",Milpitas,,PAS MIL APR 051425.csv,True,False,2014-09-17,2025-01-17
+2378,Mars,Qiu,2012-11-12 00:00:00,"1775 Milmont Dr, Milpitas CA",mdjwpy861111@gmail.com,2021-08-16 00:00:00,"Qiu, Mars",Milpitas,4158238596,Report PAS APR 051222.csv,True,False,2012-11-12,2021-08-16
+2379,Aaradhya,Kapila,2012-10-04 00:00:00,625 Coyote St,meenakshi9372@gmail.com,2021-11-17 00:00:00,"Kapila, Aaradhya",Milpitas,4144583227,Report PAS APR 051222.csv,True,False,2012-10-04,2021-11-17
+2380,Anika,Mujumdar,2012-03-18 00:00:00,"70 Henriques lane, Milpitas",meenalmujumdar@gmail.com,2018-09-06 00:00:00,"Mujumdar, Anika",Milpitas,650-603033,Report PAS DEC 010718.csv,True,False,2012-03-18,2018-09-06
+2381,Luliya,Hagos,3/8/2015,41299 paseo padre pkwy Apt 235fremontCA94539,mehretek12@gmail.com,8/26/2024,"Hagos, Luliya",Fremont,5103144836,PAS FREMONT AUG 090424.csv,True,False,2015-03-08,2024-08-26
+2382,Temesgen,Hagos,2017-02-12 00:00:00,41299 paseo padre pkwy Apt#235,mehretek12@gmail.com,2022-10-17 00:00:00,"Hagos, Temesgen",Milpitas,510-314-4836,Report PAS DEC 011822.csv,True,False,2017-02-12,2022-10-17
+2383,Wang,Yvonne,2018-02-09 00:00:00,87 delta green,mei5206543@gmail.com,2025-06-30 00:00:00,"Yvonne, Wang",Fremont,5109994555,PAS FREMONT JUNE 072225.csv,True,False,2018-02-09,2025-06-30
+2384,Yvonne,Wang,2018-02-09 00:00:00,87 delta green,mei5206543@gmail.com,2025-06-30 00:00:00,"Wang, Yvonne",Fremont,5109994555,PAS FREMONT AUG 091325.csv,True,False,2018-02-09,2025-06-30
+2385,Chris,Tan,2016-10-30 00:00:00,"47119 Benns Ter, Fremont",menglanlan94@gmail.com,2022-01-01 00:00:00,"Tan, Chris",Milpitas,8034041992,Report PAS APR 051222.csv,True,False,2016-10-30,2022-01-01
+2386,Lily,Yan,4/18/2012,49060 Rosette Grass Ter,mhyan.ca@gmail.com,6/18/2018,"Yan, Lily",Milpitas,4087247835,Report PAS APR 050719.csv,True,False,2012-04-18,2018-06-18
+2387,Li,Alan,2012-03-26 00:00:00,"2668 Middleborough Cir, SAN JOSE",michael.go@gmail.com,2019-06-17 00:00:00,"Alan, Li",Milpitas,408-256-3285,Report PAS AUG 090719.csv,True,False,2012-03-26,2019-06-17
+2388,Sylvia,Chi,7/6/2013 0:00,103 Smithwood Street,michael.go@gmail.com,6/7/2021 0:00,"Chi, Sylvia",Milpitas,408-8925525,PAS MIL APR 052324.csv,True,False,2013-07-06,2021-06-07
+2389,Jeremy,Lui,3/11/2007,"318 Stacey Common. Fremont, CA 94539",mickeysc2002@yahoo.com.hk,11/9/2016,"Lui, Jeremy",Milpitas,408-466-7884,Report PAS APR 050719.csv,True,False,2007-03-11,2016-11-09
+2390,Jeremy,Lui,3/11/2007,"318 Stacey Common. Fremont, CA 94539",mickeysc2003@yahoo.com.hk,11/9/2016,"Lui, Jeremy",Milpitas,408-466-7884,Report PAS APR 050719.csv,True,False,2007-03-11,2016-11-09
+2391,Jasmine,Wu,1/30/2007,"280 Gerald Cir Milpitas, CA 95035",miki3333lxx@gmail.com,2018-08-16 00:00:00,"Wu, Jasmine",Milpitas,9257898152,Report PAS APR 050719.csv,True,False,2007-01-30,2018-08-16
+2392,Jayden,Tan,2012-06-01 00:00:00,"48404 Ursa Dr, , Fremont, CA",mingao168@yahoo.com,2023-08-18 00:00:00,"Tan, Jayden",Fremont,4088139160,PAS FREMONT APR 051425.csv,True,False,2012-06-01,2023-08-18
+2393,Alex,Yang,7/21/2017 0:00,"1487 stone creek dr, San Jose, CA, 95132",mingmingyyf@me.com,8/19/2023 0:00,"Yang, Alex",Milpitas,6692926335,PAS MIL APR 052324.csv,True,False,2017-07-21,2023-08-19
+2394,Khue,Nguyen,5/29/2009,2021 N. Milpitas Blvd.,minhhuong200573@yahoo.com,7/1/2019,"Nguyen, Khue",Milpitas,669-6009086,Report PAS AUG 090719.csv,True,False,2009-05-29,2019-07-01
+2395,ALEXIAS,CHEUNG,10/24/2011,321 Barton Dr.,minmin118@gmail.com,06/24/2024,"CHEUNG, ALEXIAS",Fremont,510-331-3330,PAS FREMONT AUG 090424.csv,True,False,2011-10-24,2024-06-24
+2396,Jayden,CHEUNG,1/5/2009,321 Barton Dr.,minmin118@gmail.com,06/24/2024,"CHEUNG, Jayden",Fremont,510-331-3330,PAS FREMONT AUG 090424.csv,True,False,2009-01-05,2024-06-24
+2397,Lauren,Chiu,1/7/2015 0:00,1283 FONTAINBLEU AVE,minweng2013@gmail.com,3/23/2024 0:00,"Chiu, Lauren",Milpitas,,PAS MIL APR 051425.csv,True,False,2015-01-07,2024-03-23
+2398,Shripad,Desai,1/14/2011,2194 Cuesta drMilpitasCA95035,mm2desai@yahoo.com,7/4/2024,"Desai, Shripad",Milpitas,,PAS MIL AUG 091024.csv,True,False,2011-01-14,2024-07-04
+2399,Daniela,Vu,2017-05-05 00:00:00,2519 Riparian CtSan JoseCA95133,mmindyvu@gmail.com,2025-08-16 00:00:00,"Vu, Daniela",Fremont,4086233244,PAS FREMONT AUG 091325.csv,True,False,2017-05-05,2025-08-16
+2400,Dean,Vu,2019-12-26 00:00:00,2519 Riparian CtSan JoseCA95133,mmindyvu@gmail.com,2025-08-16 00:00:00,"Vu, Dean",Fremont,4086233244,PAS FREMONT AUG 091325.csv,True,False,2019-12-26,2025-08-16
+2401,Hamzah,Yousef,6/4/2006,"645 Singley Dr. Milpitas, CA 95035",mohammaelyousef72@gmail.com,2018-10-16 00:00:00,"Yousef, Hamzah",Milpitas,408-892-3973,Report PAS DEC 010718.csv,True,False,2006-06-04,2018-10-16
+2402,Zaina,Yousef,4/26/2009,"645 Singley Dr. Milpitas, CA 95035",mohammaelyousef72@gmail.com,2018-10-16 00:00:00,"Yousef, Zaina",Milpitas,408-892-3973,Report PAS DEC 010718.csv,True,False,2009-04-26,2018-10-16
+2403,Inbaa,Alagusakthi,2017-08-07 00:00:00,45078 Fremont blvd,mohanakandavel@gmail.com,2025-11-01 00:00:00,"Alagusakthi, Inbaa",Fremont,5712014277,PAS FREMONT DEC 011223.csv,True,False,2017-08-07,2025-11-01
+2404,Mlat,Gebretensaie,2008-12-11 00:00:00,"48396 Purple Leaf St., Fremont  CA 94539",mossi411@comcast.net,2019-10-08 00:00:00,"Gebretensaie, Mlat",Milpitas,5105174358,Report PAS APR 051220.csv,True,False,2008-12-11,2019-10-08
+2405,Leah,Lee,4/13/2017 0:00,"655 Murphy Ranch Rd., Milpitas 95035",mrs.jenhlee@gmail.com,6/7/2023 0:00,"Lee, Leah",Milpitas,4087573431,PAS MIL APR 052324.csv,True,False,2017-04-13,2023-06-07
+2406,Anika,Bevara,6/13/2013,"160 Images, Milpitas, CA ",mshirodkar@gmail.com,9/1/2019,"Bevara, Anika",Milpitas,4082621626,Report PAS APR 051220.csv,True,False,2013-06-13,2019-09-01
+2407,Avani,Raut,7/10/2020 0:00,1160 California Circle Milpitas,msr2604@gmail.com,5/26/2025 0:00,"Raut, Avani",Milpitas,,PAS MIL AUG 091325.csv,True,False,2020-07-10,2025-05-26
+2408,Sriya,Mudigonda,9/19/2018 0:00,762 Erie Circle,mudigonda.mm@gmail.com,3/17/2025 0:00,"Mudigonda, Sriya",Milpitas,,PAS MIL APR 051425.csv,True,False,2018-09-19,2025-03-17
+2410,Kaylee,Tran,2009-04-14 00:00:00,"120 Dixon Landing #56, Milpitas, CA",myhanhtran7@gmail.com,2020-01-02 00:00:00,"Tran, Kaylee",Milpitas,4087866787,Report PAS FEB 031120.csv,True,False,2009-04-14,2020-01-02
+2411,Eliexer Joash (EJ),Ashford,2016-06-15 00:00:00,"Apt 144, 231 Dixon Landing Rd., Milpitas, CA, 95035",myjob.oct2021@gmail.com,2023-10-11 00:00:00,"Ashford, Eliexer Joash (EJ)",Milpitas,408-714-8303,PAS MIL NOV 121423.csv,True,False,2016-06-15,2023-10-11
+2412,Elisha,Berame,2013-02-27 00:00:00,"Apt 144, 231 Dixon Landing Rd., Milpitas, CA, 95035",myjob.oct2021@gmail.com,2023-10-11 00:00:00,"Berame, Elisha",Milpitas,408-714-8303,PAS MIL DEC 011723.csv,True,False,2013-02-27,2023-10-11
+2413,Yihan,Yang,2014-11-10 00:00:00,1866 trento loop,mynankai65@gmail.com,2022-08-17 00:00:00,"Yang, Yihan",Milpitas,6464205298,Report PAS APR 051923.csv,True,False,2014-11-10,2022-08-17
+2414,Jayden Zhu,He,2017-02-05 00:00:00,"16355 Cypress Way, Los Gatos, CA",myweibobusiness@gmail.com,2021-10-07 00:00:00,"He, Jayden Zhu",Milpitas,6504831473,Report PAS APR 051222.csv,True,False,2017-02-05,2021-10-07
+2415,Kuppala,Shravya,6/4/2010,"472 cascadita ter, MILPITAS",nalinimadduri@gmail.com,7/16/2019,"Shravya, Kuppala",Milpitas,4086234879,Report PAS AUG 090719.csv,True,False,2010-06-04,2019-07-16
+2416,Aaron,Qin,2011-03-25 00:00:00,"48242 Purpleleaf St, Fremont",nan,2022-04-01 00:00:00,"Qin, Aaron",Milpitas,6504369879,PAS MIL AUG 092023.csv,True,False,2011-03-25,2022-04-01
+2417,Chris,Wang,2011-09-02 00:00:00,"46942 Lundy Terrace, Fremont, CA 94539",nan,2019-08-13 00:00:00,"Wang, Chris",Milpitas,408-2030878,Report PAS DEC 011119.csv,True,False,2011-09-02,2019-08-13
+2418,Christopher,Wu,2007-07-09 00:00:00,Male?,nan,2022-02-18 00:00:00,"Wu, Christopher",Milpitas,4085683605,Report PAS FEB 031522.csv,True,False,2007-07-09,2022-02-18
+2420,Edison,Qiu,2012-07-15 00:00:00,"231 Dixon Landing Rd, Milpitas, CA 95035",nan,2018-09-02 00:00:00,"Qiu, Edison",Milpitas,510-566-6932,Report PAS APR 050719.csv,True,False,2012-07-15,2018-09-02
+2423,Jasmine,Liu,12/26/2005,"103 Images Cir, Milpitas 95035",nan,2018-08-16 00:00:00,"Liu, Jasmine",Milpitas,408-966-1078,Report PAS NOV 120718.csv,True,False,2005-12-26,2018-08-16
+2424,Jonathan,Wilson,2007-04-03 00:00:00,"48890 Green Valley Road, Fremont, CA 94539",nan,2019-08-12 00:00:00,"Wilson, Jonathan",Milpitas,408-9307656,Report PAS APR 051220.csv,True,False,2007-04-03,2019-08-12
+2425,Junhua (Justin),Liang,2010-01-04 00:00:00,Male?,nan,2022-02-01 00:00:00,"Liang, Junhua (Justin)",Milpitas,6692635509,Report PAS FEB 031522.csv,True,False,2010-01-04,2022-02-01
+2426,Justin,Kwan,2010-08-25 00:00:00,465 Seingley Drive milpitas CA 95035,nan,2018-09-02 00:00:00,"Kwan, Justin",Milpitas,408-564-3501,Report PAS APR 050719.csv,True,False,2010-08-25,2018-09-02
+2427,Matthew,Wang,2010-04-02 00:00:00,"46942 Lundy Terrace, Fremont, CA 94539",nan,2019-08-05 00:00:00,"Wang, Matthew",Milpitas,408-2030878,Report PAS DEC 011119.csv,True,False,2010-04-02,2019-08-05
+2428,Nathaniel,Xu,5/27/2011,"34136 Duke Ln, Fremont, CA, 94555",nan,2019-02-01 00:00:00,"Xu, Nathaniel",Milpitas,(215)-407-4929,Report PAS APR 050719.csv,True,False,2011-05-27,2019-02-01
+2429,Serena,Wang,6/8/2009,"77 Duttonwood Lane, Milpitas, CA 95035",nan,7/16/2018,"Wang, Serena",Milpitas,405-290-8673,Report PAS DEC 010718.csv,True,False,2009-06-08,2018-07-16
+2430,Udayan,Victor,2013-09-05 00:00:00,"2286 Lynwood Terrace, Milpitas, CA 95035",nan,2019-08-16 00:00:00,"Victor, Udayan",Milpitas,(609)651-5182,Report PAS APR 051220.csv,True,False,2013-09-05,2019-08-16
+2431,Varsha,Victor,2010-09-15 00:00:00,"2286 Lynwood Terrace, Milpitas, CA 95035",nan,2019-08-16 00:00:00,"Victor, Varsha",Milpitas,(609)651-5182,Report PAS APR 051220.csv,True,False,2010-09-15,2019-08-16
+2432,Ziyu,Wu,2012-02-23 00:00:00,"31 San Miguel Ct. Apt1, Milpitas, CA95035",nan,2022-10-03 00:00:00,"Wu, Ziyu",Milpitas,(415)-539-6322,Report PAS APR 051923.csv,True,False,2012-02-23,2022-10-03
+2433,Chris,Wang,2011-09-02 00:00:00,46942 Lundy Terrace Fremont CA 94539,nancy8313@gmail.com,2018-09-06 00:00:00,"Wang, Chris",Milpitas,408-2030878,Report PAS APR 050719.csv,True,False,2011-09-02,2018-09-06
+2434,Matthew,Wang,2010-04-02 00:00:00,"46942 Lundy Terrace, Fremont, CA 94539",nancy8313@gmail.com,2019-08-05 00:00:00,"Wang, Matthew",Milpitas,408-2030878,Report PAS AUG 090719.csv,True,False,2010-04-02,2019-08-05
+2435,PHOEBE,CHENG,6/2/2017,46710 crawford St,nancyw0602@gmail.com,06/1/2024,"CHENG, PHOEBE",Fremont,6282247551,PAS FREMONT APR 051425.csv,True,False,2017-06-02,2024-06-01
+2436,Jayden,Wong,2017-08-07 00:00:00,"48625 Taos Rd, Fremont",nataliessyu@gmail.com,2023-08-21 00:00:00,"Wong, Jayden",Fremont,5105656975,PAS FREMONT APR 052324.csv,True,False,2017-08-07,2023-08-21
+2437,Harshawn,Dhaliwal,2014-07-01 00:00:00,"2324 Edsel Drive, Milpitas ",navneetkd@yahoo.com,2023-03-17 00:00:00,"Dhaliwal, Harshawn",Milpitas,408-772-4732,Report PAS APR 051923.csv,True,False,2014-07-01,2023-03-17
+2438,Nimrat,Dhaliwal,2010-06-19 00:00:00,"2324 Edsel Drive, Milpitas ",navneetkd@yahoo.com,2023-03-17 00:00:00,"Dhaliwal, Nimrat",Milpitas,408-772-4732,Report PAS APR 051923.csv,True,False,2010-06-19,2023-03-17
+2439,Laya,Nandu,3/12/2021 0:00,343 Donahe Dr,needamlaya@gmail.com,8/18/2025 0:00,"Nandu, Laya",Milpitas,,PAS MIL AUG 091325.csv,True,False,2021-03-12,2025-08-18
+2440,Pranav,Alli,8/19/2012 0:00,1346 Elkwood dr,nellisravanthi@gmail.com,8/20/2025 0:00,"Alli, Pranav",Milpitas,,PAS MIL AUG 091325.csv,True,False,2012-08-19,2025-08-20
+2442,Caden,Wang,8/26/2016 0:00,667 singley dr,nexus652@outlook.com,9/1/2024 0:00,"Wang, Caden",Milpitas,3364303270,PAS MIL APR 051425.csv,True,False,2016-08-26,2024-09-01
+2443,NORNE,FANG,12/2/2017,305 Merrill Ave,nf.fang.family@gmail.com,6/17/2024,"FANG, NORNE",Fremont,765-426-6580,PAS FREMONT AUG 090424.csv,True,False,2017-12-02,2024-06-17
+2444,Toprak,Tuncer,9/26/2017 0:00,962 coyote st.,ngn.tuncer@gmail.com,8/18/2025 0:00,"Tuncer, Toprak",Milpitas,,PAS MIL AUG 091325.csv,True,False,2017-09-26,2025-08-18
+2445,Lena,Zhang,2/18/2010,"260 Boyd St, MILPITAS",ngochoalac1987@gmail.com,7/16/2019,"Zhang, Lena",Milpitas,4086740184,Report PAS AUG 090719.csv,True,False,2010-02-18,2019-07-16
+2446,Zhang,Lena,2/18/2010,"260 Boyd St, MILPITAS",ngochoalac1987@gmail.com,7/16/2019,"Lena, Zhang",Milpitas,4086740184,Report PAS JULY 080719.csv,True,False,2010-02-18,2019-07-16
+2447,Ann,Nguyen,2010-10-26 00:00:00,473 Murray Street Milpitas CA 95035,nguyen-n74@yahoo.com,2018-09-20 00:00:00,"Nguyen, Ann",Milpitas,408-4760429,Report PAS APR 050719.csv,True,False,2010-10-26,2018-09-20
+2448,Surapujita,Seerla,2010-11-12 00:00:00,"180 Selwyn Dr, #1, Milpitas, CA 95035",nguyen-n74@yahoo.com,2019-08-21 00:00:00,"Seerla, Surapujita",Milpitas,4086133805,Report PAS APR 051220.csv,True,False,2010-11-12,2019-08-21
+2449,Ann,Nguyen,2010-10-26 00:00:00,473 Murray Street Milpitas CA 95035,nguyen_n74@yahoo.com,2021-12-01 00:00:00,"Nguyen, Ann",Milpitas,408-4760429,Report PAS APR 051222.csv,True,False,2010-10-26,2021-12-01
+2450,Navya,Parikh,5/17/2017 0:00,503 glasgow court,nirzari19@gmail.com,8/18/2025 0:00,"Parikh, Navya",Milpitas,,PAS MIL AUG 091325.csv,True,False,2017-05-17,2025-08-18
+2451,Nirmay,Parikh,10/8/2013 0:00,503 glasgow court,nirzari19@gmail.com,8/18/2025 0:00,"Parikh, Nirmay",Milpitas,,PAS MIL AUG 091325.csv,True,False,2013-10-08,2025-08-18
+2453,Aradhya,Mohan,2017-11-11 00:00:00,"2102 calle vista verde, Milpitas",nityadevi@gmail.com,2023-09-01 00:00:00,"Mohan, Aradhya",Milpitas,4252864464,PAS MIL NOV 121423.csv,True,False,2017-11-11,2023-09-01
+2454,Aradhya,Mohn,2017-11-11 00:00:00,"2102 calle vista verde, Milpitas",nityadevi@gmail.com,2023-09-01 00:00:00,"Mohn, Aradhya",Milpitas,4252864464,PAS MIL OCT 112023.csv,True,False,2017-11-11,2023-09-01
+2455,Arundhathi,Mohan,2/15/2014 0:00,"2102 calle vista verde, Milpitas",nityadevi@gmail.com,8/19/2024 0:00,"Mohan, Arundhathi",Milpitas,4252864464,PAS MIL APR 051425.csv,True,False,2014-02-15,2024-08-19
+2456,Karthik,Vengalam,2013-08-21 00:00:00,753 Nodaway Ave,njayanthi@gmail.com,2025-02-16 00:00:00,"Vengalam, Karthik",Fremont,4084894857,PAS FREMONT APR 051425.csv,True,False,2013-08-21,2025-02-16
+2457,John,Shang,1/19/2009,"448 Mayten Way, FREMONT",nkimjj@hotmail.com,7/16/2019,"Shang, John",Milpitas,5104900280,Report PAS APR 051220.csv,True,False,2009-01-19,2019-07-16
+2458,Joshua,Hu,2010-06-08 00:00:00,354 Sequim Common Fremont CA 94539,nkimjj@hotmail.com,43347,"Hu, Joshua",Milpitas,408-2235588,Report PAS APR 050719.csv,True,False,2010-06-08,2018-09-04
+2459,Kai,Hu,2011-05-26 00:00:00,354 Sequim Common Fremont CA 94539,nkimjj@hotmail.com,43345,"Hu, Kai",Milpitas,408-2235588,Report PAS APR 050719.csv,True,False,2011-05-26,2018-09-02
+2460,Xianzhang,Jiang,1/26/2010,"2021 Conway Street, MILPITAS",nkimjj@hotmail.com,7/29/2019,"Jiang, Xianzhang",Milpitas,669-2121187,Report PAS DEC 011119.csv,True,False,2010-01-26,2019-07-29
+2462,Kiera,Wright,2006-05-29 00:00:00,"1001 S. Main Street, Milpitas, CA",noemails@yahoo.com,2018-08-16 00:00:00,"Wright, Kiera",Milpitas,916-5178026,Report PAS DEC 010718.csv,True,False,2006-05-29,2018-08-16
+2463,Shamit,Makwana,2/10/2019 0:00,1489 Fontainbleu Ave,nsmakwana26@gmail.com,9/7/2024 0:00,"Makwana, Shamit",Milpitas,,PAS MIL APR 051425.csv,True,False,2019-02-10,2024-09-07
+2464,Azmia,Nur,6/4/2020 0:00,	1673 Valley Crest Ct??? Milpitas,nurmohammed.patwary@gmail.com,5/26/2025 0:00,"Nur, Azmia",Milpitas,,PAS MIL AUG 091325.csv,True,False,2020-06-04,2025-05-26
+2465,Ege,Tuncer,2010-10-29 00:00:00,339 Arbor Way,omercikoglu@gmail.com,9/1/2019,"Tuncer, Ege",Milpitas,408-6674797,Report PAS DEC 011119.csv,True,False,2010-10-29,2019-09-01
+2466,Eyal,Suresh,6/30/2015 0:00,"162 Marylinn Dr, milpitas, california 95035",ooth.suresh@gmail.com,10/1/2023 0:00,"Suresh, Eyal",Milpitas,6077279968,PAS MIL APR 052324.csv,True,False,2015-06-30,2023-10-01
+2467,Amy,Pei,2017-01-01 00:00:00,4503 longview ter,otto28082008@gmail.com,2024-02-01 00:00:00,"Pei, Amy",Fremont,4088070200,PAS FREMONT APR 051425.csv,True,False,2017-01-01,2024-02-01
+2472,Lucy,Lu,9/8/2005,"703 Iroquois Way, Fremont",panyanzhen@gmail.com,1/16/2019,"Lu, Lucy",Milpitas,408-5158337,Report PAS APR 050719.csv,True,False,2005-09-08,2019-01-16
+2473,Kaira,Parekh,10/28/2018 0:00,1348 Columbus Cir,parekh.rahul@gmail.com,11/1/2025 0:00,"Parekh, Kaira",Milpitas,,PAS MIL DEC 011225.csv,True,False,2018-10-28,2025-11-01
+2474,Keya,Patel,5/9/2019 0:00,1836 Grand Teton Drive,parth18@gmail.com,9/16/2025 0:00,"Patel, Keya",Milpitas,,PAS MIL DEC 011225.csv,True,False,2019-05-09,2025-09-16
+2475,Aayan,Kaushik,10/23/2015 0:00,360 Boyd St,pathekarshital@gmail.com,1/9/2025 0:00,"Kaushik, Aayan",Milpitas,,PAS MIL APR 051425.csv,True,False,2015-10-23,2025-01-09
+2476,Aiden,Nguyen,12/6/2019 0:00,387 Washington drive,paulnguyen007@yahoo.com,10/16/2025 0:00,"Nguyen, Aiden",Milpitas,,PAS MIL DEC 011225.csv,True,False,2019-12-06,2025-10-16
+2477,Vihaan,Mallangi,2009-12-22 00:00:00,"39201 red hawk terrace, A207 ,fremont ,CA 94538",pavithra14722@gmail.com,2020-06-18 00:00:00,"Mallangi, Vihaan",Milpitas,5105094994,Report PAS JUL 081620.csv,True,False,2009-12-22,2020-06-18
+2478,Mira,Gao,2018-08-29 00:00:00,4534 SANDRA CTUNION CITYCA94587,pei.3.1415926@gmail.com,2025-08-19 00:00:00,"Gao, Mira",Fremont,9254515870,PAS FREMONT AUG 091325.csv,True,False,2018-08-29,2025-08-19
+2479,Ben,Zhang,2009-12-20 00:00:00,458 Singley Drive milpitas CA 95035,pengmao.jane@gmail.com,2019-04-01 00:00:00,"Zhang, Ben",Milpitas,408-6665459,Report PAS APR 050719.csv,True,False,2009-12-20,2019-04-01
+2480,Joe,Zhang,2012-08-17 00:00:00,458 Singley Drive milpitas CA 95035,pengmao.jane@gmail.com,2019-04-01 00:00:00,"Zhang, Joe",Milpitas,408-6665459,Report PAS APR 050719.csv,True,False,2012-08-17,2019-04-01
+2481,Allen,Peng,4/7/2015 0:00,1309 wisteria drive,pengyong2002@gmail.com,6/16/2021 0:00,"Peng, Allen",Milpitas,4084218639,Report PAS AUG 092021.csv,True,False,2015-04-07,2021-06-16
+2482,Leanna,Le,2009-04-02 00:00:00,"305 Heath st, Milpitas",phuanh.lam@gmail.com,2023-09-27 00:00:00,"Le, Leanna",Milpitas,4084991702,PAS MIL NOV 121423.csv,True,False,2009-04-02,2023-09-27
+2483,Melissa,Le,2008-02-10 00:00:00,"305 Heath st, Milpitas",phuanh.lam@gmail.com,2023-09-27 00:00:00,"Le, Melissa",Milpitas,4084991702,PAS MIL NOV 121423.csv,True,False,2008-02-10,2023-09-27
+2469,Luna,Xu,2019-10-10 00:00:00,46912 Fernald Common,panpanfu1986@gmail.com,2025-06-16 00:00:00,"Xu, Luna",Fremont,5109966295,PAS FREMONT AUG 091325.csv,True,True,2019-10-10,2025-06-16
+2461,Ethan,Niu,2018-06-23 00:00:00,"3871 Vanguard Cmn 1001, Fremont, CA, 94538",nkniuchao@gmail.com,2024-07-30 00:00:00,"Niu, Ethan",Fremont,2544004292,PAS FREMONT APR 051425.csv,True,True,2018-06-23,2024-07-30
+2471,Xu,Luna,2019-10-10 00:00:00,46912 Fernald Common,panpanfu1986@gmail.com,2025-06-16 00:00:00,"Luna, Xu",Fremont,5109966295,PAS FREMONT JUNE 072225.csv,True,True,2019-10-10,2025-06-16
+2468,Lucas,Xu,2019-10-11 00:00:00,46913 Fernald Common,panpanfu1986@gmail.com,2025-06-16 00:00:00,"Xu, Lucas",Fremont,5109966295,PAS FREMONT AUG 091325.csv,True,True,2019-10-11,2025-06-16
+2470,Xu,Lucas,2019-10-11 00:00:00,46913 Fernald Common,panpanfu1986@gmail.com,2025-06-16 00:00:00,"Lucas, Xu",Fremont,5109966295,PAS FREMONT JUNE 072225.csv,False,False,2019-10-11,2025-06-16
+2485,An,Nguyen,2011-01-22 00:00:00,"3344 Cropley Ave, San Jose 95132",phuongpham.usa2020@gmail.com,2023-06-01 00:00:00,"Nguyen, An",Milpitas,6692908853,PAS MIL AUG 092023.csv,True,False,2011-01-22,2023-06-01
+2486,Cao,Joanna,2013-01-23 00:00:00,"201 Starlite Way, Fremont 94539",phyllis.yuen@gmail.com,2023-06-05 00:00:00,"Joanna, Cao",Fremont,5108288339,PAS FREMONT July 081823.csv,True,False,2013-01-23,2023-06-05
+2487,Ethan,Jia,6/4/2016 0:00,"166 Sagemeadow Ct, Milpitas CA",piijia@hotmail.com,8/16/2021 0:00,"Jia, Ethan",Milpitas,9547296096,PAS MIL APR 052324.csv,True,False,2016-06-04,2021-08-16
+2488,Jason,Tang,2017-06-16 00:00:00,"231 Dixon Landing Road, apt 284",pingt125@gmail.com,2022-08-19 00:00:00,"Tang, Jason",Milpitas,4154508285,Report PAS APR 051923.csv,True,False,2017-06-16,2022-08-19
+2489,Pranau,Kathari,2009-05-06 00:00:00,"49127 Park Terrace, Fremont, CA 94539",pinks.kathari@gmail.com,2018-10-19 00:00:00,"Kathari, Pranau",Milpitas,408-4751413,Report PAS DEC 010718.csv,True,False,2009-05-06,2018-10-19
+2490,Vera,Gan,2007-10-20 00:00:00,"3259 Knights bridge Rd ,San jose ,CA 95132",planwithgan@gmail.com,2020-08-17 00:00:00,"Gan, Vera",Milpitas,4084062871,Report PAS APR 051221.csv,True,False,2007-10-20,2020-08-17
+2492,Prahan,Mekala,7/16/2019,285 hackamore cmnfremontCA94539,prashanthreddykm@gmail.com,8/23/2024,"Mekala, Prahan",Fremont,4083936870,PAS FREMONT APR 051425.csv,True,False,2019-07-16,2024-08-23
+2493,Kritika,Gandala,2007-08-21 00:00:00,"410 Riverside Ct, Santa Clara 95054",prathima.gadila@gmail.com,2023-06-08 00:00:00,"Gandala, Kritika",Milpitas,9258562262,PAS MIL AUG 092023.csv,True,False,2007-08-21,2023-06-08
+2494,Mokshith,Gandala,2013-07-13 00:00:00,"410 Riverside Ct, Santa Clara 95054",prathima.gadila@gmail.com,2023-06-08 00:00:00,"Gandala, Mokshith",Milpitas,9258562262,PAS MIL AUG 092023.csv,True,False,2013-07-13,2023-06-08
+2495,Aadhvik,Ganesh,8/25/2020 0:00,2093 Lee way,preeraja123@gmail.com,10/1/2025 0:00,"Ganesh, Aadhvik",Milpitas,,PAS MIL DEC 011225.csv,True,False,2020-08-25,2025-10-01
+2496,Aahana,Jain,2018-02-13 00:00:00,"47646 Mardis St, Fremont CA 94539",preetma.mishra@gmail.com,2025-03-26 00:00:00,"Jain, Aahana",Fremont,5102535893,PAS FREMONT APR 051425.csv,True,False,2018-02-13,2025-03-26
+2497,DHIVYA,Siuaruban,2013-03-30 00:00:00,"559 Tumble Grass Ter, Fremont, CA",prytta@yahoo.fr,2024-03-01 00:00:00,"Siuaruban, DHIVYA",Fremont,4082064921,PAS FREMONT MAR 041924.csv,True,False,2013-03-30,2024-03-01
+2498,DHIVYA,Sivaruban,2013-03-30 00:00:00,"559 Tumble Grass Ter, Fremont, CA",prytta@yahoo.fr,2024-03-01 00:00:00,"Sivaruban, DHIVYA",Fremont,4082064921,PAS FREMONT APR 052324.csv,True,False,2013-03-30,2024-03-01
+2499,SHREYA,Siuaruban,2016-09-24 00:00:00,"559 Tumble Grass Ter, Fremont, CA",prytta@yahoo.fr,2024-03-01 00:00:00,"Siuaruban, SHREYA",Fremont,4082064921,PAS FREMONT MAR 041924.csv,True,False,2016-09-24,2024-03-01
+2500,SHREYA,Sivaruban,2016-09-24 00:00:00,"559 Tumble Grass Ter, Fremont, CA",prytta@yahoo.fr,2024-03-01 00:00:00,"Sivaruban, SHREYA",Fremont,4082064921,PAS FREMONT APR 052324.csv,True,False,2016-09-24,2024-03-01
+2501,Mia,Bui,2017-12-06 00:00:00,926 Campbell St,qbui2017@gmail.com,2022-08-05 00:00:00,"Bui, Mia",Milpitas,4088722587,Report PAS AUG 091522.csv,True,False,2017-12-06,2022-08-05
+2502,Grace,Ge,2015-06-02 00:00:00,"404 Bent Grass Ter, Fremont, CA",qige81@gmail.com,2024-01-08 00:00:00,"Ge, Grace",Fremont,5857522132,PAS FREMONT APR 052324.csv,True,False,2015-06-02,2024-01-08
+2503,Mark,Gu,2014-08-01 00:00:00,"	3909 Adams Ave, Fremont, CA",qinlingli1985@gmail.com,2025-05-29 00:00:00,"Gu, Mark",Fremont,(510)6737301,PAS FREMONT AUG 091325.csv,True,False,2014-08-01,2025-05-29
+2504,Zeming,Liu,2016-08-04 00:00:00,3465 inspiration way,qinyuannie@hotmail.com,2025-10-01 00:00:00,"Liu, Zeming",Fremont,4158663423,PAS FREMONT DEC 011223.csv,True,False,2016-08-04,2025-10-01
+2505,Katrina,Le,2014-11-04 00:00:00,"132 Chysis Rd, Milpitas, CA 95035",quynhlerx@gmail.com,2022-03-01 00:00:00,"Le, Katrina",Milpitas,3107757104,Report PAS APR 051222.csv,True,False,2014-11-04,2022-03-01
+2506,Rakson,Solomonraja,6/5/2016 0:00,"47125 Benns Ter,, Fremont, CA, 94539",raghavi.raj90@gmail.com,10/3/2023 0:00,"Solomonraja, Rakson",Milpitas,4082158017,PAS MIL APR 052324.csv,True,False,2016-06-05,2023-10-03
+2507,Rachith,Raghavendra,2012-06-29 00:00:00,46862 Fernald common,rags79@gmail.com,2024-02-07 00:00:00,"Raghavendra, Rachith",Fremont,4085819618,PAS FREMONT APR 052324.csv,True,False,2012-06-29,2024-02-07
+2508,Ridhay,Patel,11/21/2019 0:00,933 COVENTRY WAY,rakeshpatel0110@gmail.com,8/18/2025 0:00,"Patel, Ridhay",Milpitas,,PAS MIL AUG 091325.csv,True,False,2019-11-21,2025-08-18
+2509,Darshan,Chandru,2016-06-13 00:00:00,"281 Merrill ave, , Fremont, CA",ramya.victory@gmail.com,2023-08-23 00:00:00,"Chandru, Darshan",Fremont,6188035803,PAS FREMONT APR 052324.csv,True,False,2016-06-13,2023-08-23
+2510,Kiaan,Godhani,5/31/2014 0:00,1293 Arizona AvenueMilpitasCA95035,ranjita.godhani@gmail.com,8/19/2024 0:00,"Godhani, Kiaan",Milpitas,,PAS MIL AUG 091024.csv,True,False,2014-05-31,2024-08-19
+2511,MEERA,GODHANI,1/5/2018 0:00,"1293 Arizona Avenue, Milpitas",ranjita.godhani@gmail.com,4/1/2024 0:00,"GODHANI, MEERA",Milpitas,,PAS MIL APR 052324.csv,True,False,2018-01-05,2024-04-01
+2512,Shelley,Chen,2017-09-11 00:00:00,"1499 Piedmont Rd, San Jose, CA",rannie_chen@hotmail.com,2024-09-02 00:00:00,"Chen, Shelley",Fremont,4082104112,PAS FREMONT APR 051425.csv,True,False,2017-09-11,2024-09-02
+2515,Ishika,Chunduru,10/1/2017 0:00,"885 Berryessa St, Milpitas, CA, 95035",ratnadeepti.chunduru@gmail.com,8/19/2024 0:00,"Chunduru, Ishika",Milpitas,4085966329,PAS MIL APR 051425.csv,True,False,2017-10-01,2024-08-19
+2516,Reyansh,Chunduru,1/30/2012 0:00,"885 Berryessa St, Milpitas, CA, 95035",ratnadeepti.chunduru@gmail.com,8/19/2024 0:00,"Chunduru, Reyansh",Milpitas,4085966329,PAS MIL APR 051425.csv,True,False,2012-01-30,2024-08-19
+2517,Brayden,Udani,6/21/2011 0:00,2369 Treadway DrSan JoseCA95133,rayjali417@gmail.com,8/16/2024 0:00,"Udani, Brayden",Milpitas,,PAS MIL APR 051425.csv,True,False,2011-06-21,2024-08-16
+2519,Lenisha,Tayal,12/19/2018 0:00,680 Epic Way Apt 353,reeneeakash@gmail.com,2/3/2025 0:00,"Tayal, Lenisha",Milpitas,,PAS MIL APR 051425.csv,True,False,2018-12-19,2025-02-03
+2520,On Sut Anshel,Lee,11/27/2011 0:00,"37076 Arden Street, Newark, CA, 94560",reginasfwu@gmail.com,2/1/2023 0:00,"Lee, On Sut Anshel",Milpitas,5102200081,PAS MIL APR 052324.csv,True,False,2011-11-27,2023-02-01
+2521,Daksh,Pathak,2013-02-24 00:00:00,1453 Lavender Loop,richa.gyans@gmail.com,2022-06-06 00:00:00,"Pathak, Daksh",Milpitas,4083246655,Report PAS APR 051923.csv,True,False,2013-02-24,2022-06-06
+2522,Aveer,Dalal,5/3/2021 0:00,190 Sagemeadow Ct,rituhooda1469@gmail.com,8/19/2025 0:00,"Dalal, Aveer",Milpitas,,PAS MIL AUG 091325.csv,True,False,2021-05-03,2025-08-19
+2523,Boen,She,2012-11-18 00:00:00,"41444 Thurston St., Fremont  CA 94538",rongye329@homail.com,2019-10-01 00:00:00,"She, Boen",Milpitas,4082104475,Report PAS APR 051220.csv,True,False,2012-11-18,2019-10-01
+2513,Samarth,Coondapur,2019-04-01 00:00:00,47631 Gridley court,rashmihholla@gmail.com,2025-03-24 00:00:00,"Coondapur, Samarth",Fremont,2147624191,PAS FREMONT APR 051425.csv,True,False,2019-04-01,2025-03-24
+2518,Sridhar,Avyakth,2016-10-18 00:00:00,3690 Innovation way,reechshree@gmail.com,2025-06-02 00:00:00,"Avyakth, Sridhar",Fremont,4083320446,PAS FREMONT AUG 091325.csv,True,True,2016-10-18,2025-06-02
+2514,Samarth,Coondapur,2019-04-01 00:00:00,47631 Gridley court,rashmihholla@gmail.com,2025-03-24 00:00:00,"Coondapur, Samarth",Fremont,2147624191,PAS FREMONT APR 051425.csv,False,False,2019-04-01,2025-03-24
+2525,Emmanuel,Paguio,2008-06-09 00:00:00,"1113 Mente Linda Loop, Milpitas, CA, 95035",ruenapaguio@yahoo.com,2021-09-01 00:00:00,"Paguio, Emmanuel",Milpitas,4086637241,Report PAS OCT 112421.csv,True,False,2008-06-09,2021-09-01
+2526,KAI WEN,CHEN,7/25/2011,2626 Mueller Ave,runchen56@yahoo.com,6/19/2024,"CHEN, KAI WEN",Milpitas,,PAS MIL APR 051425.csv,True,False,2011-07-25,2024-06-19
+2527,Sasha,Lin,2017-07-17 00:00:00,"660 Navajo Way Fremont, CA",ryamamoto5196@gmail.com,2024-02-01 00:00:00,"Lin, Sasha",Fremont,4083986905,PAS FREMONT APR 052324.csv,True,False,2017-07-17,2024-02-01
+2528,Neal,Panuganti,8/2/2012 0:00,"445 Alegra Ter, Milpitas CA",s4gulkotwar@gmail.com,8/19/2024 0:00,"Panuganti, Neal",Milpitas,9255779286,PAS MIL APR 051425.csv,True,False,2012-08-02,2024-08-19
+2530,Gianna,Garcia,3/4/2015 0:00,912 Rain Dance,sabrinalortega@gmail.com,6/2/2021 0:00,"Garcia, Gianna",Milpitas,4085504144,Report PAS AUG 092021.csv,True,False,2015-03-04,2021-06-02
+2531,Kahaan,Desai,6/18/2015 0:00,"504 Martil Way, Milpitas, CA 95035",sairam.desai@gmail.com,12/16/2025 0:00,"Desai, Kahaan",Milpitas,,PAS MIL DEC 011225.csv,True,False,2015-06-18,2025-12-16
+2533,Nivaan,Samanth,3/11/2016 0:00,	278 Silverlake Dr,samanthnivaan@gmail.com,11/8/2025 0:00,"Samanth, Nivaan",Milpitas,,PAS MIL DEC 011225.csv,True,False,2016-03-11,2025-11-08
+2534,Aaleena,Farhan,4/15/2016,1106 N Hillview DrMilpitasCA95035,samawath1026@gmail.com,7/16/2024,"Farhan, Aaleena",Milpitas,9016528577,PAS MIL AUG 091024.csv,True,False,2016-04-15,2024-07-16
+2535,Jayden,Ma,1/7/2012,"36 Homme Way, Milpitas, CA 95035",sandyma20@gmail.com,4/20/2018,"Ma, Jayden",Milpitas,408-8580609,Report PAS APR 050719.csv,True,False,2012-01-07,2018-04-20
+2536,Jennah,Ma,1/7/2012,"36 Homme Way, Milpitas, CA 95035",sandyma20@gmail.com,4/20/2018,"Ma, Jennah",Milpitas,408-8580609,Report PAS APR 050719.csv,True,False,2012-01-07,2018-04-20
+2537,Justin,Ma,1/7/2012,"36 Homme Way, Milpitas, CA 95035",sandyma20@gmail.com,4/20/2018,"Ma, Justin",Milpitas,408-8580609,Report PAS APR 050719.csv,True,False,2012-01-07,2018-04-20
+2538,Aarib,Rashid,8/28/2019 0:00,144 Fontainbleu ct,sanjanacsedu@gmail.com,3/17/2025 0:00,"Rashid, Aarib",Milpitas,,PAS MIL APR 051425.csv,True,False,2019-08-28,2025-03-17
+2539,Kevin,Zhou,2014-07-29 00:00:00,"177 Delong Ln, Milpitas, CA",sanjosechen@gmail.com,2022-03-16 00:00:00,"Zhou, Kevin",Milpitas,4082192369,Report PAS APR 051222.csv,True,False,2014-07-29,2022-03-16
+2540,Jared,Wong,2009-11-26 00:00:00,"1509 Kennedy Dr., Milpitas, CA, 95035",santabear00@gmail.com,2022-03-23 00:00:00,"Wong, Jared",Milpitas,6505757322,Report PAS APR 051222.csv,True,False,2009-11-26,2022-03-23
+2541,Kayli,Wong,2007-08-21 00:00:00,"1509 Kennedy Dr., Milpitas, CA, 95035",santabear00@gmail.com,2021-09-01 00:00:00,"Wong, Kayli",Milpitas,6505757322,Report PAS APR 051222.csv,True,False,2007-08-21,2021-09-01
+2542,Arisha,Shoeb,2015-10-02 00:00:00,401 little foot drive,sarah.shoeb1@gmail.com,2025-10-06 00:00:00,"Shoeb, Arisha",Fremont,3039316274,PAS FREMONT DEC 011223.csv,True,False,2015-10-02,2025-10-06
+2543,Zohan,Shoeb,2017-11-19 00:00:00,402 little foot drive,sarah.shoeb1@gmail.com,2025-10-06 00:00:00,"Shoeb, Zohan",Fremont,3039316274,PAS FREMONT DEC 011223.csv,True,False,2017-11-19,2025-10-06
+2544,Shrish,Gowda,7/11/2015 0:00,"1343 Elkwood Dr, Milpitas",satheesha.gowda@gmail.com,8/26/2024 0:00,"Gowda, Shrish",Milpitas,4696488922,PAS MIL APR 051425.csv,True,False,2015-07-11,2024-08-26
+2545,Sloka,Soni,8/12/2019 0:00,183 Silvera St,saurabhmsoni@gmail.com,1/1/2025 0:00,"Soni, Sloka",Milpitas,,PAS MIL APR 051425.csv,True,False,2019-08-12,2025-01-01
+2546,Atharv,Parikh,4/14/2021 0:00,467 cascadita ter,sbinal228@gmail.com,8/18/2025 0:00,"Parikh, Atharv",Milpitas,,PAS MIL AUG 091325.csv,True,False,2021-04-14,2025-08-18
+2547,Chloe,Zhao,4/5/2015,382 Wheat Grass TerFremontCA94539,screwyterror83@gmail.com,8/20/2024,"Zhao, Chloe",Fremont,3104608958,PAS FREMONT APR 051425.csv,True,False,2015-04-05,2024-08-20
+2548,Edwina,Tan,7/15/2011,102 Parc Place Dr.,scwangll@hotmail.com,6/18/2018,"Tan, Edwina",Milpitas,4085868276,Report PAS APR 050719.csv,True,False,2011-07-15,2018-06-18
+2549,Kabir,Dandiwala,2012-06-14 00:00:00,1426 N Hillview Dr,sdandiwala@gmail.com,2021-12-01 00:00:00,"Dandiwala, Kabir",Milpitas,408-483-5419,Report PAS APR 051222.csv,True,False,2012-06-14,2021-12-01
+2550,Natan,Sebhatu,2014-07-21 00:00:00,"440 Dixon Landing, Milpitas CA",sebhatuisaac@gmail.com,2021-08-18 00:00:00,"Sebhatu, Natan",Milpitas,6506450741,Report PAS APR 051222.csv,True,False,2014-07-21,2021-08-18
+2551,Krish,Senjalia,6/1/2021 0:00,1108 California Circle,senjaliahardik19@gmail.com,8/18/2025 0:00,"Senjalia, Krish",Milpitas,,PAS MIL AUG 091325.csv,True,False,2021-06-01,2025-08-18
+2552,Aarav,Gupta,2010-03-23 00:00:00,"223 Bayberry Cmm. Fremont, CA 94539",shaggarwal80@yahoo.com,2020-01-21 00:00:00,"Gupta, Aarav",Milpitas,8183246751,Report PAS APR 051220.csv,True,False,2010-03-23,2020-01-21
+2553,Aditi,Chaphekar,2010-05-23 00:00:00,"66 Brookstone Ct, Milpitas",shalakachaphekar@gmail.com,2020-08-17 00:00:00,"Chaphekar, Aditi",Milpitas,4086747847,Report PAS APR 051221.csv,True,False,2010-05-23,2020-08-17
+2554,Aaliyah,Choudhury,2016-09-14 00:00:00,"1195 Lassen Avenue, Milpitas, CA, 95035",shamina.choudhury@gmail.com,2023-08-22 00:00:00,"Choudhury, Aaliyah",Milpitas,4088358131,PAS MIL AUG 092023.csv,True,False,2016-09-14,2023-08-22
+2555,Atiya,Choudhury,2014-02-04 00:00:00,"1195 Lassen Avenue, Milpitas, CA, 95035",shamina.choudhury@gmail.com,2023-08-22 00:00:00,"Choudhury, Atiya",Milpitas,4088358131,PAS MIL AUG 092023.csv,True,False,2014-02-04,2023-08-22
+2556,Uwais,Choudhury,2012-01-04 00:00:00,"1195 Lassen Avenue, Milpitas, CA, 95035",shamina.choudhury@gmail.com,2023-08-22 00:00:00,"Choudhury, Uwais",Milpitas,4088358131,PAS MIL AUG 092023.csv,True,False,2012-01-04,2023-08-22
+2557,Zaida,Choudhury,2016-09-14 00:00:00,"1195 Lassen Avenue, Milpitas, CA, 95035",shamina.choudhury@gmail.com,2023-08-22 00:00:00,"Choudhury, Zaida",Milpitas,4088358131,PAS MIL AUG 092023.csv,True,False,2016-09-14,2023-08-22
+2558,Audrey,Loui,7/23/2012,"505 Topham Ct. Milpitas, CA 95035",shangeline@yahoo.com,2019-04-01 00:00:00,"Loui, Audrey",Milpitas,408-8346209,Report PAS APR 051220.csv,True,False,2012-07-23,2019-04-01
+2559,Shang,John,1/19/2009,"448 Mayten Way, FREMONT",shangeline@yahoo.com,7/16/2019,"John, Shang",Milpitas,5104900280,Report PAS AUG 090719.csv,True,False,2009-01-19,2019-07-16
+2561,Nathalie,Zhou,2011-12-17 00:00:00,"488 Merlot Dr., Fremont  CA 94539",shaojoe@yahoo.com,2019-10-17 00:00:00,"Zhou, Nathalie",Milpitas,5103969616,Report PAS APR 051220.csv,True,False,2011-12-17,2019-10-17
+2562,Felicity,Wang,2016-08-06 00:00:00,"275 Quinault Way, Fremont, CA, 94539",shaoqin156@gmail.com,2023-09-01 00:00:00,"Wang, Felicity",Fremont,6692068365,PAS FREMONT DEC 011720.csv,True,False,2016-08-06,2023-09-01
+2563,Maximilian,Wang,2018-02-20 00:00:00,"275 Quinault Way, Fremont, CA, 94539",shaoqin156@gmail.com,2023-09-01 00:00:00,"Wang, Maximilian",Fremont,6692068365,PAS FREMONT DEC 011720.csv,True,False,2018-02-20,2023-09-01
+2564,Raghav,Sarathkumar,2015-04-05 00:00:00,832 North Abbott Ave,sharathrajkumar@gmail.com,2025-10-01 00:00:00,"Sarathkumar, Raghav",Fremont,sharathrajkumar@gmail.com,PAS FREMONT DEC 011223.csv,True,True,2015-04-05,2025-10-01
+2532,Jayden,Zeya,2018-11-12 00:00:00,3848 Advancement TerUnit 1009FremontCA94538,saizeya@gmail.com,2025-08-19 00:00:00,"Zeya, Jayden",Fremont,2394940438,PAS FREMONT AUG 091325.csv,True,True,2018-11-12,2025-08-19
+2568,Moksh,Sheth,2015-06-22 00:00:00,"527 Palo Verde Cmns, , Fremont, CA",shethju@gmail.com,2023-08-16 00:00:00,"Sheth, Moksh",Fremont,4436532199,PAS FREMONT APR 052324.csv,True,False,2015-06-22,2023-08-16
+2570,Alicia,Chu,2012-05-30 00:00:00,"350 Carnegie Drive, Milpitas, CA 95035",shiamofly@gmail.com,2018-10-18 00:00:00,"Chu, Alicia",Milpitas,16504830611,Report PAS APR 050719.csv,True,False,2012-05-30,2018-10-18
+2573,Ehong,Ng,3/29/2006,"129 Sudbung Ct. Milpitas, CA",shiangyep@gmail.com,9/4/2018,"Ng, Ehong",Milpitas,408-956-1524,Report PAS DEC 010718.csv,True,False,2006-03-29,2018-09-04
+2574,Kehong,Ng,2009-11-27 00:00:00,129 Sudbury Ct. Milpitas ,shianyep@gmail.com,2022-01-01 00:00:00,"Ng, Kehong",Milpitas,4083071798,Report PAS APR 051222.csv,True,False,2009-11-27,2022-01-01
+2575,Abeer,Gupta,2019-06-14 00:00:00,"47658 Zunic drive, Fremont, CA, 94539",shilpil81@gmail.com,2023-09-01 00:00:00,"Gupta, Abeer",Fremont,5109444628,PAS FREMONT APR 052324.csv,True,False,2019-06-14,2023-09-01
+2576,Aaron,Tran,2011-10-04 00:00:00,3721 macbeth dr,shineshine2008@gmail.com,2021-12-01 00:00:00,"Tran, Aaron",Milpitas,4087263322,Report PAS APR 051222.csv,True,False,2011-10-04,2021-12-01
+2577,Aaron,Feng,2015-10-24 00:00:00,"4601 Margery Drive, , Fremont, CA",shirleylinge@gmail.com,2023-08-21 00:00:00,"Feng, Aaron",Fremont,6503358676,PAS FREMONT APR 052324.csv,True,False,2015-10-24,2023-08-21
+2578,Samuel,Feng,2017-06-08 00:00:00,"4601 Margery Drive, , Fremont, CA",shirleylinge@gmail.com,2023-08-21 00:00:00,"Feng, Samuel",Fremont,6503358676,PAS FREMONT APR 052324.csv,True,False,2017-06-08,2023-08-21
+2579,Hivanica,Kiran,2015-02-03 00:00:00,49002 Cinnamon Fern cmn,shruthi.manisekar@gmail.com,2022-10-17 00:00:00,"Kiran, Hivanica",Milpitas,5103143894,Report PAS APR 051923.csv,True,False,2015-02-03,2022-10-17
+2580,Crystal,Lu,10/28/2003,"422217 Balcow St. Fremont, CA 94538",shuhuaou2015@gmail.com,2018-08-01 00:00:00,"Lu, Crystal",Milpitas,510-953-1878,Report PAS APR 050719.csv,True,False,2003-10-28,2018-08-01
+2581,Fang,Wan,10/2/2017,40930 Fairmont Ter,shuichen17@gmail.com,3025-03-27 00:00:00,"Wan, Fang",Fremont,4052306385,PAS FREMONT APR 051425.csv,True,False,2017-10-02,3025-03-27
+2582,YUAN,WAN,10/2/2017,40930 Fairmont Ter,shuichen17@gmail.com,3025-03-27 00:00:00,"WAN, YUAN",Fremont,4052306385,PAS FREMONT APR 051425.csv,True,False,2017-10-02,3025-03-27
+2583,Selena,Zhao,8/28/2012 0:00,"1531 quail Dr, Mipitas, CA, 95035",shuijing7870@gmail.com,10/1/2023 0:00,"Zhao, Selena",Milpitas,9257898247,PAS MIL APR 052324.csv,True,False,2012-08-28,2023-10-01
+2584,Allen,Yu,2014-06-26 00:00:00,"48974wood grove common, Fremont 94539",si1004126666@gmail.com,2023-06-01 00:00:00,"Yu, Allen",Fremont,6692518555,PAS FREMONT AUG 091923.csv,True,False,2014-06-26,2023-06-01
+2585,Angie,yu,2011-09-20 00:00:00,"48974wood grove common, Fremont 94539",si1004126666@gmail.com,2023-06-01 00:00:00,"yu, Angie",Fremont,6692518555,PAS FREMONT AUG 091923.csv,True,False,2011-09-20,2023-06-01
+2586,Vihaan,Reddy,12/6/2020 0:00,555 Folsom Cir,sidramareddyr@gmail.com,9/2/2025 0:00,"Reddy, Vihaan",Milpitas,,PAS MIL DEC 011225.csv,True,False,2020-12-06,2025-09-02
+2587,Brielle,Alvarez,2014-01-17 00:00:00,321 Washington Dr. Milpitas,siolemus@yahoo.com,2020-08-16 00:00:00,"Alvarez, Brielle",Milpitas,4084218174,Report PAS NOV 121120.csv,True,False,2014-01-17,2020-08-16
+2588,Aiden,Lin,3/3/2014 0:00,"494 Dixon Rd, Milpitas, CA",sisy627@gmail.com,2/1/2023 0:00,"Lin, Aiden",Milpitas,4086096820,PAS MIL APR 051425.csv,True,False,2014-03-03,2023-02-01
+2589,ChinMayi,Krishnakumar,4/15/2010,"433 Singley Drive, Milpitas, CA 95035",skiku98@gmail.com,9/4/2018,"Krishnakumar, ChinMayi",Milpitas,408-7721437,Report PAS APR 050719.csv,True,False,2010-04-15,2018-09-04
+2590,Jocelyn,Ly,5/11/2009,628 Manzano St.Milpitas,skiku98@gmail.com,1/1/2019,"Ly, Jocelyn",Milpitas,408-3942074,Report PAS DEC 011119.csv,True,False,2009-05-11,2019-01-01
+2591,Narayan,Krishnakumar,1/10/2012,"433 Singley Drive, Milpitas, CA 95035",skiku98@gmail.com,9/4/2018,"Krishnakumar, Narayan",Milpitas,408-7721437,Report PAS APR 050719.csv,True,False,2012-01-10,2018-09-04
+2592,Tyler,Ly,6/11/2012,628 Manzano St.Milpitas,skiku98@gmail.com,1/1/2019,"Ly, Tyler",Milpitas,408-3942074,Report PAS DEC 011119.csv,True,False,2012-06-11,2019-01-01
+2593,Vera,Loui,8/24/2009,"505 Topham Ct. Milpitas, CA 95035",skiku98@gmail.com,2019-01-01 00:00:00,"Loui, Vera",Milpitas,408-8346209,Report PAS APR 051220.csv,True,False,2009-08-24,2019-01-01
+2594,Alice,Zhao,2016-01-18 00:00:00,211 Buskirk St,smileqing@gmail.com,2023-11-01 00:00:00,"Zhao, Alice",Fremont,9258603355,PAS FREMONT APR 052324.csv,True,False,2016-01-18,2023-11-01
+2595,Amy,Xiao,2011-04-02 00:00:00,251 Lippert Ave， Fremont,sminyao@gmail.com,2023-06-05 00:00:00,"Xiao, Amy",Fremont,7605507063,PAS FREMONT AUG 091923.csv,True,False,2011-04-02,2023-06-05
+2596,Andrew,Xiao,2016-02-25 00:00:00,251 Lippert Ave， Fremont,sminyao@gmail.com,2023-06-05 00:00:00,"Xiao, Andrew",Fremont,7605507063,PAS FREMONT AUG 091923.csv,True,False,2016-02-25,2023-06-05
+2597,Aayra,Kothari,6/1/2019 0:00,"914 Berryessa St, Milpitas, CA 95035",sonamks126@gmail.com,11/1/2024 0:00,"Kothari, Aayra",Milpitas,,PAS MIL APR 051425.csv,True,False,2019-06-01,2024-11-01
+2598,Hsieh,Melody,2019-01-01 00:00:00,51 ESMERELDA FALLS TERRACE,songjinglan@hotmail.com,2025-06-02 00:00:00,"Melody, Hsieh",Fremont,4158287529,PAS FREMONT JUNE 072225.csv,True,False,2019-01-01,2025-06-02
+2601,Melody,Hsieh,2019-01-01 00:00:00,51 ESMERELDA FALLS TERRACE,songjinglan@hotmail.com,2025-06-02 00:00:00,"Hsieh, Melody",Fremont,4158287529,PAS FREMONT AUG 091325.csv,True,False,2019-01-01,2025-06-02
+2602,Alex,Song,3/18/2012 0:00,1083 Courtland Avenue,songlongtj@yahoo.com,10/16/2024 0:00,"Song, Alex",Milpitas,,PAS MIL APR 051425.csv,True,False,2012-03-18,2024-10-16
+2603,Emily,Song,1/28/2014 0:00,1083 Courtland Avenue,songlongtj@yahoo.com,10/16/2024 0:00,"Song, Emily",Milpitas,,PAS MIL APR 051425.csv,True,False,2014-01-28,2024-10-16
+2604,Ezar,Virani,2021-02-18 00:00:00,48867 Sauvignon Ct Fremont CA  94539,sonia.12t@gmail.com,2025-01-01 00:00:00,"Virani, Ezar",Fremont,6503056008,PAS FREMONT APR 051425.csv,True,False,2021-02-18,2025-01-01
+2605,Suraj,Kamath,2015-05-04 00:00:00,"1810 Dennis ave, Milpitas, CA, 95035",sonis9580@gmail.com,2023-10-09 00:00:00,"Kamath, Suraj",Milpitas,4088591620,PAS MIL DEC 011723.csv,True,False,2015-05-04,2023-10-09
+2569,Alexander,Chu,2009-01-14 00:00:00,"350 Carnegie Drive, Milpitas, CA 95035",shiamofly@gmail.com,2018-10-18 00:00:00,"Chu, Alexander",Milpitas,16504830611,Report PAS APR 050719.csv,False,False,2009-01-14,2018-10-18
+2599,Lawrence,Hsieh,2018-01-20 00:00:00,"50 ESMERELDA FALLS TERRACE, Fremont, CA",songjinglan@hotmail.com,2024-01-08 00:00:00,"Hsieh, Lawrence",Fremont,4158287529,PAS FREMONT APR 051425.csv,True,True,2018-01-20,2024-01-08
+2606,Jessica,Mai,11/10/2005,"975 Vidalarga, Milpitas, CA 95035",sonphung2@yahoo.com,3/12/2018,"Mai, Jessica",Milpitas,4088900316,Report PAS APR 050719.csv,True,False,2005-11-10,2018-03-12
+2607,Kyle,Nguyen,3/21/2012,"126 Poppy Ct, Milpitas, CA 95035",sonphung2@yahoo.com,8/1/2023 0:00,"Nguyen, Kyle",Milpitas,408-859-7251,PAS MIL APR 052324.csv,True,False,2012-03-21,2023-08-01
+2608,Elliott,Poon,2013-10-25 00:00:00,3508 innovation way unit 201,soomeo@gmail.com,2023-11-02 00:00:00,"Poon, Elliott",Fremont,6503838201,PAS FREMONT APR 052324.csv,True,False,2013-10-25,2023-11-02
+2609,BingYue,Hu,2009-11-07 00:00:00,"1306 Nestwood Way, Milpitas",sqxie68@gmail.com,2023-03-07 00:00:00,"Hu, BingYue",Milpitas,5105176886,Report PAS APR 051923.csv,True,False,2009-11-07,2023-03-07
+2610,Spruha,Karnam,2019-11-27 00:00:00,3819 improvement ter,sree.2k@gmail.com,2025-07-01 00:00:00,"Karnam, Spruha",Fremont,9195345417,PAS FREMONT AUG 091325.csv,True,False,2019-11-27,2025-07-01
+2611,Pramiti,Keloth,2012-06-08 00:00:00,"1775 Milmont Dr, 0-107",sreejavikram@gmail.com,2019-09-03 00:00:00,"Keloth, Pramiti",Milpitas,5106746800,Report PAS DEC 011119.csv,True,False,2012-06-08,2019-09-03
+2612,Sanvi,Keloth,2014-11-05 00:00:00,"1775 Milmont Dr, 0-107",sreejavikram@gmail.com,2019-09-03 00:00:00,"Keloth, Sanvi",Milpitas,5106746800,Report PAS DEC 011119.csv,True,False,2014-11-05,2019-09-03
+2613,Udayan,Victor,2013-09-05 00:00:00,"2286 Lynwood Terrace, Milpitas, CA 95035",sreekalas@gmail.com,2019-08-16 00:00:00,"Victor, Udayan",Milpitas,(609)651-5182,Report PAS AUG 090719.csv,True,False,2013-09-05,2019-08-16
+2614,Varsha,Victor,2010-09-15 00:00:00,"2286 Lynwood Terrace, Milpitas, CA 95035",sreekalas@gmail.com,2019-08-16 00:00:00,"Victor, Varsha",Milpitas,(609)651-5182,Report PAS AUG 090719.csv,True,False,2010-09-15,2019-08-16
+2615,Surapujita,Seerla,2010-11-12 00:00:00,"180 Selwyn Dr, #1, Milpitas, CA 95035",srijaniy@gmail.com,2019-08-21 00:00:00,"Seerla, Surapujita",Milpitas,4086133805,Report PAS AUG 090719.csv,True,False,2010-11-12,2019-08-21
+2616,Surarchita,Seerla,2007-02-02 00:00:00,"180 Selwyn Dr, #1, Milpitas, CA 95035",srijaniy@gmail.com,2019-08-21 00:00:00,"Seerla, Surarchita",Milpitas,4086133805,Report PAS AUG 090719.csv,True,False,2007-02-02,2019-08-21
+2617,Hashvik,Prabhu,2014-06-01 00:00:00,1775 Milmont Drive,srprabhu08@gmail.com,2022-03-01 00:00:00,"Prabhu, Hashvik",Milpitas,9493027553,PAS MIL AUG 092023.csv,True,False,2014-06-01,2022-03-01
+2618,Yuviksha,PRABHU YAMUNA,44014,3301 Innovation Way,srprabhu08@gmail.com,2025-12-01 00:00:00,"PRABHU YAMUNA, Yuviksha",Fremont,6693018187,PAS FREMONT DEC 011223.csv,True,False,2020-07-02,2025-12-01
+2619,Brandon,Mi,2012-06-14 00:00:00,"39201 red hawk terrace, A207 ,fremont ,CA 94538",stephaniewmi@yahoo.com,2021-01-18 00:00:00,"Mi, Brandon",Milpitas,4086200151,Report PAS APR 051221.csv,True,False,2012-06-14,2021-01-18
+2620,Krish,Karthik,4/17/2017,3715 broadcast common，Fremont,suchitra.pv@gmail.com,11/1/2024,"Karthik, Krish",Fremont,5102989555,PAS FREMONT APR 051425.csv,True,False,2017-04-17,2024-11-01
+2621,Shagun,Rajvaidya,2019-05-01 00:00:00,230 Acoma WayFremontCA94539,sudhanshur@gmail.com,2025-08-19 00:00:00,"Rajvaidya, Shagun",Fremont,4088934895,PAS FREMONT AUG 091325.csv,True,False,2019-05-01,2025-08-19
+2622,Vihaan,Rajvaidya,2015-11-18 00:00:00,230 Acoma WayFremontCA94539,sudhanshur@gmail.com,2025-08-19 00:00:00,"Rajvaidya, Vihaan",Fremont,4088934895,PAS FREMONT AUG 091325.csv,True,False,2015-11-18,2025-08-19
+2623,Aanya,Pasupuleti,2015-10-02 00:00:00,4738 wadsworth ct,sumanth.pleti@gmail.com,2023-11-01 00:00:00,"Pasupuleti, Aanya",Fremont,4256334423,PAS FREMONT APR 052324.csv,True,False,2015-10-02,2023-11-01
+2624,Jain,Reya,2019-05-29 00:00:00,"389 Starlite Way, Fremont, CA ",sumitj@gmail.com,2025-07-23 00:00:00,"Reya, Jain",Fremont,5107177557,PAS FREMONT AUG 091325.csv,True,False,2019-05-29,2025-07-23
+2625,Nihal,Vellanki,2012-01-19 00:00:00,"1774 widen ct ,San Jose ,CA 95132",sun.nitha@gmail.com,2020-07-01 00:00:00,"Vellanki, Nihal",Milpitas,4088194170,Report PAS JUL 081620.csv,True,False,2012-01-19,2020-07-01
+2627,Roger,Han,2013-02-03 00:00:00,"1540 Sun Ln, San Jose",sunnyruby@gmail.com,2020-08-24 00:00:00,"Han, Roger",Milpitas,650-387-3889,Report PAS APR 051221.csv,True,False,2013-02-03,2020-08-24
+2628,Ruby,Han,2009-07-20 00:00:00,"1540 Sun Ln, San Jose",sunnyruby@gmail.com,2020-08-24 00:00:00,"Han, Ruby",Milpitas,650-387-3889,Report PAS APR 051221.csv,True,False,2009-07-20,2020-08-24
+2629,KeertiSri,SureshKumar,12/8/2013,37327 Lantana Cmn,suresh.ucce@gmail.com,06/02/2024,"SureshKumar, KeertiSri",Fremont,6028204006,PAS FREMONT AUG 090424.csv,True,False,2013-12-08,2024-06-02
+2630,Shlok,Marreboyina,5/30/2014 0:00,"Milpitas, CA ",suresh81@gmail.com,10/16/2024 0:00,"Marreboyina, Shlok",Milpitas,,PAS MIL APR 051425.csv,True,False,2014-05-30,2024-10-16
+2631,Winona,Tam,2012-06-29 00:00:00,201 Goldenrain Ave,susanna011216@yahoo.com,2021-11-16 00:00:00,"Tam, Winona",Milpitas,9168657621,Report PAS DEC-21 011121.csv,True,False,2012-06-29,2021-11-16
+2632,Ridhaan,Buchanolla,2/2/2020 0:00,1607 Hidden Creek Ln,svkred64@gmail.com,9/16/2025 0:00,"Buchanolla, Ridhaan",Milpitas,,PAS MIL SEPT 102725.csv,True,False,2020-02-02,2025-09-16
+2633,Ridhaan,Buchanolla Reddy,2/2/2020 0:00,1607 Hidden Creek Ln,svkred64@gmail.com,9/16/2025 0:00,"Buchanolla Reddy, Ridhaan",Milpitas,,PAS MIL NOV 121625.csv,True,False,2020-02-02,2025-09-16
+2634,Ridhaan,Reddy,2/2/2020 0:00,1607 Hidden Creek Ln,svkred64@gmail.com,9/16/2025 0:00,"Reddy, Ridhaan",Milpitas,,PAS MIL DEC 011225.csv,True,False,2020-02-02,2025-09-16
+2635,Tapas,Upamanyu,2012-01-17 00:00:00,"2669 shadowvale way, San Jose CA",swapna.m.5678@gmail.com,2021-08-19 00:00:00,"Upamanyu, Tapas",Milpitas,7133014935,Report PAS APR 051222.csv,True,False,2012-01-17,2021-08-19
+2636,Tejas,Upamanyu,2012-01-17 00:00:00,"2669 shadowvale way, San Jose CA",swapna.m.5678@gmail.com,2021-08-19 00:00:00,"Upamanyu, Tejas",Milpitas,7133014935,Report PAS APR 051222.csv,True,False,2012-01-17,2021-08-19
+2637,Juhi,Biswas,2015-08-20 00:00:00,"2010 verbena ct, Fremont, CA, 94539",swati.aggarwal1@gmail.com,2023-09-05 00:00:00,"Biswas, Juhi",Fremont,(925)-6232456,PAS FREMONT DEC 011720.csv,True,False,2015-08-20,2023-09-05
+2638,Jaylyn,Wong,2008-10-31 00:00:00,48966 Lady Fern Cmn,sweekar.seah@gmail.com,2022-06-16 00:00:00,"Wong, Jaylyn",Milpitas,4252138383,Report PAS AUG 091522.csv,True,False,2008-10-31,2022-06-16
+2639,Rhys,Wang,10/14/2019 0:00,1186 Claridad Loop,sweetsunnyxi@gmail.com,10/20/2025 0:00,"Wang, Rhys",Milpitas,,PAS MIL DEC 011225.csv,True,False,2019-10-14,2025-10-20
+2640,Suhan,Ivaturi,2018-10-05 00:00:00,49017 Wedge Grass Terrace,swethaivaturi05@gmail.com,2025-09-16 00:00:00,"Ivaturi, Suhan",Fremont,408-613-3466,PAS FREMONT DEC 011223.csv,True,False,2018-10-05,2025-09-16
+2641,Brandon,Wong,2013-08-15 00:00:00,"249 Midwick Dr, Milpitas, CA, 95035",swtjemz@gmail.com,2023-02-02 00:00:00,"Wong, Brandon",Milpitas,408-421-9959,PAS MIL AUG 092023.csv,True,False,2013-08-15,2023-02-02
+2642,Sophia,Wong,2012-02-01 00:00:00,"249 Midwick Dr, Milpitas, CA, 95035",swtjemz@gmail.com,2023-03-03 00:00:00,"Wong, Sophia",Milpitas,408-421-9959,PAS MIL AUG 092023.csv,True,False,2012-02-01,2023-03-03
+2643,Benjamin,Huang,2006-03-25 00:00:00,170 Pontiac Way Fremont CA 94539,szhang3@gmail.com,43346,"Huang, Benjamin",Milpitas,510-4493797,Report PAS APR 050719.csv,True,False,2006-03-25,2018-09-03
+2644,Christopher,Huang,2009-06-28 00:00:00,170 Pontiac Way Fremont CA 94539,szhang3@gmail.com,2018-09-03 00:00:00,"Huang, Christopher",Milpitas,510-4493797,Report PAS APR 050719.csv,True,False,2009-06-28,2018-09-03
+2645,Emily,Huang,2021-01-01 00:00:00,"123 ,Fremont ,CA 94539",taipingyoung@gmail.com,2020-06-19 00:00:00,"Huang, Emily",Milpitas,4085005969,Report PAS JUL 081620.csv,True,False,2021-01-01,2020-06-19
+2647,Bella,Chen,2009-02-14 00:00:00,49019 Woodgrove Cmn,tanabeusa@yahoo.com,2021-12-01 00:00:00,"Chen, Bella",Milpitas,5107883613,PAS MIL AUG 092023.csv,True,False,2009-02-14,2021-12-01
+2648,Hana,Chen,2013-08-28 00:00:00,"49019 Woodgrove Cmn, Fremont, CA, 94539",tanabeusa@yahoo.com,2023-09-20 00:00:00,"Chen, Hana",Fremont,5107883613,PAS FREMONT APR 052324.csv,True,False,2013-08-28,2023-09-20
+2649,Xinyan,Tang,2014-05-06 00:00:00,39230 Sundale Dr,tangj6784@gmail.com,2025-09-01 00:00:00,"Tang, Xinyan",Fremont,3413561987,PAS FREMONT DEC 011223.csv,True,False,2014-05-06,2025-09-01
+2650,Yixing,Tang,2018-09-12 00:00:00,39230 Sundale Dr,tangj6784@gmail.com,2025-09-01 00:00:00,"Tang, Yixing",Fremont,3413561987,PAS FREMONT DEC 011223.csv,True,False,2018-09-12,2025-09-01
+2651,Yixuan,Tang,2012-12-02 00:00:00,39230 Sundale Dr,tangj6784@gmail.com,2025-09-01 00:00:00,"Tang, Yixuan",Fremont,3413561987,PAS FREMONT DEC 011223.csv,True,False,2012-12-02,2025-09-01
+2652,Richa,Padhi,2015-06-27 00:00:00,"	309 Horsetail Fern Cmn, Fremont, CA 94539",tanmay.padhi@gmail.com,2023-10-16 00:00:00,"Padhi, Richa",Fremont,4085948203,PAS FREMONT APR 052324.csv,True,False,2015-06-27,2023-10-16
+2653,Cindy,Xu,2018-08-23 00:00:00,4092 Central Ave Fremont Ca 94536,taozi5963527@outlook.com,2025-04-19 00:00:00,"Xu, Cindy",Fremont,5105574675,PAS FREMONT APR 051425.csv,True,False,2018-08-23,2025-04-19
+2654,Leo,Xu,2016-09-07 00:00:00,4093 Central Ave Fremont Ca 94536,taozi5963527@outlook.com,2025-04-19 00:00:00,"Xu, Leo",Fremont,5105574675,PAS FREMONT APR 051425.csv,True,False,2016-09-07,2025-04-19
+2656,Aiden,Wong,2014-04-16 00:00:00,"40291 Cottage Rose Ter, , Fremont, CA",tawita@yahoo.com,2023-08-21 00:00:00,"Wong, Aiden",Fremont,5102828122,PAS FREMONT APR 052324.csv,True,False,2014-04-16,2023-08-21
+2657,Jordan,Do,2011-11-29 00:00:00,1338 Mt. Shasta ,tcambridge6307@gmail.com,2018-11-01 00:00:00,"Do, Jordan",Milpitas,408-4800093,Report PAS DEC 010718.csv,True,False,2011-11-29,2018-11-01
+2658,Justin,Do,2008-05-09 00:00:00,1338 Mt. Shasta ,tcambridge6307@gmail.com,2018-11-01 00:00:00,"Do, Justin",Milpitas,408-4800093,Report PAS DEC 010718.csv,True,False,2008-05-09,2018-11-01
+2659,Ramya,Sreepada,2014-01-28 00:00:00,"1338 Mt. Shasta, Milpitas, CA 95035",tcambridge6307@gmail.com,2019-08-01 00:00:00,"Sreepada, Ramya",Milpitas,408-4800093,Report PAS AUG 090719.csv,True,False,2014-01-28,2019-08-01
+2662,Teh,Dayjon,2/23/2016 0:00,1327 chewpon ave,tehseonghong@yahoo.com,10/1/2024 0:00,"Dayjon, Teh",Milpitas,,PAS MIL OCT 112524.csv,True,False,2016-02-23,2024-10-01
+2663,Yansu,Chen,2015-02-12 00:00:00,45060 Synergy st,tengyh1989@gmail.com,2025-09-17 00:00:00,"Chen, Yansu",Fremont,5109803448,PAS FREMONT DEC 011223.csv,True,False,2015-02-12,2025-09-17
+2664,Julia,Le,8/30/2013 0:00,258 marylinn Dr apt4,thangle_vn78@yahoo.com,8/1/2024 0:00,"Le, Julia",Milpitas,4083342322,PAS MIL APR 051425.csv,True,False,2013-08-30,2024-08-01
+2665,Justin,Le,2/23/2016 0:00,258 marylinn Dr apt4,thangle_vn78@yahoo.com,2/3/2025 0:00,"Le, Justin",Milpitas,,PAS MIL APR 051425.csv,True,False,2016-02-23,2025-02-03
+2666,Ellie,Nguyen,6/22/2017 0:00,"2713 Hostetter Road, San Jose, CA, 95132",thanhthuy80@hotmail.com,8/1/2023 0:00,"Nguyen, Ellie",Milpitas,510-220-5518,PAS MIL APR 051425.csv,True,False,2017-06-22,2023-08-01
+2667,Kenneth,Nguyen,7/25/2013 0:00,"2713 Hostetter Road, San Jose",thanhthuy80@hotmail.com,12/19/2022 0:00,"Nguyen, Kenneth",Milpitas,510-220-5518,PAS MIL APR 051425.csv,True,False,2013-07-25,2022-12-19
+2668,Leah,Tran,6/5/2012,"190 Orion Ct., Milpitas, CA, 95035",thaohuongnguyen7@gmail.com,1/22/2018,"Tran, Leah",Milpitas,6268985588,Report PAS APR 050719.csv,True,False,2012-06-05,2018-01-22
+2669,Leo,Tran,4/8/2009,"190 Orion Ct., Milpitas, CA, 95035",thaohuongnguyen7@gmail.com,1/22/2018,"Tran, Leo",Milpitas,6268985588,Report PAS APR 050719.csv,True,False,2009-04-08,2018-01-22
+2670,Teresa,Xing,1/1/2012,"Milpitas, CA 95035",tianyun0728@gmail.com,11/1/2019,"Xing, Teresa",Milpitas,4089166618,Report PAS APR 051220.csv,True,False,2012-01-01,2019-11-01
+2671,Xing,Teresa,1/1/2012,"Milpitas, CA 95035",tianyun0728@gmail.com,11/1/2019,"Teresa, Xing",Milpitas,4089166618,Report PAS DEC 011119.csv,True,False,2012-01-01,2019-11-01
+2672,Isabella,Wu,2012-12-17 00:00:00,,tiffanychant@gmail.com,2020-09-01 00:00:00,"Wu, Isabella",Milpitas,408-3065699,Report PAS APR 051221.csv,True,False,2012-12-17,2020-09-01
+2676,Jason,Ng,2009-08-05 00:00:00,1835 Vegas ave,tmulijati@yahoo.com,2022-09-01 00:00:00,"Ng, Jason",Milpitas,4082047249,Report PAS DEC 011822.csv,True,False,2009-08-05,2022-09-01
+2677,NADIYAH,WU,6/26/2018,"2628 carlo scimeca Ct,",today042209@gmail.com,6/2/2024,"WU, NADIYAH",Milpitas,,PAS MIL APR 051425.csv,True,False,2018-06-26,2024-06-02
+2678,Catherine,Nguyen,8/15/2015 0:00,"501 Mulphy Ranch Rd 461, Milpitas, 95035",tommynguyen91@gmail.com,8/1/2023 0:00,"Nguyen, Catherine",Milpitas,650-773-4182,PAS MIL APR 051425.csv,True,False,2015-08-15,2023-08-01
+2679,Ramya,Sreepada,2014-01-28 00:00:00,"1338 Mt. Shasta, Milpitas, CA 95035",tommynguyen91@gmail.com,2020-02-16 00:00:00,"Sreepada, Ramya",Milpitas,408-4800093,Report PAS APR 051220.csv,True,False,2014-01-28,2020-02-16
+2680,Surarchita,Seerla,2007-02-02 00:00:00,"180 Selwyn Dr, #1, Milpitas, CA 95035",tommynguyen91@gmail.com,2019-08-21 00:00:00,"Seerla, Surarchita",Milpitas,4086133805,Report PAS APR 051220.csv,True,False,2007-02-02,2019-08-21
+2681,Timothy,Nguyen,9/14/2009 0:00,"501 Mulphy Ranch Rd 461, Milpitas, 95035",tommynguyen91@gmail.com,11/1/2022 0:00,"Nguyen, Timothy",Milpitas,650-773-4182,PAS MIL APR 051425.csv,True,False,2009-09-14,2022-11-01
+2682,Vincent,Nguyen,8/15/2015 0:00,"501 Mulphy Ranch Rd 461, Milpitas, 95035",tommynguyen91@gmail.com,5/1/2022 0:00,"Nguyen, Vincent",Milpitas,650-773-4182,PAS MIL APR 051425.csv,True,False,2015-08-15,2022-05-01
+2683,Ashley,Qu,2013-01-15 00:00:00,"41496 Timber Creek Ter， Fremont, CA",tony.f.qu@gmail.com,2023-06-05 00:00:00,"Qu, Ashley",Milpitas,9497355219,PAS MIL AUG 092023.csv,True,False,2013-01-15,2023-06-05
+2684,Zoey,Qu,2016-07-25 00:00:00,"41496 Timber Creek Ter， Fremont, CA",tony.f.qu@gmail.com,2023-06-05 00:00:00,"Qu, Zoey",Milpitas,9497355219,PAS MIL AUG 092023.csv,True,False,2016-07-25,2023-06-05
+2685,Callum,Wong,2014-02-14 00:00:00,"883 videll st ,san lorendro ,CA 94580",tracylxh51@163.com,2020-06-19 00:00:00,"Wong, Callum",Milpitas,5102061849,Report PAS APR 051221.csv,True,False,2014-02-14,2020-06-19
+2686,Irene,Ha,2016-02-02 00:00:00,440 Dixon Landing Road,tran.tran.thbt@gmail.com,2022-09-01 00:00:00,"Ha, Irene",Milpitas,4088029653,Report PAS APR 051923.csv,True,False,2016-02-02,2022-09-01
+2687,Sofia,Dao,6/15/2017 0:00,"588 Carlsbad st, Milpitas, CA",truonganvi83@gmail.com,1/19/2024 0:00,"Dao, Sofia",Milpitas,5109998899,PAS MIL APR 052324.csv,True,False,2017-06-15,2024-01-19
+2655,Leo2,Xu,2016-09-07 00:00:00,4093 Central Ave Fremont Ca 94536,taozi5963527@outlook.com,2025-04-19 00:00:00,"Xu, Leo2",Fremont,5105574675,PAS FREMONT DEC 011223.csv,False,False,2016-09-07,2025-04-19
+2674,Jeffrey,Du,2015-09-30 00:00:00,"2190 Cuesta Dr, Milpitas CA",tingnaxu1120@gmail.com,2024-09-01 00:00:00,"Du, Jeffrey",Fremont,3472777326,PAS FREMONT APR 051425.csv,False,True,2015-09-30,2024-09-01
+2675,Terina,Du,2018-11-27 00:00:00,"2190 Cuesta Dr, Milpitas, CA, 95035",tingnaxu1120@gmail.com,2024-09-01 00:00:00,"Du, Terina",Fremont,3472777326,PAS FREMONT APR 051425.csv,True,True,2018-11-27,2024-09-01
+2692,Winona,Tam,2012-06-29 00:00:00,201 Goldenrain Ave,tw0624@yahoo.com,2022-06-20 00:00:00,"Tam, Winona",Milpitas,5103388874,Report PAS APR 051923.csv,True,False,2012-06-29,2022-06-20
+2693,Dominic,Ulpindo,2007-09-26 00:00:00,856 Pheland Ct. Milpitas CA 95035,ulpindofamily@gmail.com,2018-09-03 00:00:00,"Ulpindo, Dominic",Milpitas,408-7999473,Report PAS APR 050719.csv,True,False,2007-09-26,2018-09-03
+2695,Rinu,Nair,2006-06-04 00:00:00,"49013 Feather Grass Terrace, Fremont, CA ",usa.anu@gmail.com,2018-10-18 00:00:00,"Nair, Rinu",Milpitas,510-9458530,Report PAS DEC 010718.csv,True,False,2006-06-04,2018-10-18
+2696,ChinMayi,Krishnakumar,2010-04-15 00:00:00,"433 Singley Drive, Milpitas, CA 95035",ushuihui@gmail.com,2019-08-19 00:00:00,"Krishnakumar, ChinMayi",Milpitas,408-7721437,Report PAS DEC 011119.csv,True,False,2010-04-15,2019-08-19
+2697,Jay,Huang,2011-12-09 00:00:00,"1207 Summerwind Way, milpitas, CA 95035",ushuihui@gmail.com,2019-08-18 00:00:00,"Huang, Jay",Milpitas,408-712-8721,Report PAS AUG 090719.csv,True,False,2011-12-09,2019-08-18
+2699,Suhaas,Vaddiraju,2011-01-23 00:00:00,49062 Tickle Grass Terr,vaddirajs@yahoo.com,2022-06-20 00:00:00,"Vaddiraju, Suhaas",Milpitas,3473220327,Report PAS AUG 091522.csv,True,False,2011-01-23,2022-06-20
+2700,Krishank,Patil,4/5/2018,375 Starlite WayFremontCA94539,vaishali.khatale@gmail.com,8/20/2024,"Patil, Krishank",Fremont,4088390577,PAS FREMONT APR 051425.csv,True,False,2018-04-05,2024-08-20
+2701,Aria,Bhatti,6/12/2014,48016 leontine ctFremontCA94539,vaishali221@gmail.com,7/23/2024,"Bhatti, Aria",Fremont,4027071083,PAS FREMONT APR 051425.csv,True,False,2014-06-12,2024-07-23
+2702,Atul,Valiyaveetil,2009-03-10 00:00:00,"1775 Milmont #P206, Milpitas, CA",valiyave@gmail.com,2018-08-02 00:00:00,"Valiyaveetil, Atul",Milpitas,5103246085,Report PAS APR 050719.csv,True,False,2009-03-10,2018-08-02
+2703,Lee,Abigail,2018-05-29 00:00:00,46180 Sentinel Drive,vannguy+pel@gmail.com,2025-06-21 00:00:00,"Abigail, Lee",Fremont,5103033485,PAS FREMONT AUG 091325.csv,True,False,2018-05-29,2025-06-21
+2704,Lee,Adalynn,2015-11-12 00:00:00,46182 Sentinel Drive,vannguy+pel@gmail.com,2025-06-21 00:00:00,"Adalynn, Lee",Fremont,5103033485,PAS FREMONT AUG 091325.csv,True,False,2015-11-12,2025-06-21
+2705,Mikayla,Kevin,8/30/2016 0:00,1231 N Hillview Dr,varghese.kevin@gmail.com,8/18/2025 0:00,"Kevin, Mikayla",Milpitas,,PAS MIL AUG 091325.csv,True,False,2016-08-30,2025-08-18
+2706,Nikshitha,Vasantha,2012-11-15 00:00:00,"1610 Adams Ave#4, Milpitas, CA",vasantha.pj@gmail.com,2018-10-10 00:00:00,"Vasantha, Nikshitha",Milpitas,408-4201336,Report PAS APR 050719.csv,True,False,2012-11-15,2018-10-10
+2707,Nikshitha,Vivekananth,11/15/2012,1610 Adams Ave#4,vasantha.pj@gmail.com,6/18/2024,"Vivekananth, Nikshitha",Milpitas,,PAS MIL APR 051425.csv,True,False,2012-11-15,2024-06-18
+2708,Nittesh,Vivekananth,11/15/2012,1610 Adams Ave#4,vasantha.pj@gmail.com,6/18/2024,"Vivekananth, Nittesh",Milpitas,408-4201336,PAS MIL APR 051425.csv,True,False,2012-11-15,2024-06-18
+2709,Ishika,Dutt,2/7/2014 0:00,"396 stulman dr, Milpitas",vdimple1326@gmail.com,9/27/2023 0:00,"Dutt, Ishika",Milpitas,4089213041,PAS MIL APR 052324.csv,True,False,2014-02-07,2023-09-27
+2710,Haricharan,Ragala,4/21/2018 0:00,"1287 Nieves Ct Milpitas, CA, 95035",venkateshragala@gmail.com,12/5/2024 0:00,"Ragala, Haricharan",Milpitas,,PAS MIL APR 051425.csv,True,False,2018-04-21,2024-12-05
+2712,Hrisha,Gandhi,2014-06-02 00:00:00,"Milpitas, CA 95035",vgandhi.us@gmail.com,2019-09-10 00:00:00,"Gandhi, Hrisha",Milpitas,4084208238,Report PAS NOV 121519.csv,True,False,2014-06-02,2019-09-10
+2713,Vihana,Gandhi,2012-05-21 00:00:00,"Milpitas, CA 95035",vgandhi.us@gmail.com,2019-09-10 00:00:00,"Gandhi, Vihana",Milpitas,4084208238,Report PAS NOV 121519.csv,True,False,2012-05-21,2019-09-10
+2714,Alexander,Wong,2014-08-19 00:00:00,"300 Camphor Ave ,Fremont ,CA 94539",vicki_lu@hotmail.com,2020-06-08 00:00:00,"Wong, Alexander",Milpitas,5103863740,Report PAS APR 051221.csv,True,False,2014-08-19,2020-06-08
+2715,Dylan,Wong,2010-11-10 00:00:00,"300 Camphor Ave ,Fremont ,CA 94539",vicki_lu@hotmail.com,2020-06-08 00:00:00,"Wong, Dylan",Milpitas,5103863740,Report PAS APR 051221.csv,True,False,2010-11-10,2020-06-08
+2716,Wong,Dylan,2010-11-10 00:00:00,"300 Camphor Ave, FREMONT",vicki_lu@hotmail.com,2019-06-17 00:00:00,"Dylan, Wong",Milpitas,5103863740,Report PAS AUG 090719.csv,True,False,2010-11-10,2019-06-17
+2717,Ian,Chen,2021-01-01 00:00:00,473 Craycroft DrFremontCA94539,victor_chen82@yahoo.com,2025-08-12 00:00:00,"Chen, Ian",Fremont,2177211536,PAS FREMONT AUG 091325.csv,True,False,2021-01-01,2025-08-12
+2718,Kaylee,Chen,11/25/2017,473 Craycroft DrFremontCA94539,victor_chen82@yahoo.com,8/16/2024,"Chen, Kaylee",Fremont,2177211536,PAS FREMONT APR 051425.csv,True,False,2017-11-25,2024-08-16
+2719,Ryan,Chen,2021-01-01 00:00:00,473 Craycroft DrFremontCA94539,victor_chen82@yahoo.com,2025-08-12 00:00:00,"Chen, Ryan",Fremont,2177211536,PAS FREMONT AUG 091325.csv,True,False,2021-01-01,2025-08-12
+2720,Jayden,Belmontes,2017-10-11 00:00:00,552 Bradley Ave,viennamlai@gmail.com,2022-09-17 00:00:00,"Belmontes, Jayden",Milpitas,3604507456,Report PAS DEC 011822.csv,True,False,2017-10-11,2022-09-17
+2721,Reyansh,Patel,11/14/2020 0:00,"25 HEATH ST, Milpitas",vimu.patel@gmail.com,5/26/2025 0:00,"Patel, Reyansh",Milpitas,,PAS MIL AUG 091325.csv,True,False,2020-11-14,2025-05-26
+2722,Maahi,Mehta,2018-05-25 00:00:00,362 sequim cmn,viralmeh@gmail.com,2025-10-01 00:00:00,"Mehta, Maahi",Fremont,8458253485,PAS FREMONT DEC 011223.csv,True,False,2018-05-25,2025-10-01
+2723,Ishani,Narem,3/11/2014 0:00,1252 Belbrook Way,vishalsuthar@yahoo.com,2/3/2025 0:00,"Narem, Ishani",Milpitas,,PAS MIL APR 051425.csv,True,False,2014-03-11,2025-02-03
+2724,Vivaan,Chandra,6/23/2017,3465 Inspiration Way #205,vishsan06@gmail.com,12/10/2024,"Chandra, Vivaan",Fremont,5623488522,PAS FREMONT APR 051425.csv,True,False,2017-06-23,2024-12-10
+2725,Singh,Vivaan,2018-08-25 00:00:00,47613 MARDIS STREET,vishwajit.kumaratsf@yahoo.com,2025-06-01 00:00:00,"Vivaan, Singh",Fremont,4084062657,PAS FREMONT AUG 091325.csv,True,False,2018-08-25,2025-06-01
+2726,Nikshitha,Vivekananth,11/15/2012 0:00,1610 ADAMS AVENUE,vivekananthp@gmail.com,9/2/2024 0:00,"Vivekananth, Nikshitha",Milpitas,,PAS MIL APR 051425.csv,True,False,2012-11-15,2024-09-02
+2727,Nittesh,Vivekananth,11/15/2012 0:00,1610 ADAMS AVENUE,vivekananthp@gmail.com,9/2/2024 0:00,"Vivekananth, Nittesh",Milpitas,,PAS MIL APR 051425.csv,True,False,2012-11-15,2024-09-02
+2728,Aidan,Au,10/1/2007 0:00,1612 Hidden Creek Ln.,vivianali@gmail.com,6/16/2021 0:00,"Au, Aidan",Milpitas,4154253822,Report PAS AUG 092021.csv,True,False,2007-10-01,2021-06-16
+2729,Chloe,Nguyen,11/1/2007,"126 Poppy Ct, Milpitas, CA 95035",vivianpalace@alo.com,8/1/2017,"Nguyen, Chloe",Milpitas,408-859-7251,Report PAS APR 050719.csv,True,False,2007-11-01,2017-08-01
+2730,Eesha,Sreepada,2010-06-06 00:00:00,"1103 Hermina Street, Milpitas, CA",vivianpalace@alo.com,2019-08-01 00:00:00,"Sreepada, Eesha",Milpitas,408-4800093,Report PAS APR 051220.csv,True,False,2010-06-06,2019-08-01
+2698,Sahasra,Vaddiraju,4/4/2017,49062 Tickle Grass TerrFremontCA94539,vaddirajs@yahoo.com,8/19/2024,"Vaddiraju, Sahasra",Fremont,3473220327,PAS FREMONT APR 051425.csv,True,True,2017-04-04,2024-08-19
+2711,Radhika,Ragala,6/24/2015 0:00,"1287 Nieves Ct Milpitas, CA, 95035",venkateshragala@gmail.com,12/5/2024 0:00,"Ragala, Radhika",Milpitas,,PAS MIL APR 051425.csv,True,False,2015-06-24,2024-12-05
+2690,Shaurya,Malviya,2012-12-07 00:00:00,"1289 Elkwood Drive, Milpitas, CA 95035",tunnelin@yahoo.com,2019-08-16 00:00:00,"Malviya, Shaurya",Milpitas,408-6804761,Report PAS APR 051220.csv,False,False,2012-12-07,2019-08-16
+2734,Wynn,Shu,2007-01-31 00:00:00,"48967 Air Fern Common, Fremont, CA",vshu555@yahoo.com,2019-02-01 00:00:00,"Shu, Wynn",Milpitas,408-6730285,Report PAS APR 050719.csv,True,False,2007-01-31,2019-02-01
+2735,Khoa,Vu,8/5/2011 0:00,2600 Senter Rd 254,vuquangthinh1978@gmail.com,6/16/2021 0:00,"Vu, Khoa",Milpitas,4088889620,Report PAS AUG 092021.csv,True,False,2011-08-05,2021-06-16
+2737,Justin,Kwan,2010-08-25 00:00:00,"465 Seingley Drive, milpitas, CA 95035",wanglai@gmail.com,2019-08-19 00:00:00,"Kwan, Justin",Milpitas,408-564-3501,Report PAS OCT 110719.csv,True,False,2010-08-25,2019-08-19
+2738,KELLY,CHENG,10/1/2012,2456 Amaryl Dr.,wanglai@gmail.com,6/3/2024,"CHENG, KELLY",Fremont,6506053215,PAS FREMONT JULY 083024.csv,True,False,2012-10-01,2024-06-03
+2739,Narayan,Krishnakumar,2012-01-10 00:00:00,"433 Singley Drive, Milpitas, CA 95035",wanglai@gmail.com,2019-08-19 00:00:00,"Krishnakumar, Narayan",Milpitas,408-7721437,Report PAS DEC 011119.csv,True,False,2012-01-10,2019-08-19
+2740,Sophia,Huang,5/2/2014 0:00,"20029 Austin Ln, Castro Valley, CA 94546",wanglai@gmail.com,6/1/2021 0:00,"Huang, Sophia",Milpitas,650-863-8858,PAS MIL APR 051425.csv,True,False,2014-05-02,2021-06-01
+2742,Erick,Wang,2012-01-12 00:00:00,322 Hiddenlake Dr.,wangyi.ethan@gmail.com,2025-11-01 00:00:00,"Wang, Erick",Fremont,4083290431,PAS FREMONT DEC 011223.csv,True,False,2012-01-12,2025-11-01
+2743,Min,Yang,12/11/2012 0:00,1057 jungfrau ct,wangyong198668@gmail.com,8/17/2022 0:00,"Yang, Min",Milpitas,6268617089,PAS MIL APR 052324.csv,True,False,2012-12-11,2022-08-17
+2744,Ashilee,Li,2014-10-12 00:00:00,"121 WOODCREEK COMMON, FREMONT 94539",wendishi@hotmail.com,2023-06-16 00:00:00,"Li, Ashilee",Fremont,5102921648,PAS FREMONT AUG 091923.csv,True,False,2014-10-12,2023-06-16
+2745,Steven,Wang,2016-04-23 00:00:00,"3922 Borgo Common, Fremont",wendyecho23@gmail.com,2023-09-05 00:00:00,"Wang, Steven",Fremont,6692460021,PAS FREMONT APR 052324.csv,True,False,2016-04-23,2023-09-05
+2746,Steven,Zhang,2016-04-23 00:00:00,"3922 Borgo Common, Fremont",wendyecho23@gmail.com,2023-06-07 00:00:00,"Zhang, Steven",Fremont,6692460021,PAS FREMONT AUG 091923.csv,True,False,2016-04-23,2023-06-07
+2747,Chloe,Wang,2013-03-16 00:00:00,5630 central pkwy,wenwen179505@gmail.com,2023-06-26 00:00:00,"Wang, Chloe",Fremont,469 268 9535,PAS FREMONT APR 051425.csv,True,False,2013-03-16,2023-06-26
+2748,Crystal,Lin,2017-02-10 00:00:00,"2982 Verna Dr, San Jose 95133",wenyechen@yahoo.com,2023-06-16 00:00:00,"Lin, Crystal",Fremont,6692385152,PAS FREMONT AUG 091923.csv,True,False,2017-02-10,2023-06-16
+2749,Jay,Gu,10/14/2011 0:00,"255 Heath St, Milpitas",wenzhougu@yahoo.com,9/28/2023 0:00,"Gu, Jay",Milpitas,4156768789,PAS MIL APR 052324.csv,True,False,2011-10-14,2023-09-28
+2750,Suki,Gu,2008-04-16 00:00:00,"255 Heath St, Milpitas",wenzhougu@yahoo.com,2023-09-28 00:00:00,"Gu, Suki",Milpitas,4156768789,PAS MIL DEC 011723.csv,True,False,2008-04-16,2023-09-28
+2751,OLIVIA,ZHOU,8/20/2013,45897 Bridgeport pl,whil2005@gmail.com,06/03/2024,"ZHOU, OLIVIA",Fremont,5105098478,PAS FREMONT AUG 090424.csv,True,False,2013-08-20,2024-06-03
+2752,Ocean,Deng,2018-04-24 00:00:00,"42567 Newport dr, Fremont, CA, 94538",wile4409@gmail.com,2023-09-09 00:00:00,"Deng, Ocean",Fremont,5103885720,PAS FREMONT APR 052324.csv,True,False,2018-04-24,2023-09-09
+2753,Sky,Deng,2016-09-13 00:00:00,"42567 Newport dr, Fremont, CA, 94538",wile4409@gmail.com,2023-09-09 00:00:00,"Deng, Sky",Fremont,5103885720,PAS FREMONT APR 052324.csv,True,False,2016-09-13,2023-09-09
+2754,Jayden,Lin,2013-01-29 00:00:00,"88 Bates Lu, Milpitas CA",winnieip426@gmail.com,2020-01-22 00:00:00,"Lin, Jayden",Milpitas,4085684998,Report PAS APR 051220.csv,True,False,2013-01-29,2020-01-22
+2755,Braden,Zhu,2019-12-28 00:00:00,"4589 Bianca Drive, Fremont",winnybear@gmail.com,2025-09-01 00:00:00,"Zhu, Braden",Fremont,510-673-8505,PAS FREMONT DEC 011223.csv,True,False,2019-12-28,2025-09-01
+2757,Eduardo,Dominguez,2011-10-05 00:00:00,2275 Stratford Drive,wirelesschief@gmail.com,2022-08-17 00:00:00,"Dominguez, Eduardo",Milpitas,4084769963,Report PAS AUG 091522.csv,True,False,2011-10-05,2022-08-17
+2758,Kristina,Dominguez,2011-11-07 00:00:00,2275 Stratford Drive,wirelesschief@gmail.com,2022-08-17 00:00:00,"Dominguez, Kristina",Milpitas,4084769963,Report PAS AUG 091522.csv,True,False,2011-11-07,2022-08-17
+2759,Marina,Dominguez,2011-10-05 00:00:00,2275 Stratford Drive,wirelesschief@gmail.com,2022-08-17 00:00:00,"Dominguez, Marina",Milpitas,4084769963,Report PAS AUG 091522.csv,True,False,2011-10-05,2022-08-17
+2760,Chao,Raydon,2015-01-03 00:00:00,1884 Travertine Way Union City CA,wmaung07@gmail.com,2025-06-02 00:00:00,"Raydon, Chao",Fremont,5103143231,PAS FREMONT JUNE 072225.csv,True,False,2015-01-03,2025-06-02
+2761,Raydon,Chao,2015-01-03 00:00:00,1884 Travertine Way Union City CA,wmaung07@gmail.com,2025-06-02 00:00:00,"Chao, Raydon",Fremont,5103143231,PAS FREMONT AUG 091325.csv,True,False,2015-01-03,2025-06-02
+2762,Laura,Lao,2017-11-22 00:00:00,"180 Preston Ct, Fremont 94536",woten1978@gmail.com,2023-06-05 00:00:00,"Lao, Laura",Fremont,4152449059,PAS FREMONT AUG 091923.csv,True,False,2017-11-22,2023-06-05
+2763,Avery,Wang,2018-04-20 00:00:00,"48464 Cereus Ct, , Fremont, CA",wtt4477@gmail.com,2023-08-16 00:00:00,"Wang, Avery",Fremont,4089133406,PAS FREMONT APR 052324.csv,True,False,2018-04-20,2023-08-16
+2764,Sharlyn,Jin,2012-06-19 00:00:00,966 Coventry Circle Milpitas CA 95035,wuqingran@aol.com,2018-09-10 00:00:00,"Jin, Sharlyn",Milpitas,925-8609129,Report PAS DEC 010718.csv,True,False,2012-06-19,2018-09-10
+2765,Becky,Zhao,2010-07-05 00:00:00,40924 Cascado PI,wuyijing80@gmail.com,2019-05-06 00:00:00,"Zhao, Becky",Milpitas,6262329231,Report PAS APR 051220.csv,True,False,2010-07-05,2019-05-06
+2766,Jonathan,Zhao,2013-01-28 00:00:00,40924 Cascado PI,wuyijing80@gmail.com,2019-06-01 00:00:00,"Zhao, Jonathan",Milpitas,6262329231,Report PAS APR 051220.csv,True,False,2013-01-28,2019-06-01
+2767,Youran,Zhao,2005-05-08 00:00:00,40924 Cascado PI,wuyijing80@gmail.com,2019-05-06 00:00:00,"Zhao, Youran",Milpitas,6262329231,Report PAS AUG 090719.csv,True,False,2005-05-08,2019-05-06
+2768,Ethan,Bao,2011-12-01 00:00:00,"1362 Westwood Way, Milpitas, CA95035",wxjing2016@gmail.com,2018-08-01 00:00:00,"Bao, Ethan",Milpitas,408-643-9310,Report PAS DEC 010718.csv,True,False,2011-12-01,2018-08-01
+2769,Jonathan,Wang,2017-03-16 00:00:00,"47830 Maya st, , Fremont, CA",xianghonglicpa@gmail.com,2023-08-16 00:00:00,"Wang, Jonathan",Fremont,5103742897,PAS FREMONT APR 052324.csv,True,False,2017-03-16,2023-08-16
+2770,Yaru,Yang,2012-11-01 00:00:00,,xingyi.annie@icloud.com,2021-01-18 00:00:00,"Yang, Yaru",Milpitas,4088361728,Report PAS APR 051221.csv,True,False,2012-11-01,2021-01-18
+2771,Emma,Li,2015-06-29 00:00:00,"3174 fernside Sq ,San Jose ,CA 95132",xinju.li@gmail.com,2020-06-22 00:00:00,"Li, Emma",Milpitas,7342623787,Report PAS JUL 081620.csv,True,False,2015-06-29,2020-06-22
+2772,Ethan,Xin,3/28/2017,47260 Havasu StreetFremontCA94539,xixirain@gmail.com,8/20/2024,"Xin, Ethan",Fremont,4087591928,PAS FREMONT APR 051425.csv,True,False,2017-03-28,2024-08-20
+2732,Reya,Shah,4/27/2012 0:00,"27 Vienna Drive, Milpitas",vivianpalace@alo.com,6/17/2019 0:00,"Shah, Reya",Milpitas,408-4443615,PAS MIL APR 052324.csv,False,False,2012-04-27,2019-06-17
+2741,Andy,Wang,1/12/2016 0:00,322 Hiddenlake Dr.,wangyi.ethan@gmail.com,12/1/2022 0:00,"Wang, Andy",Milpitas,4083290431,PAS MIL APR 052324.csv,True,False,2016-01-12,2022-12-01
+2774,Noah,Su,2016-07-17 00:00:00,"165 Tonopah Drive, Fremont CA 94539",xufeixixi@gmail.com,2023-07-03 00:00:00,"Su, Noah",Fremont,408-8961078,PAS FREMONT APR 052324.csv,True,False,2016-07-17,2023-07-03
+2775,Sarah,Su,2013-01-26 00:00:00,"165 Tonopah Drive, Fremont CA 94539",xufeixixi@gmail.com,2023-07-03 00:00:00,"Su, Sarah",Fremont,408-8961078,PAS FREMONT AUG 091923.csv,True,False,2013-01-26,2023-07-03
+2776,Sissi,xu,2009-02-10 00:00:00,"165 Tonopah Drive, Fremont, CA",xufeixixi@gmail.com,2019-02-01 00:00:00,"xu, Sissi",Milpitas,408-8961078,Report PAS APR 050719.csv,True,False,2009-02-10,2019-02-01
+2777,Cary,Xu,2006-11-24 00:00:00,"216 Buck Ct, Fremont, CA",xullf@yahoo.com,2018-08-06 00:00:00,"Xu, Cary",Milpitas,8328665568,Report PAS DEC 010718.csv,True,False,2006-11-24,2018-08-06
+2778,Joyce,Chen,2012-06-04 00:00:00,"1951 badgerwood Lane, Milpitas, CA",xunkezhang2012@gmail.com,2019-02-01 00:00:00,"Chen, Joyce",Milpitas,408-8361457,Report PAS APR 050719.csv,True,False,2012-06-04,2019-02-01
+2779,Helena,liu,2017-04-21 00:00:00,"455 Tonopah Drive, Fremont",xyanglove@gmail.com,2023-07-03 00:00:00,"liu, Helena",Fremont,5102075030,PAS FREMONT APR 051425.csv,True,False,2017-04-21,2023-07-03
+2780,Jasper,Liu,2019-11-29 00:00:00,"455 Tonopah Drive, Fremont, CA",xyanglove@gmail.com,2024-09-02 00:00:00,"Liu, Jasper",Fremont,5102075030,PAS FREMONT APR 051425.csv,True,False,2019-11-29,2024-09-02
+2781,Jeremy,liu,2015-01-21 00:00:00,"455 Tonopah Drive, Fremont",xyanglove@gmail.com,2023-07-03 00:00:00,"liu, Jeremy",Fremont,5102075030,PAS FREMONT APR 051425.csv,True,False,2015-01-21,2023-07-03
+2782,Deetya,Pradeep,2016-03-15 00:00:00,"4386 Laird circle, Santa Clara, CA, 95054",yal.y2k@gmail.com,2023-02-17 00:00:00,"Pradeep, Deetya",Milpitas,206-802-5164,PAS MIL AUG 092023.csv,True,False,2016-03-15,2023-02-17
+2783,Annabelle,Mao,2014-10-03 00:00:00,1246 Tularcitos Dr,yanan93@gmail.com,2022-06-06 00:00:00,"Mao, Annabelle",Milpitas,408-823-4211,Report PAS JULY 081522.csv,True,False,2014-10-03,2022-06-06
+2784,Leon,Yan,2012-04-10 00:00:00,"246 Krismer st, Milpitas CA",yankunxiang@gmail.com,2019-03-01 00:00:00,"Yan, Leon",Milpitas,408-966-9542,Report PAS APR 050719.csv,True,False,2012-04-10,2019-03-01
+2785,Angela,lu,11/6/2013 0:00,1020 wilsham dr,yating8697@gmail.com,6/4/2021 0:00,"lu, Angela",Milpitas,3035027611,Report PAS AUG 092021.csv,True,False,2013-11-06,2021-06-04
+2786,Ethan,Wang,9/28/2008,"1954 Lindon Ln, Milpitas, CA 95035",ycwang777@yahoo.com,2018-08-16 00:00:00,"Wang, Ethan",Milpitas,408-262-2312,Report PAS APR 050719.csv,True,False,2008-09-28,2018-08-16
+2787,Sahasra,Mudivarthy,8/6/2018 0:00,1663 Tahoe dr,yellamraju.susmita@gmail.com,2/5/2025 0:00,"Mudivarthy, Sahasra",Milpitas,,PAS MIL APR 051425.csv,True,False,2018-08-06,2025-02-05
+2788,Harvey,Huang,12/26/2017,47555 Escondido Falls TerraceFremontCA94539,yichen.jen.wu@gmail.com,8/17/2024,"Huang, Harvey",Fremont,5104566566,PAS FREMONT APR 051425.csv,True,False,2017-12-26,2024-08-17
+2789,XinLiang,Liu,2003-05-06 00:00:00,155 Valmy St,yijunliu1969@gmail.com,2019-09-19 00:00:00,"Liu, XinLiang",Milpitas,4086675285,Report PAS DEC 011119.csv,True,False,2003-05-06,2019-09-19
+2790,Carmen,Hu,7/10/2012,485 Greathouse Drive,ying.8420@foxmail.com,1/6/2019,"Hu, Carmen",Milpitas,408-5208230,Report PAS APR 050719.csv,True,False,2012-07-10,2019-01-06
+2791,Huanlong,Wu,5/29/2006,"155 Carnegie Dr., Milpitas, CA 95035",yingyi8888@yahoo.com,8/17/2017,"Wu, Huanlong",Milpitas,916-517-8026,Report PAS APR 050719.csv,True,False,2006-05-29,2017-08-17
+2792,Yingyi,Wu,8/25/2001,"155 Carnegie Dr., Milpitas, CA 95035",yingyi8888@yahoo.com,2018-08-16 00:00:00,"Wu, Yingyi",Milpitas,916-517-8026,Report PAS APR 050719.csv,True,False,2001-08-25,2018-08-16
+2793,Scarlett,Ngan,2014-08-30 00:00:00,"36371 Magellan Drive, , Fremont, CA",yingzi27@gmail.com,2023-08-21 00:00:00,"Ngan, Scarlett",Fremont,5103587899,PAS FREMONT APR 052324.csv,True,False,2014-08-30,2023-08-21
+2794,Luna,Ma,2016-09-09 00:00:00,"1647 Belleville Way, Sunnyvale 94087",yiningma0909@gmail.com,2023-06-26 00:00:00,"Ma, Luna",Milpitas,6502083557,PAS MIL AUG 092023.csv,True,False,2016-09-09,2023-06-26
+2795,Donald,Shi,11/25/2016 0:00,"373 River Oaks Cir Apt 1410, san jose, CA, 95134",yovnne87@gmail.com,10/16/2023 0:00,"Shi, Donald",Milpitas,6506303836,PAS MIL APR 051425.csv,True,False,2016-11-25,2023-10-16
+2796,Michael,Dai,2011-12-21 00:00:00,433 Donahe place Milpitas CA 95035,yoyocici821@gmail.com,2018-09-10 00:00:00,"Dai, Michael",Milpitas,510-3969340,Report PAS DEC 010718.csv,True,False,2011-12-21,2018-09-10
+2797,Eli,Li,7/3/2020,5431 shattuck aveFremontCA94555,yoyomaidongxi@gmail.com,2024-08-18 00:00:00,"Li, Eli",Fremont,3233374665,PAS FREMONT APR 051425.csv,True,False,2020-07-03,2024-08-18
+2798,Ian,Li,12/5/2017,5431 shattuck aveFremontCA94555,yoyomaidongxi@gmail.com,2024-08-18 00:00:00,"Li, Ian",Fremont,3233374665,PAS FREMONT APR 051425.csv,True,False,2017-12-05,2024-08-18
+2799,Ethan,Ip,6/2/2015 0:00,1918 conifer ct,yoyoxia12@gmail.com,7/1/2023 0:00,"Ip, Ethan",Milpitas,4088027689,PAS MIL APR 052324.csv,True,False,2015-06-02,2023-07-01
+2800,Jinhan,Yin,2/23/2012 0:00,189 Lawton Dr.,ypl6262137236@gmail.com,9/1/2022 0:00,"Yin, Jinhan",Milpitas,6262137236,PAS MIL APR 052324.csv,True,False,2012-02-23,2022-09-01
+2801,Gavin,HUANG,2006-08-30 00:00:00,1396 El Camino Real Unit 108,yuan@aperfectexpress.com,2020-11-01 00:00:00,"HUANG, Gavin",Milpitas,415-819-5426,Report PAS APR 051221.csv,True,False,2006-08-30,2020-11-01
+2802,Katie,Liu,2011-07-24 00:00:00,45220 Parkmeadow w,yuansun@gmail.com,2023-08-16 00:00:00,"Liu, Katie",Fremont,510-366-6707,PAS FREMONT APR 052324.csv,True,False,2011-07-24,2023-08-16
+2803,Yuan,Zhao,7/25/2016 0:00,"184 Manferd St, Milpitas, CA, 95035",yuanzhao1022@gmail.com,8/23/2023 0:00,"Zhao, Yuan",Milpitas,4087805111,PAS MIL APR 051425.csv,True,False,2016-07-25,2023-08-23
+2804,EMMA,LI,9/2/2017,"3048 Creekside Dr, Berryessa,",yunxili303961@gmail.com,6/3/2024,"LI, EMMA",Milpitas,,PAS MIL AUG 091024.csv,True,False,2017-09-02,2024-06-03
+2805,George,Zhang,2011-03-03 00:00:00,"2894 Lousanne Ct., San Jose CA",yuqian_w@hotmail.com,2021-08-22 00:00:00,"Zhang, George",Milpitas,408-2397697,Report PAS APR 051222.csv,True,False,2011-03-03,2021-08-22
+2806,Jonathan,Wilson,2007-04-03 00:00:00,"48890 Green Valley Road, Fremont, CA",yxcliu@gmail.com,2019-02-01 00:00:00,"Wilson, Jonathan",Milpitas,408-9307656,Report PAS APR 050719.csv,True,False,2007-04-03,2019-02-01
+2807,Anna,Yen,2015-06-07 00:00:00,"48950 Tulare Dr, Fremont",yyt_biw@hotmail.com,2024-04-01 00:00:00,"Yen, Anna",Fremont,4087992378,PAS FREMONT APR 052324.csv,True,False,2015-06-07,2024-04-01
+2808,Edwin,Loo,2012-03-04 00:00:00,4250 Stevenson blvd,zar.hlaing@gmail.com,2023-07-03 00:00:00,"Loo, Edwin",Fremont,5105098418,PAS FREMONT AUG 091923.csv,True,False,2012-03-04,2023-07-03
+2809,Ethan,Loo,2010-01-15 00:00:00,4250 Stevenson blvd,zar.hlaing@gmail.com,2023-07-03 00:00:00,"Loo, Ethan",Fremont,5105098418,PAS FREMONT AUG 091923.csv,True,False,2010-01-15,2023-07-03
+2810,Mariam,Bakhtyar,2009-12-23 00:00:00,"1645 Cortez st,Milpitas,CA 95035, Milpitas, CA 95035",zeyais@gmail.com,2019-08-19 00:00:00,"Bakhtyar, Mariam",Milpitas,(408)772-3818,Report PAS APR 051220.csv,True,False,2009-12-23,2019-08-19
+2811,Natalie,Deng,2012-05-11 00:00:00,"1983 Conway St., Milpitas, CA 95035",zeyais@gmail.com,2020-01-06 00:00:00,"Deng, Natalie",Milpitas,4086368305,Report PAS APR 051220.csv,True,False,2012-05-11,2020-01-06
+2813,Claire,Ji,2012-05-05 00:00:00,"47632 Zunic Dr, Fremont",zf426@hotmail.com,2024-01-02 00:00:00,"Ji, Claire",Fremont,5108161486,PAS FREMONT APR 052324.csv,True,False,2012-05-05,2024-01-02
+2814,Evelyn,JI,5/28/09,"261 E.Warren Cmn, Fremont, CA",zf426@hotmail.com,9/1/2019,"JI, Evelyn",Milpitas,(510)-918-9418,Report PAS DEC 011119.csv,True,False,2009-05-28,2019-09-01
+2825,Carson,Yuan,4/30/2015,47522 Fortner StreetFREMONTCA94539,zhoujiewu@gmail.com,8/16/2024,"Yuan, Carson",Fremont,4085076346,PAS FREMONT APR 051425.csv,True,False,2015-04-30,2024-08-16
+2826,Patrick,Yuan,4/30/2015,47522 Fortner StreetFREMONTCA94539,zhoujiewu@gmail.com,2024-08-16 00:00:00,"Yuan, Patrick",Fremont,4085076346,PAS FREMONT APR 051425.csv,True,False,2015-04-30,2024-08-16
+2827,Bryan,Fu,2017-04-03 00:00:00,"306 Bayberry Cmn, Fremont",zhuangqianyan0918@gmail.com,2023-08-21 00:00:00,"Fu, Bryan",Fremont,5109196544,PAS FREMONT APR 052324.csv,True,False,2017-04-03,2023-08-21
+2828,Held,Matthew,2011-04-14 00:00:00,Warm Spring Fremotn Ca 94540,zhuxi@hotmail.com,2025-04-16 00:00:00,"Matthew, Held",Fremont,4084214334,PAS FREMONT APR 051425.csv,True,False,2011-04-14,2025-04-16
+2829,Matthew,Held,2011-04-14 00:00:00,Warm Spring Fremotn Ca 94540,zhuxi@hotmail.com,2025-04-16 00:00:00,"Held, Matthew",Fremont,4084214334,PAS FREMONT AUG 091325.csv,True,False,2011-04-14,2025-04-16
+2830,Michael,Held,2015-12-04 00:00:00,"Warm Spring, Fremont,CA",zhuxi@hotmail.com,2024-09-01 00:00:00,"Held, Michael",Fremont,4084214334,PAS FREMONT APR 051425.csv,True,False,2015-12-04,2024-09-01
+2831,Paisley,Liu,2018-08-04 00:00:00,5626 SNOWFLAKE CMNFremontCA94538,zizizhong@yahoo.com,2025-08-19 00:00:00,"Liu, Paisley",Fremont,5103864479,PAS FREMONT AUG 091325.csv,True,False,2018-08-04,2025-08-19
+2832,Huan,Liang,2014-06-26 00:00:00,"345 Boyd St, Milpitas, CA",zliang@ucsb.edu,3022-03-23 00:00:00,"Liang, Huan",Milpitas,6692043014,Report PAS APR 051222.csv,True,False,2014-06-26,3022-03-23
+2833,Xiao,Liang,2016-02-18 00:00:00,"345 Boyd St, Milpitas, CA",zliang@ucsb.edu,3022-03-23 00:00:00,"Liang, Xiao",Milpitas,6692043014,Report PAS APR 051222.csv,True,False,2016-02-18,3022-03-23
+2834,Ethan,Cai,10/16/2013,136 Gamma Grass terFremontCA94539,zoelulu9898@gmail.com,7/22/2024,"Cai, Ethan",Fremont,5103665279,PAS FREMONT APR 051425.csv,True,False,2013-10-16,2024-07-22
+2688,Aurelian,Lin,7/31/2009,1202 Daniel CT,tunnelin@yahoo.com,6/18/2018,"Lin, Aurelian",Milpitas,510-4680756,Report PAS APR 050719.csv,True,False,2009-07-31,2018-06-18
+1953,Jessica,Mai,11/10/2005,"975 Vidalarga, Milpitas, CA 95035",0,3/12/2018,"Mai, Jessica",Milpitas,4088900316,Report PAS SEPT 101219.csv,False,False,2005-11-10,2018-03-12
+1967,Reya,Shah,4/27/2012,"27 Vienna Drive, Milpitas, CA, 95035",aakarshah@gmail.com,6/1/2024 0:00,"Shah, Reya",Milpitas,408-4443615,PAS MIL APR 051425.csv,True,False,2012-04-27,2024-06-01
+1954,Justin,Kwan,2010-08-25 00:00:00,"465 Seingley Drive, milpitas, CA 95035",0,2019-08-19 00:00:00,"Kwan, Justin",Milpitas,408-564-3501,Report PAS AUG 090719.csv,True,False,2010-08-25,2019-08-19
+1955,Tyler,Ly,6/11/2012,628 Manzano St.Milpitas,0,1/1/2019,"Ly, Tyler",Milpitas,408-3942074,Report PAS DEC 011119.csv,True,False,2012-06-11,2019-01-01
+1956,Shawn,Wu,2/8/2017 0:00,"1015 noble ave, San Jose",1107274921@qq.com,12/1/2023 0:00,"Wu, Shawn",Milpitas,5402468553,PAS MIL APR 052324.csv,True,False,2017-02-08,2023-12-01
+1957,Shaurya,Malviya,2012-12-07 00:00:00,"1289 Elkwood Drive, Milpitas CA",girsimmy@gmail.com,,"Malviya, Shaurya",Milpitas,408-6804761,Report PAS SEPT 101121.csv,False,False,2012-12-07,
+1958,Bingying,Zhang,2014-06-03 00:00:00,"375 Hazen St, Milpitas, CA 95035",461098257@gg.com,2020-01-19 00:00:00,"Zhang, Bingying",Milpitas,4086246532,Report PAS APR 051220.csv,True,False,2014-06-03,2020-01-19
+1959,Xiyi,Feng,9/12/2012 0:00,231 Dixon Landing Rd,691018z@gmail.com,8/16/2023 0:00,"Feng, Xiyi",Milpitas,(408)893-6618,PAS MIL APR 052324.csv,True,False,2012-09-12,2023-08-16
+1960,Junhua (Justin),Liang,2010-01-04 00:00:00,"1983 Conway St, Milpitas, CA",729126561@qq.com,2022-02-01 00:00:00,"Liang, Junhua (Justin)",Milpitas,6692635509,Report PAS APR 051222.csv,True,False,2010-01-04,2022-02-01
+1961,Jiang,Xianzhang,1/26/2010,"2021 Conway Street, MILPITAS",735782789@99.com,7/29/2019,"Xianzhang, Jiang",Milpitas,669-2121187,Report PAS JULY 080719.csv,True,False,2010-01-26,2019-07-29
+1962,Olivia,Lin,7/26/2013,1202 Daniel CT,735782789@99.com,2019-06-01 00:00:00,"Lin, Olivia",Milpitas,510-4680756,Report PAS APR 051220.csv,True,False,2013-07-26,2019-06-01
+1984,Tony,Lou, ,"700 S.Abel St. Unit 424, Milpitas, CA 95035",alou0411@gmail.com,5/1/2018,"Lou, Tony",Milpitas,408-2056256,Report PAS APR 050719.csv,True,False,,2018-05-01
+1989,Ege,Tuncer,10/29/201,339 Arbor Way,amercikoglu@gmail.com,2018-11-01 00:00:00,"Tuncer, Ege",Milpitas,408-6674797,Report PAS APR 050719.csv,True,False,,2018-11-01
+2017,Derrick,Do,,1121 Stardust Way Milpitas CA 95035,bachnhhungdo@hotmail.com,2018-09-01 00:00:00,"Do, Derrick",Milpitas,,Report PAS DEC 010718.csv,True,False,,2018-09-01
+1980,Tanisha,Balamurugan,2014-09-01 00:00:00,"648 Costigan Cir, Milpitas, CA, 95035",alagunirupa@yahoo.com,2023-08-16 00:00:00,"Balamurugan, Tanisha",Milpitas,6502658854,PAS MIL AUG 092023.csv,True,False,2014-09-01,2023-08-16
+2023,Dhruv,Kothapalli,5/11/2019 0:00,1431 Arizona AveMilpitasCA95035,balukothapalli@gmail.com,8/19/2024 0:00,"Kothapalli, Dhruv",Milpitas,,PAS MIL APR 051425.csv,True,False,2019-05-11,2024-08-19
+2063,Adrian,Loh,2011-11-20 00:00:00,"46919 Fernald Common, Fremont, CA ",chingnee23@hotmail.com,2019-03-01 00:00:00,"Loh, Adrian",Milpitas,408-3980707,Report PAS APR 050719.csv,True,False,2011-11-20,2019-03-01
+2104,Vidyuth,Dinesh,9/2/2017 0:00,566 Manzano St,dinesh.in@gmail.com,9/4/2025 0:00,"Dinesh, Vidyuth",Milpitas,,PAS MIL DEC 011225.csv,True,False,2017-09-02,2025-09-04
+2146,Aiden,Chow,7/13/2006,"506 Bristle Grass Ter, Fremont, CA 94539",ginah.kid@gmail.com,2018-08-01 00:00:00,"Chow, Aiden",Milpitas,"510-260-2020, 650-863-1668",Report PAS APR 050719.csv,True,False,2006-07-13,2018-08-01
+2187,PIERRE,NGUYEN,11/10/2015 0:00,"214 krismer st, Milpitas",htn830@gmail.com,4/1/2024 0:00,"NGUYEN, PIERRE",Milpitas,,PAS MIL APR 051425.csv,True,False,2015-11-10,2024-04-01
+2231,Manay,Dutia,12/26/2018,"3848 Advancement Ter, Unit 1000",jinal.jani@gmail.com,2025-02-01 00:00:00,"Dutia, Manay",Fremont,6176765481,PAS FREMONT APR 051425.csv,True,False,2018-12-26,2025-02-01
+2271,Kendrick,Vu,2002-12-19 00:00:00,96 Delta Green Fremont CA 94538,khanhhang96@yahoo.com,2018-09-06 00:00:00,"Vu, Kendrick",Milpitas,(510)-557-3769,Report PAS NOV 120718.csv,True,False,2002-12-19,2018-09-06
+2313,Jason,Wang,2015-04-28 00:00:00,172 Chama Way,linshu8518@gmail.com,2023-08-16 00:00:00,"Wang, Jason",Fremont,732-491-6636,PAS FREMONT APR 052324.csv,True,False,2015-04-28,2023-08-16
+2314,Jason (MTWTh),Wang,2015-04-28 00:00:00,172 Chama Way,linshu8518@gmail.com,2021-11-19 00:00:00,"Wang, Jason (MTWTh)",Milpitas,732-491-6636,Report PAS DEC-21 011121.csv,True,False,2015-04-28,2021-11-19
+2356,Vera,Wang,1/1/2017,251 Bunch Grass TerFremontCA94539,mail.liang.wang@gmail.com,8/1/2024,"Wang, Vera",Fremont,6266790497,PAS FREMONT APR 051425.csv,True,False,2017-01-01,2024-08-01
+2419,Demir,Parlakisik,,"407 Fanyon St, Milpitas, CA, 95035",nan,9/4/2018,"Parlakisik, Demir",Milpitas,4086439734,Report PAS APR 050719.csv,True,False,,2018-09-04
+2422,Janice,Wang,,"77 Duttonwood Lane, Milpitas, CA 95035",nan,7/16/2018,"Wang, Janice",Milpitas,405-290-8673,Report PAS DEC 010718.csv,True,False,,2018-07-16
+2409,Wennie,Liu,4/4/2013 0:00,"2973fallwood ln, San Jose",muyao983@gmail.com,9/18/2025 0:00,"Liu, Wennie",Milpitas,,PAS MIL DEC 011225.csv,True,False,2013-04-04,2025-09-18
+2441,Allison,Wang,10/25/2011 0:00,667 singley dr,nexus652@outlook.com,8/16/2023 0:00,"Wang, Allison",Milpitas,3364303270,PAS MIL APR 052324.csv,True,False,2011-10-25,2023-08-16
+2484,Anna,Le,2/23/2013 0:00,258 Marylinn Dr. Apt 4,phuongn00@yahoo.com,1/2/2024 0:00,"Le, Anna",Milpitas,4086464862,PAS MIL APR 052324.csv,True,False,2013-02-23,2024-01-02
+2560,Tony,Lou, ,"700 S.Abel St. Unit 424, Milpitas, CA 95035",shangeline@yahoo.com,2018-09-05 00:00:00,"Lou, Tony",Milpitas,408-2056256,Report PAS DEC 011119.csv,True,False,,2018-09-05
+2524,Suryansh,Raj,7/1/2016 0:00,74 Washington Square Dr.,rsur2020@gmail.com,1/17/2025 0:00,"Raj, Suryansh",Milpitas,,PAS MIL APR 051425.csv,True,False,2016-07-01,2025-01-17
+2565,Haanish,Sharma,2019-07-03 00:00:00,3229 accelerator avn. Unit 1000,sharma.dipika5@gmail.com,2025-03-17 00:00:00,"Sharma, Haanish",Fremont,4082181523,PAS FREMONT APR 051425.csv,True,False,2019-07-03,2025-03-17
+2566,Myra,Gadkari,6/20/2016 0:00,"616 Hamilton Avenue, Milpitas, CA, 95035",sharmila.dalal@gmail.com,8/19/2024 0:00,"Gadkari, Myra",Milpitas,408-707-6220,PAS MIL APR 051425.csv,True,False,2016-06-20,2024-08-19
+2567,Shanaya,Sharma,2018-12-27 00:00:00,"4075 Michael ave, Fremont, CA, 94538",shashanksharma83@gmail.com,2024-02-01 00:00:00,"Sharma, Shanaya",Fremont,4086803486,PAS FREMONT APR 052324.csv,True,False,2018-12-27,2024-02-01
+2626,Anita,Sun,10/27/2004,"1059 Geronimo, Fremont",sunh19722@gmail.com,1/16/2019,"Sun, Anita",Milpitas,626-2319501,Report PAS APR 050719.csv,True,False,2004-10-27,2019-01-16
+2646,Eric,huang,2010-09-26 00:00:00,"123 ,Fremont ,CA 94539",taipingyoung@gmail.com,2020-07-07 00:00:00,"huang, Eric",Milpitas,4085005969,Report PAS APR 051221.csv,True,False,2010-09-26,2020-07-07
+2691,Srinithya,Mullapudi,8/13/2010,"282 Jorgens Drive, Milpitas",tunnelin@yahoo.com,1/6/2019,"Mullapudi, Srinithya",Milpitas,571-2946019,Report PAS APR 051220.csv,True,False,2010-08-13,2019-01-06
+2731,Kyle,Nguyen,3/21/2012,"126 Poppy Ct, Milpitas, CA 95035",vivianpalace@alo.com,8/1/2017,"Nguyen, Kyle",Milpitas,408-859-7251,Report PAS APR 050719.csv,True,False,2012-03-21,2017-08-01
+2733,ANTHONY,WU,3/24/2010 0:00,"3657 Bloomsbury Way, San Jose,CA 95132",vivianwu98@gmail.com,5/1/2024 0:00,"WU, ANTHONY",Milpitas,,PAS MIL APR 051425.csv,True,False,2010-03-24,2024-05-01
+2773,William,Xin,4/28/2015,47260 Havasu StreetFremontCA94539,xixirain@gmail.com,8/20/2024,"Xin, William",Fremont,4087591928,PAS FREMONT APR 051425.csv,True,False,2015-04-28,2024-08-20
+2815,Ji,Claire,5/5/2012,"261 E.Warren Cmn, Fremont, CA, 95035",zf426@hotmail.com,9/10/2018,"Claire, Ji",Milpitas,(510)-918-9418,Report PAS APR 050719.csv,True,False,2012-05-05,2018-09-10
+2816,Ji,Evelyn,5/28/2009,"261 E.Warren Cmn, Fremont, CA, 95035",zf426@hotmail.com,9/10/2018,"Evelyn, Ji",Milpitas,(510)-918-9418,Report PAS APR 050719.csv,True,False,2009-05-28,2018-09-10
+2817,Sophie,Zhao,12/11/2013,47821 Masters Ct,zhaocnus@gmail.com,11/16/2024,"Zhao, Sophie",Fremont,5107714715,PAS FREMONT APR 051425.csv,True,False,2013-12-11,2024-11-16
+2818,Alexander,Chu,2009-01-14 00:00:00,"350 Carnegie Drive, Milpitas, CA 95035",zhaoyij@gmail.com,2019-08-19 00:00:00,"Chu, Alexander",Milpitas,16504830611,Report PAS APR 051220.csv,True,False,2009-01-14,2019-08-19
+2819,Shen,Alice,2008-08-11 00:00:00,"2258 Cresthaven St, MILPITAS",zhaoyij@gmail.com,2019-06-17 00:00:00,"Alice, Shen",Milpitas,2083401970,Report PAS AUG 090719.csv,True,False,2008-08-11,2019-06-17
+2820,Taluna,Zhang,2013-01-24 00:00:00,"46912 Bodie Ter, Fremont, CA",zhchni@hotmail.com,2023-07-17 00:00:00,"Zhang, Taluna",Fremont,7138395988,PAS FREMONT APR 052324.csv,True,False,2013-01-24,2023-07-17
+2821,Zhang,Taluna,2013-01-24 00:00:00,519 Mayten Way,zhchni@hotmail.com,2025-06-09 00:00:00,"Taluna, Zhang",Fremont,5105054532,PAS FREMONT AUG 091325.csv,True,False,2013-01-24,2025-06-09
+2822,Chengkai (Lucas),Ding,7/8/2010 0:00,75Butero LnMilpitasCA95035,zhending598@gmail.com,8/19/2024 0:00,"Ding, Chengkai (Lucas)",Milpitas,,PAS MIL APR 051425.csv,True,False,2010-07-08,2024-08-19
+2823,Chengze(chris),Ding,1/15/2012 0:00,75Butero LnMilpitasCA95035,zhending598@gmail.com,8/19/2024 0:00,"Ding, Chengze(chris)",Milpitas,,PAS MIL APR 051425.csv,True,False,2012-01-15,2024-08-19
+2824,Kaiwen,Xiao,12/15/2004,"41469 Mellinium Ter, ",zhongming-hu@hotmail.com,2019-02-01 00:00:00,"Xiao, Kaiwen",Milpitas,9258859331,Report PAS APR 050719.csv,True,False,2004-12-15,2019-02-01
+4603,Millina,Luong,2011-01-03 00:00:00,"1877 Camargo Dr, San Jose, CA 95132",,2022-11-01 00:00:00,"Luong, Millina",Milpitas,4085063924,Report PAS APR 051923.csv,True,False,2011-01-03,2022-11-01
+4604,Mirabella,Luong,2017-05-06 00:00:00,"1877 Camargo Dr, San Jose, CA 95132",,2023-03-17 00:00:00,"Luong, Mirabella",Milpitas,4085063924,Report PAS APR 051923.csv,True,False,2017-05-06,2023-03-17
