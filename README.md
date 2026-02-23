@@ -15,6 +15,8 @@ This document is the standard process to load new PAS data into the DB using **i
 Current loader behavior:
 - `pel.students`: insert if `(full_name, email)` does not already exist
 - `pel.progress`: insert if `(full_name, email, subject, progress_date, center)` does not already exist
+- `pel.progress`: if present, `Notes` from CSV is loaded into `pel.progress.notes`
+- `pel.progress`: `student_id` is auto-linked from `pel.students` by `(full_name, email)` after insert
 - `pel.students` date handling for new rows:
   - raw text still goes to `dob_raw` / `enrollment_date_raw`
   - parsed date goes to `dob` / `enrollment_date`
@@ -55,6 +57,9 @@ Rules used in this project:
 - only records from the target month (example: Jan 2026 -> `2026-01-01` in progress)
 - only records not already in DB
 - known name cleanup is applied (example: normalize `Ivaan SInghal` -> `Ivaan Singhal`)
+- header aliases are normalized before combining (for example `DEC Wks. Level/No.` -> `PEL Wks. Level/No.`)
+- any header containing `Wks` + (`Lv`/`Level`) maps to `PEL Wks. Level`
+- any header containing `Wks` + (`#`/`No`) maps to `PEL Wks. No.`
 
 ### Step C: Review before load
 

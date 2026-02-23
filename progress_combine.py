@@ -21,6 +21,21 @@ MONTH_MAP = {
 }
 
 
+def _merge_columns(df: pd.DataFrame, candidates: list[str], target: str) -> pd.DataFrame:
+    if not candidates:
+        return df
+
+    merged = df[candidates[0]].copy()
+    for col in candidates[1:]:
+        merged = merged.combine_first(df[col])
+    df[target] = merged
+
+    for col in candidates:
+        if col != target:
+            df = df.drop(columns=[col], errors="ignore")
+    return df
+
+
 def build_progress(output_folder: str) -> pd.DataFrame:
     rows = []
 
@@ -40,6 +55,35 @@ def build_progress(output_folder: str) -> pd.DataFrame:
             date_match = re.search(r"(\d{2})(\d{2})$", fname.replace(".CSV", ""))
 
             df = pd.read_csv(os.path.join(output_folder, filename))
+            df = df.rename(columns=lambda c: str(c).strip())
+            df = df.rename(
+                columns={
+                    "Subject1 (M/E)": "Subject (M/E)",
+                }
+            )
+
+            def is_level_col(col: str) -> bool:
+                c = str(col).upper()
+                return bool(re.search(r"\bWKS?\b", c)) and ("LEVEL" in c or re.search(r"\bLV\b", c))
+
+            def is_no_col(col: str) -> bool:
+                c = str(col).upper()
+                return bool(re.search(r"\bWKS?\b", c)) and ("NO" in c or "#" in c)
+
+            level_cols = [c for c in df.columns if is_level_col(c)]
+            no_cols = [c for c in df.columns if is_no_col(c)]
+            subject_cols = [c for c in df.columns if c == "Subject (M/E)" or c.startswith("Subject (M/E).")]
+
+            if "PEL Wks. Level" in level_cols:
+                level_cols = ["PEL Wks. Level"] + [c for c in level_cols if c != "PEL Wks. Level"]
+            if "PEL Wks. No." in no_cols:
+                no_cols = ["PEL Wks. No."] + [c for c in no_cols if c != "PEL Wks. No."]
+
+            df = _merge_columns(df, level_cols, "PEL Wks. Level")
+            df = _merge_columns(df, no_cols, "PEL Wks. No.")
+            df = _merge_columns(df, subject_cols, "Subject (M/E)")
+            if "Notes" not in df.columns:
+                df["Notes"] = pd.NA
 
             year = 2000 + int(date_match.group(2))
             file_date = datetime(year, month, 1)
@@ -66,6 +110,7 @@ def build_progress(output_folder: str) -> pd.DataFrame:
                         "Subject (M/E)",
                         "PEL Wks. Level",
                         "PEL Wks. No.",
+                        "Notes",
                         "Date",
                     ]
                 ]
@@ -109,9 +154,9 @@ def main() -> int:
     combined.insert(insert_at, "Full Name", full_name)
 
     worksheets = pd.read_csv("worksheets.csv")
-    level_key = worksheets["PEL Wks. Level"].astype(str).str.strip()
+    level_key = worksheets["PEL Wks. Level"].astype(str).str.strip().str.upper()
     level_to_lvs = pd.Series(worksheets["Lvs Value"].values, index=level_key)
-    combined_levels = combined["PEL Wks. Level"].astype(str).str.strip()
+    combined_levels = combined["PEL Wks. Level"].astype(str).str.strip().str.upper()
     lvs_values = combined_levels.map(level_to_lvs)
     if "lvs" in combined.columns:
         combined = combined.drop(columns=["lvs"])
