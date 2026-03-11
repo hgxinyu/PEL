@@ -30,7 +30,7 @@ def _canonicalize_progress_columns(df: pd.DataFrame) -> pd.DataFrame:
     # Normalize any month/custom header variants like "DEC Wks. Level", "Jan Wks. No.", etc.
     def is_level_col(col: str) -> bool:
         c = str(col).upper()
-        return bool(re.search(r"\bWKS?\b", c)) and ("LEVEL" in c or re.search(r"\bLV\b", c))
+        return bool(re.search(r"\bWKS?\b", c)) and ("LEVEL" in c or bool(re.search(r"\bLV\b", c)))
 
     def is_no_col(col: str) -> bool:
         c = str(col).upper()
